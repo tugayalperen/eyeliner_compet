@@ -16,7 +16,7 @@ MATLAB_ROOT  = /Applications/MATLAB_R2023a.app/toolbox/stateflow/stateflow/../..
 BUILDARGS   = 
 #------------------------------ Include/Lib Path ------------------------------
  
-USER_INCLUDES = -I"/Users/tugaykaraguzel/MATLAB/Projects/examples/tugay_minidrone_v0" -I"/Users/tugaykaraguzel/MATLAB/Projects/examples/tugay_minidrone_v0/controller" 
+USER_INCLUDES = -I"/Users/tugaykaraguzel/MATLAB/Projects/examples" -I"/Users/tugaykaraguzel/MATLAB/Projects/examples/tugay_minidrone_v0/controller" 
 AUX_INCLUDES = 
 MLSLSF_INCLUDES  = \
     -I"/Applications/MATLAB_R2023a.app/extern/include" \
