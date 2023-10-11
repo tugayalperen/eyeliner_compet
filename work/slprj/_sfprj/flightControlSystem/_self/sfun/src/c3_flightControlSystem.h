@@ -9,41 +9,6 @@ typedef struct c3_tag_spGKsvEVm7uA89hv31XX4LH c3_spGKsvEVm7uA89hv31XX4LH;
 
 #endif                                 /* typedef_c3_spGKsvEVm7uA89hv31XX4LH */
 
-#ifndef typedef_c3_sL6LJlPlxhdTxZzXh5NTaQC
-#define typedef_c3_sL6LJlPlxhdTxZzXh5NTaQC
-
-typedef struct c3_tag_sL6LJlPlxhdTxZzXh5NTaQC c3_sL6LJlPlxhdTxZzXh5NTaQC;
-
-#endif                                 /* typedef_c3_sL6LJlPlxhdTxZzXh5NTaQC */
-
-#ifndef typedef_c3_s_uQLN1NcerENJIz4qGmcwwD
-#define typedef_c3_s_uQLN1NcerENJIz4qGmcwwD
-
-typedef struct c3_tag_uQLN1NcerENJIz4qGmcwwD c3_s_uQLN1NcerENJIz4qGmcwwD;
-
-#endif                                 /* typedef_c3_s_uQLN1NcerENJIz4qGmcwwD */
-
-#ifndef typedef_c3_emxArray_real_T_1x20
-#define typedef_c3_emxArray_real_T_1x20
-
-typedef struct c3_emxArray_real_T_1x20 c3_emxArray_real_T_1x20;
-
-#endif                                 /* typedef_c3_emxArray_real_T_1x20 */
-
-#ifndef typedef_c3_emxArray_real_T_19x4
-#define typedef_c3_emxArray_real_T_19x4
-
-typedef struct c3_emxArray_real_T_19x4 c3_emxArray_real_T_19x4;
-
-#endif                                 /* typedef_c3_emxArray_real_T_19x4 */
-
-#ifndef typedef_c3_s_WVIjmaAZoOE6RkudQk1Zu
-#define typedef_c3_s_WVIjmaAZoOE6RkudQk1Zu
-
-typedef struct c3_tag_WVIjmaAZoOE6RkudQk1Zu c3_s_WVIjmaAZoOE6RkudQk1Zu;
-
-#endif                                 /* typedef_c3_s_WVIjmaAZoOE6RkudQk1Zu */
-
 #ifndef typedef_c3_soUZWhv1eRoRKuiKulHsuME
 #define typedef_c3_soUZWhv1eRoRKuiKulHsuME
 
@@ -57,13 +22,6 @@ typedef struct c3_tag_soUZWhv1eRoRKuiKulHsuME c3_soUZWhv1eRoRKuiKulHsuME;
 typedef struct c3_tag_AmmbkuSxsad6GvY3cBS0OF c3_s_AmmbkuSxsad6GvY3cBS0OF;
 
 #endif                                 /* typedef_c3_s_AmmbkuSxsad6GvY3cBS0OF */
-
-#ifndef typedef_c3_s_mNGnJly2Zun29dyJ12DbmE
-#define typedef_c3_s_mNGnJly2Zun29dyJ12DbmE
-
-typedef struct c3_tag_mNGnJly2Zun29dyJ12DbmE c3_s_mNGnJly2Zun29dyJ12DbmE;
-
-#endif                                 /* typedef_c3_s_mNGnJly2Zun29dyJ12DbmE */
 
 #ifndef typedef_c3_s_T6EhWR3BJcuhfEcq70EsyF
 #define typedef_c3_s_T6EhWR3BJcuhfEcq70EsyF
@@ -162,20 +120,6 @@ typedef struct c3_tag_bXQHQ5tMc49lFbz3k7QrBC c3_s_bXQHQ5tMc49lFbz3k7QrBC;
 typedef struct c3_tag_FWAx9YmgCYqLkaFiyAr9e c3_cell_13;
 
 #endif                                 /* typedef_c3_cell_13 */
-
-#ifndef typedef_c3_s_tiFQuw0ZDonsvxQULxkHSF
-#define typedef_c3_s_tiFQuw0ZDonsvxQULxkHSF
-
-typedef struct c3_tag_tiFQuw0ZDonsvxQULxkHSF c3_s_tiFQuw0ZDonsvxQULxkHSF;
-
-#endif                                 /* typedef_c3_s_tiFQuw0ZDonsvxQULxkHSF */
-
-#ifndef typedef_c3_s_iausgUa9Tcm9fmfau0mSIH
-#define typedef_c3_s_iausgUa9Tcm9fmfau0mSIH
-
-typedef struct c3_tag_iausgUa9Tcm9fmfau0mSIH c3_s_iausgUa9Tcm9fmfau0mSIH;
-
-#endif                                 /* typedef_c3_s_iausgUa9Tcm9fmfau0mSIH */
 
 #ifndef typedef_c3_s_tP4ysjhyvuYk36JuHDg8bD
 #define typedef_c3_s_tP4ysjhyvuYk36JuHDg8bD
@@ -322,94 +266,6 @@ typedef struct c3_tag_spGKsvEVm7uA89hv31XX4LH c3_spGKsvEVm7uA89hv31XX4LH;
 
 #endif                                 /* typedef_c3_spGKsvEVm7uA89hv31XX4LH */
 
-#ifndef struct_c3_tag_sL6LJlPlxhdTxZzXh5NTaQC
-#define struct_c3_tag_sL6LJlPlxhdTxZzXh5NTaQC
-
-struct c3_tag_sL6LJlPlxhdTxZzXh5NTaQC
-{
-  int32_T intNumBits;
-};
-
-#endif                                 /* struct_c3_tag_sL6LJlPlxhdTxZzXh5NTaQC */
-
-#ifndef typedef_c3_sL6LJlPlxhdTxZzXh5NTaQC
-#define typedef_c3_sL6LJlPlxhdTxZzXh5NTaQC
-
-typedef struct c3_tag_sL6LJlPlxhdTxZzXh5NTaQC c3_sL6LJlPlxhdTxZzXh5NTaQC;
-
-#endif                                 /* typedef_c3_sL6LJlPlxhdTxZzXh5NTaQC */
-
-#ifndef struct_c3_tag_uQLN1NcerENJIz4qGmcwwD
-#define struct_c3_tag_uQLN1NcerENJIz4qGmcwwD
-
-struct c3_tag_uQLN1NcerENJIz4qGmcwwD
-{
-  const char_T *f1;
-};
-
-#endif                                 /* struct_c3_tag_uQLN1NcerENJIz4qGmcwwD */
-
-#ifndef typedef_c3_s_uQLN1NcerENJIz4qGmcwwD
-#define typedef_c3_s_uQLN1NcerENJIz4qGmcwwD
-
-typedef struct c3_tag_uQLN1NcerENJIz4qGmcwwD c3_s_uQLN1NcerENJIz4qGmcwwD;
-
-#endif                                 /* typedef_c3_s_uQLN1NcerENJIz4qGmcwwD */
-
-#ifndef struct_c3_emxArray_real_T_1x20
-#define struct_c3_emxArray_real_T_1x20
-
-struct c3_emxArray_real_T_1x20
-{
-  real_T data[20];
-  int32_T size[2];
-};
-
-#endif                                 /* struct_c3_emxArray_real_T_1x20 */
-
-#ifndef typedef_c3_emxArray_real_T_1x20
-#define typedef_c3_emxArray_real_T_1x20
-
-typedef struct c3_emxArray_real_T_1x20 c3_emxArray_real_T_1x20;
-
-#endif                                 /* typedef_c3_emxArray_real_T_1x20 */
-
-#ifndef struct_c3_emxArray_real_T_19x4
-#define struct_c3_emxArray_real_T_19x4
-
-struct c3_emxArray_real_T_19x4
-{
-  real_T data[76];
-  int32_T size[2];
-};
-
-#endif                                 /* struct_c3_emxArray_real_T_19x4 */
-
-#ifndef typedef_c3_emxArray_real_T_19x4
-#define typedef_c3_emxArray_real_T_19x4
-
-typedef struct c3_emxArray_real_T_19x4 c3_emxArray_real_T_19x4;
-
-#endif                                 /* typedef_c3_emxArray_real_T_19x4 */
-
-#ifndef struct_c3_tag_WVIjmaAZoOE6RkudQk1Zu
-#define struct_c3_tag_WVIjmaAZoOE6RkudQk1Zu
-
-struct c3_tag_WVIjmaAZoOE6RkudQk1Zu
-{
-  c3_emxArray_real_T_1x20 breaks;
-  c3_emxArray_real_T_19x4 coefs;
-};
-
-#endif                                 /* struct_c3_tag_WVIjmaAZoOE6RkudQk1Zu */
-
-#ifndef typedef_c3_s_WVIjmaAZoOE6RkudQk1Zu
-#define typedef_c3_s_WVIjmaAZoOE6RkudQk1Zu
-
-typedef struct c3_tag_WVIjmaAZoOE6RkudQk1Zu c3_s_WVIjmaAZoOE6RkudQk1Zu;
-
-#endif                                 /* typedef_c3_s_WVIjmaAZoOE6RkudQk1Zu */
-
 #ifndef struct_c3_tag_soUZWhv1eRoRKuiKulHsuME
 #define struct_c3_tag_soUZWhv1eRoRKuiKulHsuME
 
@@ -443,23 +299,6 @@ struct c3_tag_AmmbkuSxsad6GvY3cBS0OF
 typedef struct c3_tag_AmmbkuSxsad6GvY3cBS0OF c3_s_AmmbkuSxsad6GvY3cBS0OF;
 
 #endif                                 /* typedef_c3_s_AmmbkuSxsad6GvY3cBS0OF */
-
-#ifndef struct_c3_tag_mNGnJly2Zun29dyJ12DbmE
-#define struct_c3_tag_mNGnJly2Zun29dyJ12DbmE
-
-struct c3_tag_mNGnJly2Zun29dyJ12DbmE
-{
-  c3_s_uQLN1NcerENJIz4qGmcwwD _data;
-};
-
-#endif                                 /* struct_c3_tag_mNGnJly2Zun29dyJ12DbmE */
-
-#ifndef typedef_c3_s_mNGnJly2Zun29dyJ12DbmE
-#define typedef_c3_s_mNGnJly2Zun29dyJ12DbmE
-
-typedef struct c3_tag_mNGnJly2Zun29dyJ12DbmE c3_s_mNGnJly2Zun29dyJ12DbmE;
-
-#endif                                 /* typedef_c3_s_mNGnJly2Zun29dyJ12DbmE */
 
 #ifndef struct_c3_tag_T6EhWR3BJcuhfEcq70EsyF
 #define struct_c3_tag_T6EhWR3BJcuhfEcq70EsyF
@@ -741,40 +580,6 @@ struct c3_tag_FWAx9YmgCYqLkaFiyAr9e
 typedef struct c3_tag_FWAx9YmgCYqLkaFiyAr9e c3_cell_13;
 
 #endif                                 /* typedef_c3_cell_13 */
-
-#ifndef struct_c3_tag_tiFQuw0ZDonsvxQULxkHSF
-#define struct_c3_tag_tiFQuw0ZDonsvxQULxkHSF
-
-struct c3_tag_tiFQuw0ZDonsvxQULxkHSF
-{
-  char_T Value[5];
-};
-
-#endif                                 /* struct_c3_tag_tiFQuw0ZDonsvxQULxkHSF */
-
-#ifndef typedef_c3_s_tiFQuw0ZDonsvxQULxkHSF
-#define typedef_c3_s_tiFQuw0ZDonsvxQULxkHSF
-
-typedef struct c3_tag_tiFQuw0ZDonsvxQULxkHSF c3_s_tiFQuw0ZDonsvxQULxkHSF;
-
-#endif                                 /* typedef_c3_s_tiFQuw0ZDonsvxQULxkHSF */
-
-#ifndef struct_c3_tag_iausgUa9Tcm9fmfau0mSIH
-#define struct_c3_tag_iausgUa9Tcm9fmfau0mSIH
-
-struct c3_tag_iausgUa9Tcm9fmfau0mSIH
-{
-  char_T Value[6];
-};
-
-#endif                                 /* struct_c3_tag_iausgUa9Tcm9fmfau0mSIH */
-
-#ifndef typedef_c3_s_iausgUa9Tcm9fmfau0mSIH
-#define typedef_c3_s_iausgUa9Tcm9fmfau0mSIH
-
-typedef struct c3_tag_iausgUa9Tcm9fmfau0mSIH c3_s_iausgUa9Tcm9fmfau0mSIH;
-
-#endif                                 /* typedef_c3_s_iausgUa9Tcm9fmfau0mSIH */
 
 #ifndef struct_c3_tag_tP4ysjhyvuYk36JuHDg8bD
 #define struct_c3_tag_tP4ysjhyvuYk36JuHDg8bD
@@ -1084,28 +889,6 @@ typedef struct c3_tag_4dijvwFFQt8JouTajf5bDH c3_s_4dijvwFFQt8JouTajf5bDH;
 
 #endif                                 /* typedef_c3_s_4dijvwFFQt8JouTajf5bDH */
 
-#ifndef typedef_c3_coder_internal_interpolate_interpMethodsEnum
-#define typedef_c3_coder_internal_interpolate_interpMethodsEnum
-
-typedef uint8_T c3_coder_internal_interpolate_interpMethodsEnum;
-
-#endif                                 /* typedef_c3_coder_internal_interpolate_interpMethodsEnum */
-
-#ifndef c3_coder_internal_interpolate_interpMethodsEnum_constants
-#define c3_coder_internal_interpolate_interpMethodsEnum_constants
-
-/* enum c3_coder_internal_interpolate_interpMethodsEnum */
-#define c3_coder_internal_interpolate_interpMethodsEnum_LINEAR ((c3_coder_internal_interpolate_interpMethodsEnum)0U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_NEAREST ((c3_coder_internal_interpolate_interpMethodsEnum)1U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_PREVIOUS ((c3_coder_internal_interpolate_interpMethodsEnum)2U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_NEXT ((c3_coder_internal_interpolate_interpMethodsEnum)3U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_CUBIC ((c3_coder_internal_interpolate_interpMethodsEnum)4U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_SPLINE ((c3_coder_internal_interpolate_interpMethodsEnum)5U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_PCHIP ((c3_coder_internal_interpolate_interpMethodsEnum)6U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_MAKIMA ((c3_coder_internal_interpolate_interpMethodsEnum)7U)
-#define c3_coder_internal_interpolate_interpMethodsEnum_NONE ((c3_coder_internal_interpolate_interpMethodsEnum)8U)
-#endif                                 /* c3_coder_internal_interpolate_interpMethodsEnum_constants */
-
 #ifndef typedef_SFc3_flightControlSystemInstanceStruct
 #define typedef_SFc3_flightControlSystemInstanceStruct
 
@@ -1128,26 +911,14 @@ typedef struct {
   boolean_T c3_hFig_not_empty;
   const mxArray *c3_hAx;
   boolean_T c3_hAx_not_empty;
-  uint32_T c3_method;
-  boolean_T c3_method_not_empty;
-  uint32_T c3_state[2];
-  boolean_T c3_state_not_empty;
-  uint32_T c3_b_method;
-  boolean_T c3_b_method_not_empty;
-  uint32_T c3_b_state;
-  boolean_T c3_b_state_not_empty;
-  uint32_T c3_c_state[2];
-  boolean_T c3_c_state_not_empty;
-  uint32_T c3_d_state[625];
-  boolean_T c3_d_state_not_empty;
   uint32_T c3_mlFcnLineNumber;
-  void *c3_fcnDataPtrs[42];
-  char_T *c3_dataNames[42];
+  void *c3_fcnDataPtrs[36];
+  char_T *c3_dataNames[36];
   uint32_T c3_numFcnVars;
-  uint32_T c3_ssIds[42];
-  uint32_T c3_statuses[42];
-  void *c3_outMexFcns[42];
-  void *c3_inMexFcns[42];
+  uint32_T c3_ssIds[36];
+  uint32_T c3_statuses[36];
+  void *c3_outMexFcns[36];
+  void *c3_inMexFcns[36];
   real_T c3_y[57600];
   real_T c3_yIdx_data[19200];
   real_T c3_xIdx_data[19200];

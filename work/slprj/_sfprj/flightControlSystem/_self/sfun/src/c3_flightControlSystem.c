@@ -66,84 +66,6 @@ static emlrtMCInfo c3_e_emlrtMCI = { 47,/* lineNo */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/allOrAny.m"/* pName */
 };
 
-static emlrtMCInfo c3_f_emlrtMCI = { 158,/* lineNo */
-  17,                                  /* colNo */
-  "eml_rand_mt19937ar",                /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/eml_rand_mt19937ar.m"/* pName */
-};
-
-static emlrtMCInfo c3_g_emlrtMCI = { 26,/* lineNo */
-  23,                                  /* colNo */
-  "pchip",                             /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pName */
-};
-
-static emlrtMCInfo c3_h_emlrtMCI = { 37,/* lineNo */
-  15,                                  /* colNo */
-  "chckxy",                            /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/chckxy.m"/* pName */
-};
-
-static emlrtMCInfo c3_i_emlrtMCI = { 39,/* lineNo */
-  1,                                   /* colNo */
-  "chckxy",                            /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/chckxy.m"/* pName */
-};
-
-static emlrtMCInfo c3_j_emlrtMCI = { 43,/* lineNo */
-  19,                                  /* colNo */
-  "chckxy",                            /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/chckxy.m"/* pName */
-};
-
-static emlrtMCInfo c3_k_emlrtMCI = { 74,/* lineNo */
-  13,                                  /* colNo */
-  "reshapeSizeChecks",                 /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/reshapeSizeChecks.m"/* pName */
-};
-
-static emlrtMCInfo c3_l_emlrtMCI = { 79,/* lineNo */
-  23,                                  /* colNo */
-  "reshapeSizeChecks",                 /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/reshapeSizeChecks.m"/* pName */
-};
-
-static emlrtMCInfo c3_m_emlrtMCI = { 81,/* lineNo */
-  23,                                  /* colNo */
-  "reshapeSizeChecks",                 /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/reshapeSizeChecks.m"/* pName */
-};
-
-static emlrtMCInfo c3_n_emlrtMCI = { 58,/* lineNo */
-  23,                                  /* colNo */
-  "assertValidSizeArg",                /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/assertValidSizeArg.m"/* pName */
-};
-
-static emlrtMCInfo c3_o_emlrtMCI = { 130,/* lineNo */
-  19,                                  /* colNo */
-  "interp1",                           /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pName */
-};
-
-static emlrtMCInfo c3_p_emlrtMCI = { 139,/* lineNo */
-  23,                                  /* colNo */
-  "interp1",                           /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pName */
-};
-
-static emlrtMCInfo c3_q_emlrtMCI = { 166,/* lineNo */
-  13,                                  /* colNo */
-  "interp1",                           /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pName */
-};
-
-static emlrtMCInfo c3_r_emlrtMCI = { 208,/* lineNo */
-  13,                                  /* colNo */
-  "interp1",                           /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pName */
-};
-
 static emlrtRSInfo c3_emlrtRSI = { 77, /* lineNo */
   "bwmorph",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/images/images/eml/bwmorph.m"/* pathName */
@@ -304,12 +226,12 @@ static emlrtRSInfo c3_gb_emlrtRSI = { 105,/* lineNo */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_hb_emlrtRSI = { 308,/* lineNo */
+static emlrtRSInfo c3_hb_emlrtRSI = { 333,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_ib_emlrtRSI = { 316,/* lineNo */
+static emlrtRSInfo c3_ib_emlrtRSI = { 325,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
@@ -319,17 +241,17 @@ static emlrtRSInfo c3_jb_emlrtRSI = { 317,/* lineNo */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_kb_emlrtRSI = { 325,/* lineNo */
+static emlrtRSInfo c3_kb_emlrtRSI = { 316,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_lb_emlrtRSI = { 333,/* lineNo */
+static emlrtRSInfo c3_lb_emlrtRSI = { 308,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_mb_emlrtRSI = { 392,/* lineNo */
+static emlrtRSInfo c3_mb_emlrtRSI = { 427,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
@@ -339,7 +261,7 @@ static emlrtRSInfo c3_nb_emlrtRSI = { 420,/* lineNo */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_ob_emlrtRSI = { 427,/* lineNo */
+static emlrtRSInfo c3_ob_emlrtRSI = { 392,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
@@ -389,283 +311,103 @@ static emlrtRSInfo c3_xb_emlrtRSI = { 530,/* lineNo */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c3_yb_emlrtRSI = { 119,/* lineNo */
-  "randn",                             /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/randn.m"/* pathName */
-};
-
-static emlrtRSInfo c3_ac_emlrtRSI = { 40,/* lineNo */
-  "eml_randn",                         /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/private/eml_randn.m"/* pathName */
-};
-
-static emlrtRSInfo c3_bc_emlrtRSI = { 45,/* lineNo */
-  "eml_rand",                          /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/private/eml_rand.m"/* pathName */
-};
-
-static emlrtRSInfo c3_cc_emlrtRSI = { 39,/* lineNo */
-  "eml_rand_mt19937ar_stateful",       /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/private/eml_rand_mt19937ar_stateful.m"/* pathName */
-};
-
-static emlrtRSInfo c3_dc_emlrtRSI = { 56,/* lineNo */
-  "eml_rand_mt19937ar",                /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/eml_rand_mt19937ar.m"/* pathName */
-};
-
-static emlrtRSInfo c3_ec_emlrtRSI = { 438,/* lineNo */
-  "eml_rand_mt19937ar",                /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/eml_rand_mt19937ar.m"/* pathName */
-};
-
-static emlrtRSInfo c3_fc_emlrtRSI = { 447,/* lineNo */
-  "eml_rand_mt19937ar",                /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/eml_rand_mt19937ar.m"/* pathName */
-};
-
-static emlrtRSInfo c3_gc_emlrtRSI = { 449,/* lineNo */
-  "eml_rand_mt19937ar",                /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/randfun/eml_rand_mt19937ar.m"/* pathName */
-};
-
-static emlrtRSInfo c3_hc_emlrtRSI = { 90,/* lineNo */
-  "pchip",                             /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pathName */
-};
-
-static emlrtRSInfo c3_ic_emlrtRSI = { 70,/* lineNo */
-  "pchip",                             /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pathName */
-};
-
-static emlrtRSInfo c3_jc_emlrtRSI = { 48,/* lineNo */
-  "pchip",                             /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pathName */
-};
-
-static emlrtRSInfo c3_kc_emlrtRSI = { 32,/* lineNo */
-  "pchip",                             /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pathName */
-};
-
-static emlrtRSInfo c3_lc_emlrtRSI = { 15,/* lineNo */
-  "pchip",                             /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pathName */
-};
-
-static emlrtRSInfo c3_mc_emlrtRSI = { 26,/* lineNo */
-  "pwchcore",                          /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/pwchcore.m"/* pathName */
-};
-
-static emlrtRSInfo c3_nc_emlrtRSI = { 44,/* lineNo */
-  "pwchcore",                          /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/pwchcore.m"/* pathName */
-};
-
-static emlrtRSInfo c3_oc_emlrtRSI = { 51,/* lineNo */
-  "reshapeSizeChecks",                 /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/reshapeSizeChecks.m"/* pathName */
-};
-
-static emlrtRSInfo c3_pc_emlrtRSI = { 119,/* lineNo */
-  "reshapeSizeChecks",                 /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/reshapeSizeChecks.m"/* pathName */
-};
-
-static emlrtRSInfo c3_qc_emlrtRSI = { 48,/* lineNo */
-  "string",                            /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/shared/coder/coder/lib/+coder/+internal/string.m"/* pathName */
-};
-
-static emlrtRSInfo c3_rc_emlrtRSI = { 38,/* lineNo */
-  "fprintf",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/iofun/fprintf.m"/* pathName */
-};
-
-static emlrtRSInfo c3_sc_emlrtRSI = { 66,/* lineNo */
-  "fprintf",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/iofun/fprintf.m"/* pathName */
-};
-
-static emlrtRSInfo c3_tc_emlrtRSI = { 49,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_uc_emlrtRSI = { 269,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_vc_emlrtRSI = { 202,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_wc_emlrtRSI = { 194,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_xc_emlrtRSI = { 164,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_yc_emlrtRSI = { 37,/* lineNo */
-  "flip",                              /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/flip.m"/* pathName */
-};
-
-static emlrtRSInfo c3_ad_emlrtRSI = { 457,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_bd_emlrtRSI = { 478,/* lineNo */
-  "interp1",                           /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pathName */
-};
-
-static emlrtRSInfo c3_cd_emlrtRSI = { 14,/* lineNo */
-  "interp1SplineMakimaOrPCHIPcoefs",   /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/shared/coder/coder/+coder/+internal/+interpolate/interp1SplineMakimaOrPCHIPcoefs.m"/* pathName */
-};
-
-static emlrtRSInfo c3_dd_emlrtRSI = { 16,/* lineNo */
-  "interp1SplineMakimaOrPCHIPbody",    /* fcnName */
-  "/Applications/MATLAB_R2023a.app/toolbox/shared/coder/coder/+coder/+internal/+interpolate/interp1SplineMakimaOrPCHIPbody.m"/* pathName */
-};
-
-static emlrtRSInfo c3_ed_emlrtRSI = { 44,/* lineNo */
+static emlrtRSInfo c3_yb_emlrtRSI = { 44,/* lineNo */
   "mpower",                            /* fcnName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/matfun/mpower.m"/* pathName */
 };
 
-static emlrtRSInfo c3_fd_emlrtRSI = { 11,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_ac_emlrtRSI = { 11,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_gd_emlrtRSI = { 14,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_bc_emlrtRSI = { 14,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_hd_emlrtRSI = { 19,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_cc_emlrtRSI = { 19,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_id_emlrtRSI = { 29,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_dc_emlrtRSI = { 29,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_jd_emlrtRSI = { 42,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_ec_emlrtRSI = { 42,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_kd_emlrtRSI = { 43,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_fc_emlrtRSI = { 43,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_ld_emlrtRSI = { 52,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_gc_emlrtRSI = { 52,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_md_emlrtRSI = { 53,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_hc_emlrtRSI = { 53,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_nd_emlrtRSI = { 70,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_ic_emlrtRSI = { 70,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_od_emlrtRSI = { 73,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_jc_emlrtRSI = { 73,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_pd_emlrtRSI = { 74,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_kc_emlrtRSI = { 74,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_qd_emlrtRSI = { 89,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_lc_emlrtRSI = { 88,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_rd_emlrtRSI = { 94,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_mc_emlrtRSI = { 92,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_sd_emlrtRSI = { 95,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_nc_emlrtRSI = { 117,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_td_emlrtRSI = { 105,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_oc_emlrtRSI = { 99,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_ud_emlrtRSI = { 110,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_pc_emlrtRSI = { 101,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_vd_emlrtRSI = { 111,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_qc_emlrtRSI = { 104,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_wd_emlrtRSI = { 115,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_rc_emlrtRSI = { 108,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
-static emlrtRSInfo c3_xd_emlrtRSI = { 132,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
-  "#flightControlSystem:2699"          /* pathName */
-};
-
-static emlrtRSInfo c3_yd_emlrtRSI = { 181,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
-  "#flightControlSystem:2699"          /* pathName */
-};
-
-static emlrtRSInfo c3_ae_emlrtRSI = { 142,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
-  "#flightControlSystem:2699"          /* pathName */
-};
-
-static emlrtRSInfo c3_be_emlrtRSI = { 144,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
-  "#flightControlSystem:2699"          /* pathName */
-};
-
-static emlrtRSInfo c3_ce_emlrtRSI = { 147,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
-  "#flightControlSystem:2699"          /* pathName */
-};
-
-static emlrtRSInfo c3_de_emlrtRSI = { 150,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
-  "#flightControlSystem:2699"          /* pathName */
-};
-
-static emlrtRSInfo c3_ee_emlrtRSI = { 151,/* lineNo */
-  "Image Processing System/new_version",/* fcnName */
+static emlrtRSInfo c3_sc_emlrtRSI = { 107,/* lineNo */
+  "Image Processing System/send_only_points",/* fcnName */
   "#flightControlSystem:2699"          /* pathName */
 };
 
@@ -683,67 +425,67 @@ static emlrtRTEInfo c3_b_emlrtRTEI = { 37,/* lineNo */
 
 static emlrtRTEInfo c3_c_emlrtRTEI = { 32,/* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_d_emlrtRTEI = { 33,/* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_e_emlrtRTEI = { 52,/* lineNo */
   13,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_f_emlrtRTEI = { 52,/* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_g_emlrtRTEI = { 42,/* lineNo */
   30,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_h_emlrtRTEI = { 53,/* lineNo */
   13,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_i_emlrtRTEI = { 42,/* lineNo */
   66,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_j_emlrtRTEI = { 53,/* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_k_emlrtRTEI = { 43,/* lineNo */
   16,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_l_emlrtRTEI = { 70,/* lineNo */
   27,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_m_emlrtRTEI = { 70,/* lineNo */
   54,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
@@ -755,289 +497,223 @@ static emlrtRTEInfo c3_n_emlrtRTEI = { 38,/* lineNo */
 
 static emlrtRTEInfo c3_o_emlrtRTEI = { 74,/* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_p_emlrtRTEI = { 80,/* lineNo */
   37,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_q_emlrtRTEI = { 80,/* lineNo */
   9,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_r_emlrtRTEI = { 81,/* lineNo */
   37,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtRTEInfo c3_s_emlrtRTEI = { 81,/* lineNo */
   9,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
-static emlrtRTEInfo c3_t_emlrtRTEI = { 37,/* lineNo */
+static emlrtRTEInfo c3_t_emlrtRTEI = { 93,/* lineNo */
   5,                                   /* colNo */
-  "sort",                              /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/datafun/sort.m"/* pName */
-};
-
-static emlrtRTEInfo c3_u_emlrtRTEI = { 106,/* lineNo */
-  5,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
-static emlrtRTEInfo c3_v_emlrtRTEI = { 28,/* lineNo */
-  9,                                   /* colNo */
-  "colon",                             /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/ops/colon.m"/* pName */
-};
-
-static emlrtRTEInfo c3_w_emlrtRTEI = { 195,/* lineNo */
+static emlrtRTEInfo c3_u_emlrtRTEI = { 195,/* lineNo */
   24,                                  /* colNo */
   "find",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/find.m"/* pName */
 };
 
-static emlrtRTEInfo c3_x_emlrtRTEI = { 197,/* lineNo */
+static emlrtRTEInfo c3_v_emlrtRTEI = { 197,/* lineNo */
   24,                                  /* colNo */
   "find",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/find.m"/* pName */
 };
 
-static emlrtRTEInfo c3_y_emlrtRTEI = { 253,/* lineNo */
+static emlrtRTEInfo c3_w_emlrtRTEI = { 253,/* lineNo */
   5,                                   /* colNo */
   "find",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/find.m"/* pName */
 };
 
-static emlrtRTEInfo c3_ab_emlrtRTEI = { 254,/* lineNo */
+static emlrtRTEInfo c3_x_emlrtRTEI = { 254,/* lineNo */
   5,                                   /* colNo */
   "find",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/find.m"/* pName */
 };
 
-static emlrtRTEInfo c3_bb_emlrtRTEI = { 71,/* lineNo */
+static emlrtRTEInfo c3_y_emlrtRTEI = { 71,/* lineNo */
   5,                                   /* colNo */
   "power",                             /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/ops/power.m"/* pName */
 };
 
-static emlrtRTEInfo c3_cb_emlrtRTEI = { 1,/* lineNo */
+static emlrtRTEInfo c3_ab_emlrtRTEI = { 1,/* lineNo */
   14,                                  /* colNo */
   "sqrt",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elfun/sqrt.m"/* pName */
 };
 
-static emlrtRTEInfo c3_db_emlrtRTEI = { 1,/* lineNo */
+static emlrtRTEInfo c3_bb_emlrtRTEI = { 1,/* lineNo */
   20,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_eb_emlrtRTEI = { 1,/* lineNo */
+static emlrtRTEInfo c3_cb_emlrtRTEI = { 1,/* lineNo */
   20,                                  /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_fb_emlrtRTEI = { 572,/* lineNo */
+static emlrtRTEInfo c3_db_emlrtRTEI = { 572,/* lineNo */
   20,                                  /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_gb_emlrtRTEI = { 482,/* lineNo */
+static emlrtRTEInfo c3_eb_emlrtRTEI = { 482,/* lineNo */
   32,                                  /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_hb_emlrtRTEI = { 520,/* lineNo */
+static emlrtRTEInfo c3_fb_emlrtRTEI = { 520,/* lineNo */
   32,                                  /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_ib_emlrtRTEI = { 16,/* lineNo */
+static emlrtRTEInfo c3_gb_emlrtRTEI = { 16,/* lineNo */
   9,                                   /* colNo */
   "isinf",                             /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/isinf.m"/* pName */
 };
 
-static emlrtRTEInfo c3_jb_emlrtRTEI = { 16,/* lineNo */
+static emlrtRTEInfo c3_hb_emlrtRTEI = { 16,/* lineNo */
   9,                                   /* colNo */
   "isnan",                             /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elmat/isnan.m"/* pName */
 };
 
-static emlrtRTEInfo c3_kb_emlrtRTEI = { 31,/* lineNo */
-  20,                                  /* colNo */
-  "pchip",                             /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pName */
-};
-
-static emlrtRTEInfo c3_lb_emlrtRTEI = { 46,/* lineNo */
-  22,                                  /* colNo */
-  "pchip",                             /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pName */
-};
-
-static emlrtRTEInfo c3_mb_emlrtRTEI = { 55,/* lineNo */
-  25,                                  /* colNo */
-  "pchip",                             /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/pchip.m"/* pName */
-};
-
-static emlrtRTEInfo c3_nb_emlrtRTEI = { 26,/* lineNo */
-  1,                                   /* colNo */
-  "pwchcore",                          /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/pwchcore.m"/* pName */
-};
-
-static emlrtRTEInfo c3_ob_emlrtRTEI = { 36,/* lineNo */
-  31,                                  /* colNo */
-  "pwchcore",                          /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/pwchcore.m"/* pName */
-};
-
-static emlrtRTEInfo c3_pb_emlrtRTEI = { 49,/* lineNo */
-  49,                                  /* colNo */
-  "interp1",                           /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pName */
-};
-
-static emlrtRTEInfo c3_qb_emlrtRTEI = { 50,/* lineNo */
-  25,                                  /* colNo */
-  "interp1",                           /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/interp1.m"/* pName */
-};
-
-static emlrtRTEInfo c3_rb_emlrtRTEI = { 14,/* lineNo */
-  22,                                  /* colNo */
-  "interp1SplineMakimaOrPCHIPcoefs",   /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/shared/coder/coder/+coder/+internal/+interpolate/interp1SplineMakimaOrPCHIPcoefs.m"/* pName */
-};
-
-static emlrtRTEInfo c3_sb_emlrtRTEI = { 32,/* lineNo */
-  31,                                  /* colNo */
-  "pwchcore",                          /* fName */
-  "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/polyfun/private/pwchcore.m"/* pName */
-};
-
-static emlrtRTEInfo c3_tb_emlrtRTEI = { 12,/* lineNo */
+static emlrtRTEInfo c3_ib_emlrtRTEI = { 12,/* lineNo */
   37,                                  /* colNo */
   "sqrt",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/lib/matlab/elfun/sqrt.m"/* pName */
 };
 
-static emlrtRTEInfo c3_ub_emlrtRTEI = { 30,/* lineNo */
+static emlrtRTEInfo c3_jb_emlrtRTEI = { 30,/* lineNo */
   42,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_vb_emlrtRTEI = { 56,/* lineNo */
+static emlrtRTEInfo c3_kb_emlrtRTEI = { 56,/* lineNo */
   24,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_wb_emlrtRTEI = { 75,/* lineNo */
+static emlrtRTEInfo c3_lb_emlrtRTEI = { 75,/* lineNo */
   26,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_xb_emlrtRTEI = { 76,/* lineNo */
+static emlrtRTEInfo c3_mb_emlrtRTEI = { 76,/* lineNo */
   39,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_yb_emlrtRTEI = { 61,/* lineNo */
+static emlrtRTEInfo c3_nb_emlrtRTEI = { 61,/* lineNo */
   5,                                   /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_ac_emlrtRTEI = { 267,/* lineNo */
+static emlrtRTEInfo c3_ob_emlrtRTEI = { 267,/* lineNo */
   24,                                  /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_bc_emlrtRTEI = { 385,/* lineNo */
+static emlrtRTEInfo c3_pb_emlrtRTEI = { 385,/* lineNo */
   9,                                   /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_cc_emlrtRTEI = { 386,/* lineNo */
+static emlrtRTEInfo c3_qb_emlrtRTEI = { 386,/* lineNo */
   1,                                   /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_dc_emlrtRTEI = { 274,/* lineNo */
+static emlrtRTEInfo c3_rb_emlrtRTEI = { 274,/* lineNo */
   24,                                  /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_ec_emlrtRTEI = { 387,/* lineNo */
+static emlrtRTEInfo c3_sb_emlrtRTEI = { 387,/* lineNo */
   9,                                   /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_fc_emlrtRTEI = { 388,/* lineNo */
+static emlrtRTEInfo c3_tb_emlrtRTEI = { 388,/* lineNo */
   1,                                   /* colNo */
   "sortIdx",                           /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pName */
 };
 
-static emlrtRTEInfo c3_gc_emlrtRTEI = { 87,/* lineNo */
+static emlrtRTEInfo c3_ub_emlrtRTEI = { 87,/* lineNo */
   13,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_hc_emlrtRTEI = { 87,/* lineNo */
+static emlrtRTEInfo c3_vb_emlrtRTEI = { 87,/* lineNo */
   14,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_ic_emlrtRTEI = { 87,/* lineNo */
+static emlrtRTEInfo c3_wb_emlrtRTEI = { 87,/* lineNo */
   19,                                  /* colNo */
   "sort",                              /* fName */
   "/Applications/MATLAB_R2023a.app/toolbox/eml/eml/+coder/+internal/sort.m"/* pName */
 };
 
-static emlrtRTEInfo c3_jc_emlrtRTEI = { 42,/* lineNo */
+static emlrtRTEInfo c3_xb_emlrtRTEI = { 42,/* lineNo */
   29,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
-static emlrtRTEInfo c3_kc_emlrtRTEI = { 42,/* lineNo */
+static emlrtRTEInfo c3_yb_emlrtRTEI = { 42,/* lineNo */
   9,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
-static emlrtRTEInfo c3_lc_emlrtRTEI = { 36,/* lineNo */
+static emlrtRTEInfo c3_ac_emlrtRTEI = { 36,/* lineNo */
   9,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
@@ -1046,14 +722,14 @@ static emlrtBCInfo c3_emlrtBCI = { -1, /* iFirst */
   42,                                  /* lineNo */
   40,                                  /* colNo */
   "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo c3_emlrtDCI = { 42, /* lineNo */
   42,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1063,7 +739,7 @@ static emlrtBCInfo c3_b_emlrtBCI = { -1,/* iFirst */
   42,                                  /* lineNo */
   42,                                  /* colNo */
   "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
@@ -1073,14 +749,14 @@ static emlrtBCInfo c3_c_emlrtBCI = { -1,/* iFirst */
   42,                                  /* lineNo */
   76,                                  /* colNo */
   "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo c3_b_emlrtDCI = { 42,/* lineNo */
   78,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1090,7 +766,7 @@ static emlrtBCInfo c3_d_emlrtBCI = { -1,/* iFirst */
   42,                                  /* lineNo */
   78,                                  /* colNo */
   "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
@@ -1098,7 +774,7 @@ static emlrtBCInfo c3_d_emlrtBCI = { -1,/* iFirst */
 static emlrtECInfo c3_emlrtECI = { 1,  /* nDims */
   42,                                  /* lineNo */
   29,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
@@ -1107,14 +783,14 @@ static emlrtBCInfo c3_e_emlrtBCI = { -1,/* iFirst */
   52,                                  /* lineNo */
   23,                                  /* colNo */
   "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo c3_c_emlrtDCI = { 52,/* lineNo */
   25,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1124,7 +800,7 @@ static emlrtBCInfo c3_f_emlrtBCI = { -1,/* iFirst */
   52,                                  /* lineNo */
   25,                                  /* colNo */
   "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
@@ -1134,14 +810,14 @@ static emlrtBCInfo c3_g_emlrtBCI = { -1,/* iFirst */
   53,                                  /* lineNo */
   23,                                  /* colNo */
   "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo c3_d_emlrtDCI = { 53,/* lineNo */
   25,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1151,7 +827,7 @@ static emlrtBCInfo c3_h_emlrtBCI = { -1,/* iFirst */
   53,                                  /* lineNo */
   25,                                  /* colNo */
   "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
@@ -1159,7 +835,7 @@ static emlrtBCInfo c3_h_emlrtBCI = { -1,/* iFirst */
 static emlrtECInfo c3_b_emlrtECI = { 1,/* nDims */
   70,                                  /* lineNo */
   26,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
@@ -1168,14 +844,14 @@ static emlrtBCInfo c3_i_emlrtBCI = { -1,/* iFirst */
   74,                                  /* lineNo */
   32,                                  /* colNo */
   "sortedIndices",                     /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo c3_e_emlrtDCI = { 74,/* lineNo */
   34,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1185,14 +861,14 @@ static emlrtBCInfo c3_j_emlrtBCI = { -1,/* iFirst */
   74,                                  /* lineNo */
   34,                                  /* colNo */
   "sortedIndices",                     /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo c3_f_emlrtDCI = { 80,/* lineNo */
   11,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1202,7 +878,7 @@ static emlrtBCInfo c3_k_emlrtBCI = { 1,/* iFirst */
   80,                                  /* lineNo */
   11,                                  /* colNo */
   "pointsx",                           /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
@@ -1210,13 +886,13 @@ static emlrtBCInfo c3_k_emlrtBCI = { 1,/* iFirst */
 static emlrtECInfo c3_c_emlrtECI = { -1,/* nDims */
   80,                                  /* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
 static emlrtDCInfo c3_g_emlrtDCI = { 81,/* lineNo */
   11,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
@@ -1226,7 +902,7 @@ static emlrtBCInfo c3_l_emlrtBCI = { 1,/* iFirst */
   81,                                  /* lineNo */
   11,                                  /* colNo */
   "pointsy",                           /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
@@ -1234,685 +910,434 @@ static emlrtBCInfo c3_l_emlrtBCI = { 1,/* iFirst */
 static emlrtECInfo c3_d_emlrtECI = { -1,/* nDims */
   81,                                  /* lineNo */
   1,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
-static emlrtRTEInfo c3_mc_emlrtRTEI = { 93,/* lineNo */
-  13,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtRTEInfo c3_bc_emlrtRTEI = { 114,/* lineNo */
+  9,                                   /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699"          /* pName */
 };
 
-static emlrtBCInfo c3_m_emlrtBCI = { 0,/* iFirst */
-  MAX_int32_T,                         /* iLast */
-  131,                                 /* lineNo */
-  28,                                  /* colNo */
-  "unsorted_validX",                   /* aName */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_h_emlrtDCI = { 121,/* lineNo */
+  26,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
+  1                                    /* checkKind */
 };
 
-static emlrtBCInfo c3_n_emlrtBCI = { 0,/* iFirst */
-  MAX_int32_T,                         /* iLast */
-  132,                                 /* lineNo */
-  25,                                  /* colNo */
-  "unsorted_validX",                   /* aName */
-  "Image Processing System/new_version",/* fName */
+static emlrtBCInfo c3_m_emlrtBCI = { 1,/* iFirst */
+  120,                                 /* iLast */
+  121,                                 /* lineNo */
+  26,                                  /* colNo */
+  "outt",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
+  3                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_h_emlrtDCI = { 169,/* lineNo */
-  18,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_i_emlrtDCI = { 121,/* lineNo */
+  29,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_n_emlrtBCI = { 1,/* iFirst */
+  160,                                 /* iLast */
+  121,                                 /* lineNo */
+  29,                                  /* colNo */
+  "outt",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  3                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_j_emlrtDCI = { 122,/* lineNo */
+  26,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_o_emlrtBCI = { 1,/* iFirst */
   120,                                 /* iLast */
-  169,                                 /* lineNo */
-  18,                                  /* colNo */
+  122,                                 /* lineNo */
+  26,                                  /* colNo */
   "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_i_emlrtDCI = { 169,/* lineNo */
-  21,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_k_emlrtDCI = { 122,/* lineNo */
+  29,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_p_emlrtBCI = { 1,/* iFirst */
   160,                                 /* iLast */
-  169,                                 /* lineNo */
-  21,                                  /* colNo */
+  122,                                 /* lineNo */
+  29,                                  /* colNo */
   "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_j_emlrtDCI = { 170,/* lineNo */
-  18,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_l_emlrtDCI = { 123,/* lineNo */
+  26,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_q_emlrtBCI = { 1,/* iFirst */
   120,                                 /* iLast */
-  170,                                 /* lineNo */
-  18,                                  /* colNo */
+  123,                                 /* lineNo */
+  26,                                  /* colNo */
   "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_k_emlrtDCI = { 170,/* lineNo */
-  21,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_m_emlrtDCI = { 123,/* lineNo */
+  29,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_r_emlrtBCI = { 1,/* iFirst */
   160,                                 /* iLast */
-  170,                                 /* lineNo */
-  21,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_l_emlrtDCI = { 171,/* lineNo */
-  18,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_s_emlrtBCI = { 1,/* iFirst */
-  120,                                 /* iLast */
-  171,                                 /* lineNo */
-  18,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_m_emlrtDCI = { 171,/* lineNo */
-  21,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_t_emlrtBCI = { 1,/* iFirst */
-  160,                                 /* iLast */
-  171,                                 /* lineNo */
-  21,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtRTEInfo c3_nc_emlrtRTEI = { 178,/* lineNo */
-  9,                                   /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699"          /* pName */
-};
-
-static emlrtDCInfo c3_n_emlrtDCI = { 185,/* lineNo */
-  26,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_u_emlrtBCI = { 1,/* iFirst */
-  120,                                 /* iLast */
-  185,                                 /* lineNo */
-  26,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_o_emlrtDCI = { 185,/* lineNo */
-  29,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_v_emlrtBCI = { 1,/* iFirst */
-  160,                                 /* iLast */
-  185,                                 /* lineNo */
+  123,                                 /* lineNo */
   29,                                  /* colNo */
   "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   3                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_p_emlrtDCI = { 186,/* lineNo */
-  26,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_w_emlrtBCI = { 1,/* iFirst */
-  120,                                 /* iLast */
-  186,                                 /* lineNo */
-  26,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_q_emlrtDCI = { 186,/* lineNo */
-  29,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_x_emlrtBCI = { 1,/* iFirst */
-  160,                                 /* iLast */
-  186,                                 /* lineNo */
-  29,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_r_emlrtDCI = { 187,/* lineNo */
-  26,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_y_emlrtBCI = { 1,/* iFirst */
-  120,                                 /* iLast */
-  187,                                 /* lineNo */
-  26,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_s_emlrtDCI = { 187,/* lineNo */
-  29,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_ab_emlrtBCI = { 1,/* iFirst */
-  160,                                 /* iLast */
-  187,                                 /* lineNo */
-  29,                                  /* colNo */
-  "outt",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  3                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_t_emlrtDCI = { 32,/* lineNo */
+static emlrtDCInfo c3_n_emlrtDCI = { 32,/* lineNo */
   19,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   4                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_u_emlrtDCI = { 32,/* lineNo */
+static emlrtDCInfo c3_o_emlrtDCI = { 32,/* lineNo */
   19,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_v_emlrtDCI = { 33,/* lineNo */
+static emlrtDCInfo c3_p_emlrtDCI = { 33,/* lineNo */
   19,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   4                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_w_emlrtDCI = { 33,/* lineNo */
+static emlrtDCInfo c3_q_emlrtDCI = { 33,/* lineNo */
   19,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_s_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  39,                                  /* lineNo */
+  33,                                  /* colNo */
+  "xIdx",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_r_emlrtDCI = { 39,/* lineNo */
+  33,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_t_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  39,                                  /* lineNo */
+  19,                                  /* colNo */
+  "filteredX",                         /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_s_emlrtDCI = { 39,/* lineNo */
+  19,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_u_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  40,                                  /* lineNo */
+  33,                                  /* colNo */
+  "yIdx",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_t_emlrtDCI = { 40,/* lineNo */
+  33,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_v_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  40,                                  /* lineNo */
+  19,                                  /* colNo */
+  "filteredY",                         /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_u_emlrtDCI = { 40,/* lineNo */
+  19,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_w_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  42,                                  /* lineNo */
+  56,                                  /* colNo */
+  "xIdx",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_v_emlrtDCI = { 42,/* lineNo */
+  56,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_x_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  42,                                  /* lineNo */
+  92,                                  /* colNo */
+  "yIdx",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_w_emlrtDCI = { 42,/* lineNo */
+  92,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_y_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  45,                                  /* lineNo */
+  37,                                  /* colNo */
+  "xIdx",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_x_emlrtDCI = { 45,/* lineNo */
+  37,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  1                                    /* checkKind */
+};
+
+static emlrtBCInfo c3_ab_emlrtBCI = { -1,/* iFirst */
+  -1,                                  /* iLast */
+  45,                                  /* lineNo */
+  23,                                  /* colNo */
+  "filteredX",                         /* aName */
+  "Image Processing System/send_only_points",/* fName */
+  "#flightControlSystem:2699",         /* pName */
+  0                                    /* checkKind */
+};
+
+static emlrtDCInfo c3_y_emlrtDCI = { 45,/* lineNo */
+  23,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_bb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  39,                                  /* lineNo */
-  33,                                  /* colNo */
-  "xIdx",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  46,                                  /* lineNo */
+  37,                                  /* colNo */
+  "yIdx",                              /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_x_emlrtDCI = { 39,/* lineNo */
-  33,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_ab_emlrtDCI = { 46,/* lineNo */
+  37,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_cb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  39,                                  /* lineNo */
-  19,                                  /* colNo */
-  "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  46,                                  /* lineNo */
+  23,                                  /* colNo */
+  "filteredY",                         /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_y_emlrtDCI = { 39,/* lineNo */
-  19,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_bb_emlrtDCI = { 46,/* lineNo */
+  23,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_db_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  40,                                  /* lineNo */
-  33,                                  /* colNo */
-  "yIdx",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  80,                                  /* lineNo */
+  47,                                  /* colNo */
+  "filteredX",                         /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_ab_emlrtDCI = { 40,/* lineNo */
-  33,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_cb_emlrtDCI = { 80,/* lineNo */
+  47,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_eb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  40,                                  /* lineNo */
-  19,                                  /* colNo */
+  81,                                  /* lineNo */
+  47,                                  /* colNo */
   "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_bb_emlrtDCI = { 40,/* lineNo */
-  19,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_db_emlrtDCI = { 81,/* lineNo */
+  47,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c3_fb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  42,                                  /* lineNo */
-  56,                                  /* colNo */
-  "xIdx",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+static emlrtBCInfo c3_fb_emlrtBCI = { 0,/* iFirst */
+  19,                                  /* iLast */
+  85,                                  /* lineNo */
+  27,                                  /* colNo */
+  "pointsx",                           /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_cb_emlrtDCI = { 42,/* lineNo */
-  56,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_eb_emlrtDCI = { 85,/* lineNo */
+  27,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
-static emlrtBCInfo c3_gb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  42,                                  /* lineNo */
-  92,                                  /* colNo */
-  "yIdx",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+static emlrtBCInfo c3_gb_emlrtBCI = { 0,/* iFirst */
+  19,                                  /* iLast */
+  86,                                  /* lineNo */
+  27,                                  /* colNo */
+  "pointsy",                           /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_db_emlrtDCI = { 42,/* lineNo */
-  92,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_fb_emlrtDCI = { 86,/* lineNo */
+  27,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_hb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  45,                                  /* lineNo */
-  37,                                  /* colNo */
-  "xIdx",                              /* aName */
-  "Image Processing System/new_version",/* fName */
+  93,                                  /* lineNo */
+  30,                                  /* colNo */
+  "unsorted_validY",                   /* aName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_eb_emlrtDCI = { 45,/* lineNo */
-  37,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_gb_emlrtDCI = { 93,/* lineNo */
+  30,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_ib_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  45,                                  /* lineNo */
-  23,                                  /* colNo */
+  118,                                 /* lineNo */
+  31,                                  /* colNo */
   "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_fb_emlrtDCI = { 45,/* lineNo */
-  23,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+static emlrtDCInfo c3_hb_emlrtDCI = { 118,/* lineNo */
+  31,                                  /* colNo */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo c3_jb_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  46,                                  /* lineNo */
-  37,                                  /* colNo */
-  "yIdx",                              /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_gb_emlrtDCI = { 46,/* lineNo */
-  37,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_kb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  46,                                  /* lineNo */
-  23,                                  /* colNo */
-  "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_hb_emlrtDCI = { 46,/* lineNo */
-  23,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_lb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  80,                                  /* lineNo */
-  47,                                  /* colNo */
-  "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_ib_emlrtDCI = { 80,/* lineNo */
-  47,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_mb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  81,                                  /* lineNo */
-  47,                                  /* colNo */
-  "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_jb_emlrtDCI = { 81,/* lineNo */
-  47,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_nb_emlrtBCI = { 0,/* iFirst */
-  19,                                  /* iLast */
-  85,                                  /* lineNo */
-  27,                                  /* colNo */
-  "pointsx",                           /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_kb_emlrtDCI = { 85,/* lineNo */
-  27,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_ob_emlrtBCI = { 0,/* iFirst */
-  19,                                  /* iLast */
-  86,                                  /* lineNo */
-  27,                                  /* colNo */
-  "pointsy",                           /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_lb_emlrtDCI = { 86,/* lineNo */
-  27,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_pb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  94,                                  /* lineNo */
-  46,                                  /* colNo */
-  "unsorted_validX",                   /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_mb_emlrtDCI = { 94,/* lineNo */
-  46,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_qb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  94,                                  /* lineNo */
-  25,                                  /* colNo */
-  "unsorted_validX",                   /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_nb_emlrtDCI = { 94,/* lineNo */
-  25,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_rb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  95,                                  /* lineNo */
-  46,                                  /* colNo */
-  "unsorted_validY",                   /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_ob_emlrtDCI = { 95,/* lineNo */
-  46,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_sb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  95,                                  /* lineNo */
-  25,                                  /* colNo */
-  "unsorted_validY",                   /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_pb_emlrtDCI = { 95,/* lineNo */
-  25,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_tb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  106,                                 /* lineNo */
-  30,                                  /* colNo */
-  "unsorted_validY",                   /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_qb_emlrtDCI = { 106,/* lineNo */
-  30,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_ub_emlrtBCI = { 1,/* iFirst */
-  200,                                 /* iLast */
-  166,                                 /* lineNo */
-  27,                                  /* colNo */
-  "xValues",                           /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_rb_emlrtDCI = { 166,/* lineNo */
-  27,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_vb_emlrtBCI = { 1,/* iFirst */
-  200,                                 /* iLast */
-  167,                                 /* lineNo */
-  27,                                  /* colNo */
-  "yValues",                           /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_sb_emlrtDCI = { 167,/* lineNo */
-  27,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_wb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  182,                                 /* lineNo */
-  31,                                  /* colNo */
-  "filteredX",                         /* aName */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtDCInfo c3_tb_emlrtDCI = { 182,/* lineNo */
-  31,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
-  "#flightControlSystem:2699",         /* pName */
-  1                                    /* checkKind */
-};
-
-static emlrtBCInfo c3_xb_emlrtBCI = { -1,/* iFirst */
-  -1,                                  /* iLast */
-  183,                                 /* lineNo */
+  119,                                 /* lineNo */
   31,                                  /* colNo */
   "filteredY",                         /* aName */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c3_ub_emlrtDCI = { 183,/* lineNo */
+static emlrtDCInfo c3_ib_emlrtDCI = { 119,/* lineNo */
   31,                                  /* colNo */
-  "Image Processing System/new_version",/* fName */
+  "Image Processing System/send_only_points",/* fName */
   "#flightControlSystem:2699",         /* pName */
   1                                    /* checkKind */
 };
-
-static char_T c3_cv[39] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
-  'b', 'o', 'x', ':', 'r', 'e', 's', 'h', 'a', 'p', 'e', '_', 'e', 'm', 'p', 't',
-  'y', 'R', 'e', 's', 'h', 'a', 'p', 'e', 'L', 'i', 'm', 'i', 't' };
-
-static char_T c3_cv1[40] = { 'C', 'o', 'd', 'e', 'r', ':', 'M', 'A', 'T', 'L',
-  'A', 'B', ':', 'g', 'e', 't', 'R', 'e', 's', 'h', 'a', 'p', 'e', 'D', 'i', 'm',
-  's', '_', 'n', 'o', 't', 'S', 'a', 'm', 'e', 'N', 'u', 'm', 'e', 'l' };
-
-static char_T c3_cv2[36] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'c', 'h', 'c',
-  'k', 'x', 'y', ':', 'N', 'u', 'm', 'S', 'i', 't', 'e', 's', 'M', 'i', 's', 'm',
-  'a', 't', 'c', 'h', 'V', 'a', 'l', 'u', 'e', 's' };
-
-static char_T c3_cv3[28] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
-  'b', 'o', 'x', ':', 'U', 'n', 's', 'u', 'p', 'p', 'o', 'r', 't', 'e', 'd', 'N',
-  'a', 'N' };
-
-static char_T c3_cv4[47] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
-  'b', 'o', 'x', ':', 'M', 'u', 's', 't', 'B', 'e', 'F', 'i', 'n', 'i', 't', 'e',
-  'A', 'n', 'd', 'S', 't', 'r', 'i', 'c', 't', 'l', 'y', 'I', 'n', 'c', 'r', 'e',
-  'a', 's', 'i', 'n', 'g' };
 
 /* Function Declarations */
 static void initialize_c3_flightControlSystem
@@ -2012,59 +1437,24 @@ static void c3_merge(SFc3_flightControlSystemInstanceStruct *chartInstance,
 static void c3_isfinite(SFc3_flightControlSystemInstanceStruct *chartInstance,
   real_T c3_c_x_data[], int32_T c3_x_size[1], boolean_T c3_b_data[], int32_T
   c3_b_size[1]);
-static real_T c3_randn(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp);
-static void c3_genrand_uint32_vector(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, uint32_T c3_mt[625], uint32_T c3_b_mt[625], uint32_T c3_b_u[2]);
-static void c3_genrandu(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp, uint32_T c3_mt[625], uint32_T c3_b_mt[625], real_T
-  *c3_r);
 static void c3_b_sort(SFc3_flightControlSystemInstanceStruct *chartInstance,
                       const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
                       c3_x_size[1], real_T c3_d_x_data[], int32_T c3_b_x_size[1],
                       int32_T c3_idx_data[], int32_T c3_idx_size[1]);
-static void c3_pchip(SFc3_flightControlSystemInstanceStruct *chartInstance,
-                     const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
-                     c3_x_size[1], real_T c3_y_data[], int32_T c3_y_size[1],
-                     c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_v);
-static void c3_computeDimsData(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, real_T c3_varargin_2);
-static void c3_string_disp(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp);
-static void c3_b_string_disp(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp);
-static void c3_linspace(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  real_T c3_d2, real_T c3_b_y[200]);
-static void c3_interp1(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp, real_T c3_varargin_1_data[], int32_T
-  c3_varargin_1_size[2], real_T c3_varargin_2_data[], int32_T
-  c3_varargin_2_size[1], real_T c3_varargin_3[200], real_T c3_Vq[200]);
-static void c3_b_pchip(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T c3_x_size[2], real_T
-  c3_y_data[], int32_T c3_y_size[2], c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_v);
-static int32_T c3_bsearch(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  real_T c3_c_x_data[], int32_T c3_x_size[2], real_T c3_xi);
-static void c3_ppval(SFc3_flightControlSystemInstanceStruct *chartInstance,
-                     c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_pp, real_T c3_x[200], real_T
-                     c3_v[200]);
-static const mxArray *c3_emlrt_marshallOut
-  (SFc3_flightControlSystemInstanceStruct *chartInstance, const
-   c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_b_u);
 static boolean_T c3_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_a__output_of_isempty_, const char_T
   *c3_identifier);
 static boolean_T c3_b_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId);
-static const mxArray *c3_b_emlrt_marshallOut
+static const mxArray *c3_emlrt_marshallOut
   (SFc3_flightControlSystemInstanceStruct *chartInstance, const char_T c3_b_u[6]);
+static const mxArray *c3_b_emlrt_marshallOut
+  (SFc3_flightControlSystemInstanceStruct *chartInstance, const real_T
+   c3_u_data[], const int32_T c3_u_size[1]);
 static const mxArray *c3_c_emlrt_marshallOut
-  (SFc3_flightControlSystemInstanceStruct *chartInstance, const real_T c3_b_u
-   [200]);
-static const mxArray *c3_d_emlrt_marshallOut
   (SFc3_flightControlSystemInstanceStruct *chartInstance, const real_T c3_b_u[4]);
 static real_T c3_c_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_a__output_of_feval_, const char_T
-  *c3_identifier);
+  *chartInstance, const mxArray *c3_b_distX, const char_T *c3_identifier);
 static real_T c3_d_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId);
 static void c3_e_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
@@ -2091,40 +1481,16 @@ static const mxArray *c3_k_emlrt_marshallIn
 static const mxArray *c3_l_emlrt_marshallIn
   (SFc3_flightControlSystemInstanceStruct *chartInstance, const mxArray *c3_b_u,
    boolean_T *c3_svPtr);
-static uint32_T c3_m_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_c_method, const char_T *c3_identifier,
-  boolean_T *c3_svPtr);
-static uint32_T c3_n_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId,
-  boolean_T *c3_svPtr);
-static void c3_o_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_e_state, const char_T *c3_identifier,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[625]);
-static void c3_p_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[625]);
-static void c3_q_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_e_state, const char_T *c3_identifier,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[2]);
-static void c3_r_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[2]);
-static uint8_T c3_s_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
+static uint8_T c3_m_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_b_is_active_c3_flightControlSystem, const
   char_T *c3_identifier);
-static uint8_T c3_t_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
+static uint8_T c3_n_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId);
 static void c3_slStringInitializeDynamicBuffers
   (SFc3_flightControlSystemInstanceStruct *chartInstance);
 static void c3_chart_data_browse_helper(SFc3_flightControlSystemInstanceStruct
   *chartInstance, int32_T c3_ssIdNumber, const mxArray **c3_mxData, uint8_T
   *c3_isValueTooBig);
-static const mxArray *c3_feval(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0, const
-  mxArray *c3_input1, const mxArray *c3_input2, const mxArray *c3_input3);
-static const mxArray *c3_b_feval(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0, const
-  mxArray *c3_input1, const mxArray *c3_input2, const mxArray *c3_input3);
 static const mxArray *c3_figure(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const emlrtStack *c3_sp);
 static const mxArray *c3_isempty(SFc3_flightControlSystemInstanceStruct
@@ -2136,12 +1502,12 @@ static const mxArray *c3_b_isempty(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0);
 static void c3_b_figure(SFc3_flightControlSystemInstanceStruct *chartInstance,
   const emlrtStack *c3_sp, const mxArray *c3_input0);
-static void c3_plot(SFc3_flightControlSystemInstanceStruct *chartInstance, const
-                    emlrtStack *c3_sp, const mxArray *c3_input0, const mxArray
-                    *c3_input1, const mxArray *c3_input2);
 static void c3_axis(SFc3_flightControlSystemInstanceStruct *chartInstance, const
                     emlrtStack *c3_sp, const mxArray *c3_input0, const mxArray
                     *c3_input1);
+static const mxArray *c3_scatter(SFc3_flightControlSystemInstanceStruct
+  *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0, const
+  mxArray *c3_input1);
 static void c3_b_sqrt(SFc3_flightControlSystemInstanceStruct *chartInstance,
                       const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
                       c3_x_size[1]);
@@ -2162,10 +1528,6 @@ static void c3_b_merge(SFc3_flightControlSystemInstanceStruct *chartInstance,
   const emlrtStack *c3_sp, int32_T c3_idx_data[], real_T c3_c_x_data[], int32_T
   c3_offset, int32_T c3_np, int32_T c3_nq, int32_T c3_b_iwork_data[], real_T
   c3_b_xwork_data[]);
-static void c3_b_genrand_uint32_vector(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, uint32_T c3_mt[625], uint32_T c3_b_u[2]);
-static real_T c3_b_genrandu(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, uint32_T c3_mt[625]);
 static void c3_d_sort(SFc3_flightControlSystemInstanceStruct *chartInstance,
                       const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
                       c3_x_size[1], int32_T c3_idx_data[], int32_T c3_idx_size[1]);
@@ -2200,12 +1562,6 @@ static void initialize_c3_flightControlSystem
   chartInstance->c3_hFig_not_empty = false;
   chartInstance->c3_hAx = NULL;
   chartInstance->c3_hAx_not_empty = false;
-  chartInstance->c3_method_not_empty = false;
-  chartInstance->c3_state_not_empty = false;
-  chartInstance->c3_b_method_not_empty = false;
-  chartInstance->c3_b_state_not_empty = false;
-  chartInstance->c3_c_state_not_empty = false;
-  chartInstance->c3_d_state_not_empty = false;
   chartInstance->c3_is_active_c3_flightControlSystem = 0U;
 }
 
@@ -2232,27 +1588,21 @@ static void mdl_setup_runtime_resources_c3_flightControlSystem
 {
   static const int32_T c3_b_postfixPredicateTree[7] = { 0, 1, -3, 2, -3, 3, -3 };
 
-  static const int32_T c3_c_postfixPredicateTree[7] = { 0, 1, -3, 2, -3, 3, -3 };
+  static const int32_T c3_b_condTxtEndIdx[4] = { 3654, 3676, 3685, 3707 };
 
-  static const int32_T c3_b_condTxtEndIdx[4] = { 5590, 5612, 5621, 5643 };
+  static const int32_T c3_b_condTxtStartIdx[4] = { 3649, 3658, 3680, 3689 };
 
-  static const int32_T c3_b_condTxtStartIdx[4] = { 5585, 5594, 5616, 5625 };
-
-  static const int32_T c3_c_condTxtEndIdx[4] = { 6143, 6165, 6174, 6196 };
-
-  static const int32_T c3_c_condTxtStartIdx[4] = { 6138, 6147, 6169, 6178 };
-
-  static const int32_T c3_d_postfixPredicateTree[3] = { 0, 1, -3 };
+  static const int32_T c3_c_postfixPredicateTree[3] = { 0, 1, -3 };
 
   static const int32_T c3_postfixPredicateTree[3] = { 0, 1, -3 };
 
-  static const int32_T c3_condTxtEndIdx[2] = { 2662, 2696 };
+  static const int32_T c3_c_condTxtEndIdx[2] = { 4041, 4059 };
 
-  static const int32_T c3_condTxtStartIdx[2] = { 2634, 2666 };
+  static const int32_T c3_c_condTxtStartIdx[2] = { 4025, 4045 };
 
-  static const int32_T c3_d_condTxtEndIdx[2] = { 6503, 6521 };
+  static const int32_T c3_condTxtEndIdx[2] = { 2647, 2681 };
 
-  static const int32_T c3_d_condTxtStartIdx[2] = { 6487, 6507 };
+  static const int32_T c3_condTxtStartIdx[2] = { 2619, 2651 };
 
   static const uint32_T c3_decisionTxtEndIdx = 0U;
   static const uint32_T c3_decisionTxtStartIdx = 0U;
@@ -2264,16 +1614,18 @@ static void mdl_setup_runtime_resources_c3_flightControlSystem
     &chartInstance->c3_IsSequenceViewerPresent, 0, 0,
     &chartInstance->c3_mlFcnLineNumber, &chartInstance->c3_IsHeatMapPresent, 0);
   covrtCreateStateflowInstanceData(chartInstance->c3_covrtInstance, 1U, 0U, 1U,
-    17U);
+    23U);
   covrtChartInitFcn(chartInstance->c3_covrtInstance, 0U, false, false, false);
   covrtStateInitFcn(chartInstance->c3_covrtInstance, 0U, 0U, false, false, false,
                     0U, &c3_decisionTxtStartIdx, &c3_decisionTxtEndIdx);
   covrtTransInitFcn(chartInstance->c3_covrtInstance, 0U, 0, NULL, NULL, 0U, NULL);
-  covrtEmlInitFcn(chartInstance->c3_covrtInstance, "", 4U, 0U, 1U, 0U, 11U, 0U,
-                  1U, 0U, 7U, 0U, 12U, 4U);
+  covrtEmlInitFcn(chartInstance->c3_covrtInstance, "", 4U, 0U, 1U, 0U, 9U, 0U,
+                  2U, 0U, 5U, 0U, 8U, 3U);
   covrtEmlFcnInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U,
-                     "eML_blk_kernel", 0, -1, 6618);
-  covrtEmlSaturationInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 721, -1,
+                     "eML_blk_kernel", 0, -1, 4156);
+  covrtEmlSaturationInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 3785,
+    -1, 3831);
+  covrtEmlSaturationInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 1U, 721, -1,
     779);
   covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 114, 136, -1,
                     160, false);
@@ -2281,76 +1633,55 @@ static void mdl_setup_runtime_resources_c3_flightControlSystem
                     1351, false);
   covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 1195, 1220, -1,
                     1343, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 2631, 2696, -1,
-                    5817, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 4U, 4671, 4687,
-                    4869, 4963, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 5U, 5036, 5053,
-                    5221, 5396, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 6U, 5582, 5643, -1,
-                    5805, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 7U, 5964, 5990, -1,
-                    6406, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 8U, 6135, 6196, -1,
-                    6390, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 9U, 6432, 6450,
-                    6480, 6583, false);
-  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 10U, 6480, 6521,
-                    6549, 6583, false);
+  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 2616, 2681, -1,
+                    3328, false);
+  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 4U, 2970, 2986,
+                    3168, 3262, false);
+  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 5U, 3475, 3501, -1,
+                    3944, false);
+  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 6U, 3646, 3707, -1,
+                    3928, false);
+  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 7U, 3970, 3988,
+                    4018, 4121, false);
+  covrtEmlIfInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 8U, 4018, 4059,
+                    4087, 4121, false);
   covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 475, 511, 561);
   covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 1U, 938, 960, 1355);
-  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 2827, 2860,
-                     2994);
-  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 5486, 5511,
-                     5813);
-  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 4U, 5864, 5891,
-                     6430);
-  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 5U, 5896, 5919,
-                     6426);
-  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 6U, 5928, 5951,
-                     6418);
-  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 2634, 2696,
+  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 3375, 3402,
+                     3968);
+  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 3407, 3430,
+                     3964);
+  covrtEmlForInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 4U, 3439, 3462,
+                     3956);
+  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 2619, 2681,
                       2U, 0U, c3_condTxtStartIdx, c3_condTxtEndIdx, 3U,
                       c3_postfixPredicateTree, false);
-  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 1U, 5585, 5643,
+  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 1U, 3649, 3707,
                       4U, 2U, c3_b_condTxtStartIdx, c3_b_condTxtEndIdx, 7U,
                       c3_b_postfixPredicateTree, false);
-  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 6138, 6196,
-                      4U, 6U, c3_c_condTxtStartIdx, c3_c_condTxtEndIdx, 7U,
+  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 4025, 4059,
+                      2U, 6U, c3_c_condTxtStartIdx, c3_c_condTxtEndIdx, 3U,
                       c3_c_postfixPredicateTree, false);
-  covrtEmlMCDCInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 6487, 6521,
-                      2U, 10U, c3_d_condTxtStartIdx, c3_d_condTxtEndIdx, 3U,
-                      c3_d_postfixPredicateTree, false);
   covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 0U, 968,
     978, -1, 0U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 1U, 2634,
-    2662, -1, 5U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 5039,
-    5053, -1, 0U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 5585,
-    5590, -1, 4U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 4U, 5594,
-    5612, -1, 3U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 5U, 5616,
-    5621, -1, 4U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 6U, 5625,
-    5643, -1, 3U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 7U, 5967,
-    5990, -1, 3U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 8U, 6138,
-    6143, -1, 4U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 9U, 6147,
-    6165, -1, 3U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 10U, 6169,
-    6174, -1, 4U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 11U, 6178,
-    6196, -1, 3U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 12U, 6435,
-    6450, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 13U, 6487,
-    6503, -1, 5U);
-  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 14U, 6507,
-    6521, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 1U, 2619,
+    2647, -1, 5U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 2U, 3478,
+    3501, -1, 3U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 3U, 3649,
+    3654, -1, 4U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 4U, 3658,
+    3676, -1, 3U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 5U, 3680,
+    3685, -1, 4U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 6U, 3689,
+    3707, -1, 3U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 7U, 3973,
+    3988, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 8U, 4025,
+    4041, -1, 5U);
+  covrtEmlRelationalInitFcn(chartInstance->c3_covrtInstance, 4U, 0U, 9U, 4045,
+    4059, -1, 2U);
 }
 
 static void mdl_cleanup_runtime_resources_c3_flightControlSystem
@@ -2379,9 +1710,8 @@ static void sf_gateway_c3_flightControlSystem
 {
   static real_T c3_dv1[4] = { -60.0, 60.0, -80.0, 80.0 };
 
-  static char_T c3_b_cv[6] = { 'P', 'a', 'r', 'e', 'n', 't' };
+  static char_T c3_cv[6] = { 'P', 'a', 'r', 'e', 'n', 't' };
 
-  c3_s_WVIjmaAZoOE6RkudQk1Zu c3_pp;
   emlrtStack c3_b_st;
   emlrtStack c3_c_st;
   emlrtStack c3_st = { NULL,           /* site */
@@ -2389,21 +1719,16 @@ static void sf_gateway_c3_flightControlSystem
     NULL                               /* prev */
   };
 
-  real_T c3_xValues[200];
-  real_T c3_xvaluesi[200];
   real_T c3_b_pointsx[20];
   real_T c3_b_pointsy[20];
   real_T c3_closestIndices_data[20];
   real_T c3_sortIdx_data[20];
   real_T c3_unsorted_validY_data[20];
-  real_T c3_validX_data[20];
   real_T c3_validY_data[20];
-  real_T c3_y_data[20];
   real_T c3_dv[2];
   real_T c3_b_a;
   real_T c3_b_b;
   real_T c3_b_c;
-  real_T c3_b_d;
   real_T c3_b_distX;
   real_T c3_b_distY;
   real_T c3_b_dx;
@@ -2412,7 +1737,6 @@ static void sf_gateway_c3_flightControlSystem
   real_T c3_b_y;
   real_T c3_c;
   real_T c3_c_a;
-  real_T c3_c_b;
   real_T c3_c_i;
   real_T c3_c_k;
   real_T c3_c_x;
@@ -2431,16 +1755,15 @@ static void sf_gateway_c3_flightControlSystem
   real_T c3_d8;
   real_T c3_d9;
   real_T c3_d_a;
-  real_T c3_d_x;
   real_T c3_d_y;
   real_T c3_e_a;
-  real_T c3_e_x;
   real_T c3_e_y;
   real_T c3_f_a;
   real_T c3_f_y;
   real_T c3_g_a;
   real_T c3_g_y;
   real_T c3_h_a;
+  real_T c3_h_y;
   real_T c3_i_a;
   real_T c3_j_a;
   real_T c3_k_a;
@@ -2456,7 +1779,6 @@ static void sf_gateway_c3_flightControlSystem
   int32_T c3_iv2[2];
   int32_T c3_iv3[2];
   int32_T c3_iv4[2];
-  int32_T c3_y_size[2];
   int32_T c3_b_filteredX_size[1];
   int32_T c3_b_filteredY_size[1];
   int32_T c3_b_minDistances_size[1];
@@ -2475,7 +1797,6 @@ static void sf_gateway_c3_flightControlSystem
   int32_T c3_sortIdx_size[1];
   int32_T c3_tmp_size[1];
   int32_T c3_unsorted_validY_size[1];
-  int32_T c3_validX_size[1];
   int32_T c3_validY_size[1];
   int32_T c3_xIdx_size[1];
   int32_T c3_yIdx_size[1];
@@ -2488,10 +1809,8 @@ static void sf_gateway_c3_flightControlSystem
   int32_T c3_b_trueCount;
   int32_T c3_bb_loop_ub;
   int32_T c3_c_loop_ub;
-  int32_T c3_cb_loop_ub;
   int32_T c3_d_i;
   int32_T c3_d_loop_ub;
-  int32_T c3_db_loop_ub;
   int32_T c3_dx;
   int32_T c3_dy;
   int32_T c3_e_i;
@@ -2503,31 +1822,13 @@ static void sf_gateway_c3_flightControlSystem
   int32_T c3_filteredY;
   int32_T c3_g_i;
   int32_T c3_g_loop_ub;
-  int32_T c3_h_i;
   int32_T c3_h_loop_ub;
   int32_T c3_i;
   int32_T c3_i1;
   int32_T c3_i10;
   int32_T c3_i100;
   int32_T c3_i101;
-  int32_T c3_i102;
-  int32_T c3_i103;
-  int32_T c3_i104;
-  int32_T c3_i105;
-  int32_T c3_i106;
-  int32_T c3_i107;
-  int32_T c3_i108;
-  int32_T c3_i109;
   int32_T c3_i11;
-  int32_T c3_i110;
-  int32_T c3_i111;
-  int32_T c3_i112;
-  int32_T c3_i113;
-  int32_T c3_i114;
-  int32_T c3_i115;
-  int32_T c3_i116;
-  int32_T c3_i117;
-  int32_T c3_i118;
   int32_T c3_i12;
   int32_T c3_i13;
   int32_T c3_i14;
@@ -2624,7 +1925,6 @@ static void sf_gateway_c3_flightControlSystem
   int32_T c3_i97;
   int32_T c3_i98;
   int32_T c3_i99;
-  int32_T c3_i_i;
   int32_T c3_i_loop_ub;
   int32_T c3_j_loop_ub;
   int32_T c3_k;
@@ -2648,6 +1948,7 @@ static void sf_gateway_c3_flightControlSystem
   int32_T c3_x_loop_ub;
   int32_T c3_y_loop_ub;
   uint8_T c3_b_u;
+  uint8_T c3_u1;
   boolean_T c3_b_centerline[19200];
   boolean_T c3_b_minDistances_data[19200];
   boolean_T c3_bv1[19200];
@@ -2685,6 +1986,7 @@ static void sf_gateway_c3_flightControlSystem
   boolean_T c3_b7;
   boolean_T c3_b8;
   boolean_T c3_b9;
+  boolean_T c3_b_covSaturation = false;
   boolean_T c3_covSaturation = false;
   boolean_T c3_guard1;
   c3_st.tls = chartInstance->c3_fEmlrtCtx;
@@ -2703,17 +2005,17 @@ static void sf_gateway_c3_flightControlSystem
   covrtEmlFcnEval(chartInstance->c3_covrtInstance, 4U, 0, 0);
   if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 0,
                      !chartInstance->c3_call_count_not_empty)) {
-    chartInstance->c3_call_count = 0.0;
+    chartInstance->c3_call_count = 1.0;
     chartInstance->c3_call_count_not_empty = true;
   }
 
-  c3_b_st.site = &c3_fd_emlrtRSI;
+  c3_b_st.site = &c3_ac_emlrtRSI;
   for (c3_i1 = 0; c3_i1 < 19200; c3_i1++) {
     chartInstance->c3_bv[c3_i1] = (*chartInstance->c3_u)[c3_i1];
   }
 
   c3_bwmorph(chartInstance, chartInstance->c3_bv, c3_cleanedImage);
-  c3_b_st.site = &c3_gd_emlrtRSI;
+  c3_b_st.site = &c3_bc_emlrtRSI;
   c3_b_bwmorph(chartInstance, c3_cleanedImage, c3_centerline);
   for (c3_k = 0; c3_k < 15; c3_k++) {
     covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 0, 1);
@@ -2721,7 +2023,7 @@ static void sf_gateway_c3_flightControlSystem
       c3_b_centerline[c3_i3] = c3_centerline[c3_i3];
     }
 
-    c3_b_st.site = &c3_hd_emlrtRSI;
+    c3_b_st.site = &c3_cc_emlrtRSI;
     c3_c_bwmorph(chartInstance, c3_b_centerline, c3_centerline);
     _SF_MEX_LISTEN_FOR_CTRL_C(chartInstance->S);
   }
@@ -2776,12 +2078,12 @@ static void sf_gateway_c3_flightControlSystem
       c3_b_u = 0U;
     }
 
-    covrtSaturationUpdateFcn(chartInstance->c3_covrtInstance, 4, 0, 0, 0,
+    covrtSaturationUpdateFcn(chartInstance->c3_covrtInstance, 4, 0, 1, 0,
       c3_covSaturation);
     chartInstance->c3_outt[c3_i10] = c3_b_u;
   }
 
-  c3_b_st.site = &c3_id_emlrtRSI;
+  c3_b_st.site = &c3_dc_emlrtRSI;
   c3_c_st.site = &c3_l_emlrtRSI;
   c3_eml_find(chartInstance, &c3_c_st, c3_centerline, chartInstance->c3_ii_data,
               c3_ii_size, chartInstance->c3_jj_data, c3_jj_size);
@@ -2801,11 +2103,11 @@ static void sf_gateway_c3_flightControlSystem
 
   c3_d1 = (real_T)c3_xIdx_size[0];
   if (!(c3_d1 >= 0.0)) {
-    emlrtNonNegativeCheckR2012b(c3_d1, &c3_t_emlrtDCI, &c3_st);
+    emlrtNonNegativeCheckR2012b(c3_d1, &c3_n_emlrtDCI, &c3_st);
   }
 
   if (c3_d1 != (real_T)(int32_T)muDoubleScalarFloor(c3_d1)) {
-    emlrtIntegerCheckR2012b(c3_d1, &c3_u_emlrtDCI, &c3_st);
+    emlrtIntegerCheckR2012b(c3_d1, &c3_o_emlrtDCI, &c3_st);
   }
 
   c3_dv[0] = c3_d1;
@@ -2818,11 +2120,11 @@ static void sf_gateway_c3_flightControlSystem
 
   c3_d2 = (real_T)c3_yIdx_size[0];
   if (!(c3_d2 >= 0.0)) {
-    emlrtNonNegativeCheckR2012b(c3_d2, &c3_v_emlrtDCI, &c3_st);
+    emlrtNonNegativeCheckR2012b(c3_d2, &c3_p_emlrtDCI, &c3_st);
   }
 
   if (c3_d2 != (real_T)(int32_T)muDoubleScalarFloor(c3_d2)) {
-    emlrtIntegerCheckR2012b(c3_d2, &c3_w_emlrtDCI, &c3_st);
+    emlrtIntegerCheckR2012b(c3_d2, &c3_q_emlrtDCI, &c3_st);
   }
 
   c3_dv[0] = c3_d2;
@@ -2837,7 +2139,7 @@ static void sf_gateway_c3_flightControlSystem
   c3_d3 = (real_T)c3_xIdx_size[0];
   c3_i15 = (int32_T)c3_d3;
   emlrtForLoopVectorCheckR2021a(1.0, 1.0, c3_d3, mxDOUBLE_CLASS, c3_i15,
-    &c3_lc_emlrtRTEI, &c3_st);
+    &c3_ac_emlrtRTEI, &c3_st);
   for (c3_b_i = 0; c3_b_i < c3_i15; c3_b_i++) {
     c3_c_i = 1.0 + (real_T)c3_b_i;
     covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 1, 1);
@@ -2847,45 +2149,45 @@ static void sf_gateway_c3_flightControlSystem
                         0.0, -1, 0U, c3_count == 0.0))) {
       c3_count++;
       if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-        emlrtIntegerCheckR2012b(c3_c_i, &c3_x_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_c_i, &c3_r_emlrtDCI, &c3_st);
       }
 
       c3_i18 = (int32_T)c3_c_i;
       if ((c3_i18 < 1) || (c3_i18 > c3_xIdx_size[0])) {
-        emlrtDynamicBoundsCheckR2012b(c3_i18, 1, c3_xIdx_size[0],
-          &c3_bb_emlrtBCI, &c3_st);
+        emlrtDynamicBoundsCheckR2012b(c3_i18, 1, c3_xIdx_size[0], &c3_s_emlrtBCI,
+          &c3_st);
       }
 
       if (c3_count != (real_T)(int32_T)muDoubleScalarFloor(c3_count)) {
-        emlrtIntegerCheckR2012b(c3_count, &c3_y_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_count, &c3_s_emlrtDCI, &c3_st);
       }
 
       c3_i23 = (int32_T)c3_count;
       if ((c3_i23 < 1) || (c3_i23 > c3_filteredX_size[0])) {
         emlrtDynamicBoundsCheckR2012b(c3_i23, 1, c3_filteredX_size[0],
-          &c3_cb_emlrtBCI, &c3_st);
+          &c3_t_emlrtBCI, &c3_st);
       }
 
       chartInstance->c3_filteredX_data[c3_i23 - 1] = chartInstance->
         c3_xIdx_data[c3_i18 - 1];
       if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-        emlrtIntegerCheckR2012b(c3_c_i, &c3_ab_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_c_i, &c3_t_emlrtDCI, &c3_st);
       }
 
       c3_i27 = (int32_T)c3_c_i;
       if ((c3_i27 < 1) || (c3_i27 > c3_yIdx_size[0])) {
-        emlrtDynamicBoundsCheckR2012b(c3_i27, 1, c3_yIdx_size[0],
-          &c3_db_emlrtBCI, &c3_st);
+        emlrtDynamicBoundsCheckR2012b(c3_i27, 1, c3_yIdx_size[0], &c3_u_emlrtBCI,
+          &c3_st);
       }
 
       if (c3_count != (real_T)(int32_T)muDoubleScalarFloor(c3_count)) {
-        emlrtIntegerCheckR2012b(c3_count, &c3_bb_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_count, &c3_u_emlrtDCI, &c3_st);
       }
 
       c3_i32 = (int32_T)c3_count;
       if ((c3_i32 < 1) || (c3_i32 > c3_filteredY_size[0])) {
         emlrtDynamicBoundsCheckR2012b(c3_i32, 1, c3_filteredY_size[0],
-          &c3_eb_emlrtBCI, &c3_st);
+          &c3_v_emlrtBCI, &c3_st);
       }
 
       chartInstance->c3_filteredY_data[c3_i32 - 1] = chartInstance->
@@ -2921,7 +2223,7 @@ static void sf_gateway_c3_flightControlSystem
 
       c3_iv1[0] = 1;
       c3_iv1[1] = (c3_i22 - c3_i21) + 1;
-      c3_b_st.site = &c3_jd_emlrtRSI;
+      c3_b_st.site = &c3_ec_emlrtRSI;
       c3_indexShapeCheck(chartInstance, &c3_b_st, c3_filteredX_size[0], c3_iv1);
       c3_b8 = (c3_count < 1.0);
       c3_b9 = c3_b8;
@@ -2953,16 +2255,16 @@ static void sf_gateway_c3_flightControlSystem
 
       c3_iv2[0] = 1;
       c3_iv2[1] = (c3_i31 - c3_i30) + 1;
-      c3_b_st.site = &c3_jd_emlrtRSI;
+      c3_b_st.site = &c3_ec_emlrtRSI;
       c3_indexShapeCheck(chartInstance, &c3_b_st, c3_filteredY_size[0], c3_iv2);
       if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-        emlrtIntegerCheckR2012b(c3_c_i, &c3_cb_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_c_i, &c3_v_emlrtDCI, &c3_st);
       }
 
       c3_i37 = (int32_T)c3_c_i;
       if ((c3_i37 < 1) || (c3_i37 > c3_xIdx_size[0])) {
-        emlrtDynamicBoundsCheckR2012b(c3_i37, 1, c3_xIdx_size[0],
-          &c3_fb_emlrtBCI, &c3_st);
+        emlrtDynamicBoundsCheckR2012b(c3_i37, 1, c3_xIdx_size[0], &c3_w_emlrtBCI,
+          &c3_st);
       }
 
       c3_xIdx = chartInstance->c3_xIdx_data[c3_i37 - 1];
@@ -2973,18 +2275,18 @@ static void sf_gateway_c3_flightControlSystem
           chartInstance->c3_filteredX_data[(c3_i21 + c3_i40) - 1] - c3_xIdx;
       }
 
-      c3_b_st.site = &c3_jd_emlrtRSI;
+      c3_b_st.site = &c3_ec_emlrtRSI;
       c3_power(chartInstance, &c3_b_st, chartInstance->c3_c_filteredX_data,
                c3_c_filteredX_size, chartInstance->c3_minDistances_data,
                c3_minDistances_size);
       if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-        emlrtIntegerCheckR2012b(c3_c_i, &c3_db_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_c_i, &c3_w_emlrtDCI, &c3_st);
       }
 
       c3_i42 = (int32_T)c3_c_i;
       if ((c3_i42 < 1) || (c3_i42 > c3_yIdx_size[0])) {
-        emlrtDynamicBoundsCheckR2012b(c3_i42, 1, c3_yIdx_size[0],
-          &c3_gb_emlrtBCI, &c3_st);
+        emlrtDynamicBoundsCheckR2012b(c3_i42, 1, c3_yIdx_size[0], &c3_x_emlrtBCI,
+          &c3_st);
       }
 
       c3_yIdx = chartInstance->c3_yIdx_data[c3_i42 - 1];
@@ -2995,7 +2297,7 @@ static void sf_gateway_c3_flightControlSystem
           chartInstance->c3_filteredY_data[(c3_i30 + c3_i45) - 1] - c3_yIdx;
       }
 
-      c3_b_st.site = &c3_jd_emlrtRSI;
+      c3_b_st.site = &c3_ec_emlrtRSI;
       c3_power(chartInstance, &c3_b_st, chartInstance->c3_c_filteredY_data,
                c3_c_filteredY_size, chartInstance->c3_tmp_data, c3_tmp_size);
       if ((c3_minDistances_size[0] != c3_tmp_size[0]) && ((c3_minDistances_size
@@ -3015,7 +2317,7 @@ static void sf_gateway_c3_flightControlSystem
                 c3_minDistances_size, chartInstance->c3_tmp_data, c3_tmp_size);
       }
 
-      c3_b_st.site = &c3_jd_emlrtRSI;
+      c3_b_st.site = &c3_ec_emlrtRSI;
       c3_b_sqrt(chartInstance, &c3_b_st, chartInstance->c3_minDistances_data,
                 c3_minDistances_size);
       c3_b_minDistances_size[0] = c3_minDistances_size[0];
@@ -3025,51 +2327,51 @@ static void sf_gateway_c3_flightControlSystem
           c3_minDistances_data[c3_i49] > 10.0);
       }
 
-      c3_b_st.site = &c3_kd_emlrtRSI;
+      c3_b_st.site = &c3_fc_emlrtRSI;
       if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 2, c3_all
                          (chartInstance, &c3_b_st, c3_b_minDistances_data,
                           c3_b_minDistances_size))) {
         c3_count++;
         if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_eb_emlrtDCI, &c3_st);
+          emlrtIntegerCheckR2012b(c3_c_i, &c3_x_emlrtDCI, &c3_st);
         }
 
         c3_i51 = (int32_T)c3_c_i;
         if ((c3_i51 < 1) || (c3_i51 > c3_xIdx_size[0])) {
           emlrtDynamicBoundsCheckR2012b(c3_i51, 1, c3_xIdx_size[0],
-            &c3_hb_emlrtBCI, &c3_st);
+            &c3_y_emlrtBCI, &c3_st);
         }
 
         if (c3_count != (real_T)(int32_T)muDoubleScalarFloor(c3_count)) {
-          emlrtIntegerCheckR2012b(c3_count, &c3_fb_emlrtDCI, &c3_st);
+          emlrtIntegerCheckR2012b(c3_count, &c3_y_emlrtDCI, &c3_st);
         }
 
         c3_i53 = (int32_T)c3_count;
         if ((c3_i53 < 1) || (c3_i53 > c3_filteredX_size[0])) {
           emlrtDynamicBoundsCheckR2012b(c3_i53, 1, c3_filteredX_size[0],
-            &c3_ib_emlrtBCI, &c3_st);
+            &c3_ab_emlrtBCI, &c3_st);
         }
 
         chartInstance->c3_filteredX_data[c3_i53 - 1] =
           chartInstance->c3_xIdx_data[c3_i51 - 1];
         if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_gb_emlrtDCI, &c3_st);
+          emlrtIntegerCheckR2012b(c3_c_i, &c3_ab_emlrtDCI, &c3_st);
         }
 
         c3_i54 = (int32_T)c3_c_i;
         if ((c3_i54 < 1) || (c3_i54 > c3_yIdx_size[0])) {
           emlrtDynamicBoundsCheckR2012b(c3_i54, 1, c3_yIdx_size[0],
-            &c3_jb_emlrtBCI, &c3_st);
+            &c3_bb_emlrtBCI, &c3_st);
         }
 
         if (c3_count != (real_T)(int32_T)muDoubleScalarFloor(c3_count)) {
-          emlrtIntegerCheckR2012b(c3_count, &c3_hb_emlrtDCI, &c3_st);
+          emlrtIntegerCheckR2012b(c3_count, &c3_bb_emlrtDCI, &c3_st);
         }
 
         c3_i55 = (int32_T)c3_count;
         if ((c3_i55 < 1) || (c3_i55 > c3_filteredY_size[0])) {
           emlrtDynamicBoundsCheckR2012b(c3_i55, 1, c3_filteredY_size[0],
-            &c3_kb_emlrtBCI, &c3_st);
+            &c3_cb_emlrtBCI, &c3_st);
         }
 
         chartInstance->c3_filteredY_data[c3_i55 - 1] =
@@ -3111,7 +2413,7 @@ static void sf_gateway_c3_flightControlSystem
 
   c3_iv[0] = 1;
   c3_iv[1] = (c3_i19 - c3_i17) + 1;
-  c3_b_st.site = &c3_ld_emlrtRSI;
+  c3_b_st.site = &c3_gc_emlrtRSI;
   c3_indexShapeCheck(chartInstance, &c3_b_st, c3_filteredX_size[0], c3_iv);
   c3_b_filteredX_size[0] = (c3_i19 - c3_i17) + 1;
   c3_e_loop_ub = c3_i19 - c3_i17;
@@ -3157,7 +2459,7 @@ static void sf_gateway_c3_flightControlSystem
 
   c3_iv3[0] = 1;
   c3_iv3[1] = (c3_i36 - c3_i34) + 1;
-  c3_b_st.site = &c3_md_emlrtRSI;
+  c3_b_st.site = &c3_hc_emlrtRSI;
   c3_indexShapeCheck(chartInstance, &c3_b_st, c3_filteredY_size[0], c3_iv3);
   c3_b_filteredY_size[0] = (c3_i36 - c3_i34) + 1;
   c3_g_loop_ub = c3_i36 - c3_i34;
@@ -3190,7 +2492,7 @@ static void sf_gateway_c3_flightControlSystem
       chartInstance->c3_filteredX_data[c3_i46] - 80.0;
   }
 
-  c3_b_st.site = &c3_nd_emlrtRSI;
+  c3_b_st.site = &c3_ic_emlrtRSI;
   c3_power(chartInstance, &c3_b_st, chartInstance->c3_d_filteredX_data,
            c3_d_filteredX_size, chartInstance->c3_yIdx_data, c3_yIdx_size);
   c3_d_filteredY_size[0] = c3_filteredY_size[0];
@@ -3200,7 +2502,7 @@ static void sf_gateway_c3_flightControlSystem
       chartInstance->c3_filteredY_data[c3_i47] - 60.0;
   }
 
-  c3_b_st.site = &c3_nd_emlrtRSI;
+  c3_b_st.site = &c3_ic_emlrtRSI;
   c3_power(chartInstance, &c3_b_st, chartInstance->c3_d_filteredY_data,
            c3_d_filteredY_size, chartInstance->c3_tmp_data, c3_tmp_size);
   if ((c3_yIdx_size[0] != c3_tmp_size[0]) && ((c3_yIdx_size[0] != 1) &&
@@ -3219,9 +2521,9 @@ static void sf_gateway_c3_flightControlSystem
             chartInstance->c3_tmp_data, c3_tmp_size);
   }
 
-  c3_b_st.site = &c3_nd_emlrtRSI;
+  c3_b_st.site = &c3_ic_emlrtRSI;
   c3_b_sqrt(chartInstance, &c3_b_st, chartInstance->c3_yIdx_data, c3_yIdx_size);
-  c3_b_st.site = &c3_od_emlrtRSI;
+  c3_b_st.site = &c3_jc_emlrtRSI;
   c3_c_st.site = &c3_x_emlrtRSI;
   c3_c_sort(chartInstance, &c3_c_st, chartInstance->c3_yIdx_data, c3_yIdx_size,
             chartInstance->c3_ii_data, c3_ii_size);
@@ -3270,7 +2572,7 @@ static void sf_gateway_c3_flightControlSystem
 
   c3_iv4[0] = 1;
   c3_iv4[1] = (c3_i58 - c3_i57) + 1;
-  c3_b_st.site = &c3_pd_emlrtRSI;
+  c3_b_st.site = &c3_kc_emlrtRSI;
   c3_indexShapeCheck(chartInstance, &c3_b_st, c3_yIdx_size[0], c3_iv4);
   c3_closestIndices_size[0] = (c3_i58 - c3_i57) + 1;
   c3_s_loop_ub = c3_i58 - c3_i57;
@@ -3315,13 +2617,13 @@ static void sf_gateway_c3_flightControlSystem
   for (c3_i66 = 0; c3_i66 <= c3_t_loop_ub; c3_i66++) {
     if (c3_closestIndices_data[c3_i66] != (real_T)(int32_T)muDoubleScalarFloor
         (c3_closestIndices_data[c3_i66])) {
-      emlrtIntegerCheckR2012b(c3_closestIndices_data[c3_i66], &c3_ib_emlrtDCI,
+      emlrtIntegerCheckR2012b(c3_closestIndices_data[c3_i66], &c3_cb_emlrtDCI,
         &c3_st);
     }
 
     c3_i68 = (int32_T)c3_closestIndices_data[c3_i66];
     if ((c3_i68 < 1) || (c3_i68 > c3_filteredX)) {
-      emlrtDynamicBoundsCheckR2012b(c3_i68, 1, c3_filteredX, &c3_lb_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(c3_i68, 1, c3_filteredX, &c3_db_emlrtBCI,
         &c3_st);
     }
 
@@ -3375,13 +2677,13 @@ static void sf_gateway_c3_flightControlSystem
   for (c3_i75 = 0; c3_i75 <= c3_w_loop_ub; c3_i75++) {
     if (c3_closestIndices_data[c3_i75] != (real_T)(int32_T)muDoubleScalarFloor
         (c3_closestIndices_data[c3_i75])) {
-      emlrtIntegerCheckR2012b(c3_closestIndices_data[c3_i75], &c3_jb_emlrtDCI,
+      emlrtIntegerCheckR2012b(c3_closestIndices_data[c3_i75], &c3_db_emlrtDCI,
         &c3_st);
     }
 
     c3_i77 = (int32_T)c3_closestIndices_data[c3_i75];
     if ((c3_i77 < 1) || (c3_i77 > c3_filteredY)) {
-      emlrtDynamicBoundsCheckR2012b(c3_i77, 1, c3_filteredY, &c3_mb_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(c3_i77, 1, c3_filteredY, &c3_eb_emlrtBCI,
         &c3_st);
     }
 
@@ -3425,12 +2727,12 @@ static void sf_gateway_c3_flightControlSystem
     if ((c3_b_pointsx[c3_e_i] != 999.0) && c3_bv2[c3_e_i]) {
       c3_d7 = (real_T)c3_e_i;
       if (c3_d7 != (real_T)(int32_T)muDoubleScalarFloor(c3_d7)) {
-        emlrtIntegerCheckR2012b(c3_d7, &c3_kb_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_d7, &c3_eb_emlrtDCI, &c3_st);
       }
 
       c3_i82 = (int32_T)muDoubleScalarFloor(c3_d7);
       if ((c3_i82 < 0) || (c3_i82 > 19)) {
-        emlrtDynamicBoundsCheckR2012b(c3_i82, 0, 19, &c3_nb_emlrtBCI, &c3_st);
+        emlrtDynamicBoundsCheckR2012b(c3_i82, 0, 19, &c3_fb_emlrtBCI, &c3_st);
       }
 
       c3_closestIndices_data[c3_partialTrueCount] = c3_b_pointsx[c3_i82];
@@ -3452,12 +2754,12 @@ static void sf_gateway_c3_flightControlSystem
     if ((c3_b_pointsx[c3_g_i] != 999.0) && c3_bv2[c3_g_i]) {
       c3_d8 = (real_T)c3_g_i;
       if (c3_d8 != (real_T)(int32_T)muDoubleScalarFloor(c3_d8)) {
-        emlrtIntegerCheckR2012b(c3_d8, &c3_lb_emlrtDCI, &c3_st);
+        emlrtIntegerCheckR2012b(c3_d8, &c3_fb_emlrtDCI, &c3_st);
       }
 
       c3_i83 = (int32_T)muDoubleScalarFloor(c3_d8);
       if ((c3_i83 < 0) || (c3_i83 > 19)) {
-        emlrtDynamicBoundsCheckR2012b(c3_i83, 0, 19, &c3_ob_emlrtBCI, &c3_st);
+        emlrtDynamicBoundsCheckR2012b(c3_i83, 0, 19, &c3_gb_emlrtBCI, &c3_st);
       }
 
       c3_unsorted_validY_data[c3_b_partialTrueCount] = c3_b_pointsy[c3_i83];
@@ -3473,297 +2775,73 @@ static void sf_gateway_c3_flightControlSystem
                         c3_closestIndices_size[0] >= 3.0))) {
     c3_isfinite(chartInstance, c3_closestIndices_data, c3_closestIndices_size,
                 c3_c_tmp_data, c3_c_tmp_size);
-    c3_b_st.site = &c3_qd_emlrtRSI;
+    c3_b_st.site = &c3_lc_emlrtRSI;
     if (covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 1, c3_all
                          (chartInstance, &c3_b_st, c3_c_tmp_data, c3_c_tmp_size)))
     {
       covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 0, true);
       covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 3, true);
-      c3_d10 = (real_T)c3_closestIndices_size[0];
-      c3_i85 = (int32_T)c3_d10;
-      emlrtForLoopVectorCheckR2021a(1.0, 1.0, c3_d10, mxDOUBLE_CLASS, c3_i85,
-        &c3_mc_emlrtRTEI, &c3_st);
-      for (c3_h_i = 0; c3_h_i < c3_i85; c3_h_i++) {
-        c3_c_i = 1.0 + (real_T)c3_h_i;
-        covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 2, 1);
-        if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_mb_emlrtDCI, &c3_st);
-        }
-
-        c3_i87 = (int32_T)c3_c_i;
-        if ((c3_i87 < 1) || (c3_i87 > c3_closestIndices_size[0])) {
-          emlrtDynamicBoundsCheckR2012b(c3_i87, 1, c3_closestIndices_size[0],
-            &c3_pb_emlrtBCI, &c3_st);
-        }
-
-        if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_nb_emlrtDCI, &c3_st);
-        }
-
-        c3_i90 = (int32_T)c3_c_i;
-        if ((c3_i90 < 1) || (c3_i90 > c3_closestIndices_size[0])) {
-          emlrtDynamicBoundsCheckR2012b(c3_i90, 1, c3_closestIndices_size[0],
-            &c3_qb_emlrtBCI, &c3_st);
-        }
-
-        c3_b_st.site = &c3_rd_emlrtRSI;
-        c3_closestIndices_data[c3_i90 - 1] = c3_closestIndices_data[c3_i87 - 1]
-          + c3_randn(chartInstance, &c3_b_st) * 1.5;
-        if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_ob_emlrtDCI, &c3_st);
-        }
-
-        c3_i95 = (int32_T)c3_c_i;
-        if ((c3_i95 < 1) || (c3_i95 > c3_unsorted_validY_size[0])) {
-          emlrtDynamicBoundsCheckR2012b(c3_i95, 1, c3_unsorted_validY_size[0],
-            &c3_rb_emlrtBCI, &c3_st);
-        }
-
-        if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_pb_emlrtDCI, &c3_st);
-        }
-
-        c3_i99 = (int32_T)c3_c_i;
-        if ((c3_i99 < 1) || (c3_i99 > c3_unsorted_validY_size[0])) {
-          emlrtDynamicBoundsCheckR2012b(c3_i99, 1, c3_unsorted_validY_size[0],
-            &c3_sb_emlrtBCI, &c3_st);
-        }
-
-        c3_b_st.site = &c3_sd_emlrtRSI;
-        c3_unsorted_validY_data[c3_i99 - 1] = c3_unsorted_validY_data[c3_i95 - 1]
-          + c3_randn(chartInstance, &c3_b_st) * 1.5;
-        _SF_MEX_LISTEN_FOR_CTRL_C(chartInstance->S);
-      }
-
-      covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 2, 0);
-      c3_b_st.site = &c3_td_emlrtRSI;
-      c3_validX_size[0] = c3_closestIndices_size[0];
-      c3_ab_loop_ub = c3_closestIndices_size[0] - 1;
-      for (c3_i86 = 0; c3_i86 <= c3_ab_loop_ub; c3_i86++) {
-        c3_validX_data[c3_i86] = c3_closestIndices_data[c3_i86];
-      }
-
+      c3_b_st.site = &c3_mc_emlrtRSI;
       c3_c_st.site = &c3_x_emlrtRSI;
-      c3_d_sort(chartInstance, &c3_c_st, c3_validX_data, c3_validX_size,
-                c3_c_iidx_data, c3_iidx_size);
+      c3_d_sort(chartInstance, &c3_c_st, c3_closestIndices_data,
+                c3_closestIndices_size, c3_c_iidx_data, c3_iidx_size);
       c3_sortIdx_size[0] = c3_iidx_size[0];
-      c3_bb_loop_ub = c3_iidx_size[0] - 1;
-      for (c3_i91 = 0; c3_i91 <= c3_bb_loop_ub; c3_i91++) {
-        c3_sortIdx_data[c3_i91] = (real_T)c3_c_iidx_data[c3_i91];
+      c3_ab_loop_ub = c3_iidx_size[0] - 1;
+      for (c3_i85 = 0; c3_i85 <= c3_ab_loop_ub; c3_i85++) {
+        c3_sortIdx_data[c3_i85] = (real_T)c3_c_iidx_data[c3_i85];
       }
 
       c3_unsorted_validY = c3_unsorted_validY_size[0];
       c3_validY_size[0] = c3_sortIdx_size[0];
-      c3_cb_loop_ub = c3_sortIdx_size[0] - 1;
-      for (c3_i94 = 0; c3_i94 <= c3_cb_loop_ub; c3_i94++) {
-        if (c3_sortIdx_data[c3_i94] != (real_T)(int32_T)muDoubleScalarFloor
-            (c3_sortIdx_data[c3_i94])) {
-          emlrtIntegerCheckR2012b(c3_sortIdx_data[c3_i94], &c3_qb_emlrtDCI,
+      c3_bb_loop_ub = c3_sortIdx_size[0] - 1;
+      for (c3_i87 = 0; c3_i87 <= c3_bb_loop_ub; c3_i87++) {
+        if (c3_sortIdx_data[c3_i87] != (real_T)(int32_T)muDoubleScalarFloor
+            (c3_sortIdx_data[c3_i87])) {
+          emlrtIntegerCheckR2012b(c3_sortIdx_data[c3_i87], &c3_gb_emlrtDCI,
             &c3_st);
         }
 
-        c3_i97 = (int32_T)c3_sortIdx_data[c3_i94];
-        if ((c3_i97 < 1) || (c3_i97 > c3_unsorted_validY)) {
-          emlrtDynamicBoundsCheckR2012b(c3_i97, 1, c3_unsorted_validY,
-            &c3_tb_emlrtBCI, &c3_st);
+        c3_i89 = (int32_T)c3_sortIdx_data[c3_i87];
+        if ((c3_i89 < 1) || (c3_i89 > c3_unsorted_validY)) {
+          emlrtDynamicBoundsCheckR2012b(c3_i89, 1, c3_unsorted_validY,
+            &c3_hb_emlrtBCI, &c3_st);
         }
 
-        c3_validY_data[c3_i94] = c3_unsorted_validY_data[c3_i97 - 1];
+        c3_validY_data[c3_i87] = c3_unsorted_validY_data[c3_i89 - 1];
       }
 
-      c3_b_st.site = &c3_ud_emlrtRSI;
-      c3_pchip(chartInstance, &c3_b_st, c3_validX_data, c3_validX_size,
-               c3_validY_data, c3_validY_size, &c3_pp);
-      c3_b_st.site = &c3_vd_emlrtRSI;
-      c3_string_disp(chartInstance, &c3_b_st);
-      sf_mex_call(&c3_st, NULL, "disp", 0U, 1U, 14, c3_emlrt_marshallOut
-                  (chartInstance, &c3_pp));
-      c3_b_st.site = &c3_wd_emlrtRSI;
-      c3_b_string_disp(chartInstance, &c3_b_st);
-      if (c3_closestIndices_size[0] < 0) {
-        emlrtDynamicBoundsCheckR2012b(c3_closestIndices_size[0], 0, MAX_int32_T,
-          &c3_m_emlrtBCI, &c3_st);
-      }
-
-      c3_linspace(chartInstance, (real_T)c3_closestIndices_size[0], c3_xvaluesi);
-      if (c3_closestIndices_size[0] < 0) {
-        emlrtDynamicBoundsCheckR2012b(c3_closestIndices_size[0], 0, MAX_int32_T,
-          &c3_n_emlrtBCI, &c3_st);
-      }
-
-      c3_b_d = (real_T)c3_closestIndices_size[0];
-      c3_c_b = c3_b_d;
-      c3_y_size[0] = 1;
-      c3_y_size[1] = (int32_T)(c3_c_b - 1.0) + 1;
-      c3_db_loop_ub = (int32_T)(c3_c_b - 1.0);
-      for (c3_i102 = 0; c3_i102 <= c3_db_loop_ub; c3_i102++) {
-        c3_y_data[c3_i102] = 1.0 + (real_T)c3_i102;
-      }
-
-      c3_b_st.site = &c3_xd_emlrtRSI;
-      c3_interp1(chartInstance, &c3_b_st, c3_y_data, c3_y_size,
-                 c3_closestIndices_data, c3_closestIndices_size, c3_xvaluesi,
-                 c3_xValues);
-      c3_ppval(chartInstance, &c3_pp, c3_xValues, c3_xvaluesi);
       if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 4,
                          !chartInstance->c3_hFig_not_empty)) {
-        c3_b_st.site = &c3_ae_emlrtRSI;
+        c3_b_st.site = &c3_oc_emlrtRSI;
         sf_mex_assign(&chartInstance->c3_hFig, c3_figure(chartInstance, &c3_b_st),
                       true);
         chartInstance->c3_hFig_not_empty = true;
-        c3_b_st.site = &c3_ae_emlrtRSI;
+        c3_b_st.site = &c3_oc_emlrtRSI;
         chartInstance->c3_hFig_not_empty = !c3_emlrt_marshallIn(chartInstance,
           c3_isempty(chartInstance, &c3_b_st, sf_mex_dup(chartInstance->c3_hFig)),
           "<output of isempty>");
-        c3_b_st.site = &c3_be_emlrtRSI;
+        c3_b_st.site = &c3_pc_emlrtRSI;
         sf_mex_assign(&chartInstance->c3_hAx, c3_axes(chartInstance, &c3_b_st,
-          c3_b_emlrt_marshallOut(chartInstance, c3_b_cv), sf_mex_dup
+          c3_emlrt_marshallOut(chartInstance, c3_cv), sf_mex_dup
           (chartInstance->c3_hFig)), true);
         chartInstance->c3_hAx_not_empty = true;
-        c3_b_st.site = &c3_be_emlrtRSI;
+        c3_b_st.site = &c3_pc_emlrtRSI;
         chartInstance->c3_hAx_not_empty = !c3_emlrt_marshallIn(chartInstance,
           c3_b_isempty(chartInstance, &c3_b_st, sf_mex_dup(chartInstance->c3_hAx)),
           "<output of isempty>");
       } else {
-        c3_b_st.site = &c3_ce_emlrtRSI;
+        c3_b_st.site = &c3_qc_emlrtRSI;
         c3_b_figure(chartInstance, &c3_b_st, sf_mex_dup(chartInstance->c3_hFig));
       }
 
-      c3_b_st.site = &c3_de_emlrtRSI;
-      c3_plot(chartInstance, &c3_b_st, sf_mex_dup(chartInstance->c3_hAx),
-              c3_c_emlrt_marshallOut(chartInstance, c3_xValues),
-              c3_c_emlrt_marshallOut(chartInstance, c3_xvaluesi));
-      c3_b_st.site = &c3_ee_emlrtRSI;
+      c3_b_st.site = &c3_sc_emlrtRSI;
+      c3_scatter(chartInstance, &c3_b_st, c3_b_emlrt_marshallOut(chartInstance,
+                  c3_closestIndices_data, c3_closestIndices_size),
+                 c3_b_emlrt_marshallOut(chartInstance, c3_validY_data,
+                  c3_validY_size));
+      c3_b_st.site = &c3_rc_emlrtRSI;
       c3_axis(chartInstance, &c3_b_st, sf_mex_dup(chartInstance->c3_hAx),
-              c3_d_emlrt_marshallOut(chartInstance, c3_dv1));
-      covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 5,
-                     covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance,
-        4U, 0U, 2U, 0.0, 1.0, -1, 0U, 0));
-      for (c3_i105 = 0; c3_i105 < 200; c3_i105++) {
-        c3_xValues[c3_i105] += 80.0;
-      }
-
-      for (c3_i106 = 0; c3_i106 < 200; c3_i106++) {
-        c3_xvaluesi[c3_i106] += 60.0;
-      }
-
-      for (c3_i_i = 0; c3_i_i < 200; c3_i_i++) {
-        c3_c_i = 1.0 + (real_T)c3_i_i;
-        covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 3, 1);
-        if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_rb_emlrtDCI, &c3_st);
-        }
-
-        c3_i108 = (int32_T)c3_c_i;
-        if ((c3_i108 < 1) || (c3_i108 > 200)) {
-          emlrtDynamicBoundsCheckR2012b(c3_i108, 1, 200, &c3_ub_emlrtBCI, &c3_st);
-        }
-
-        c3_b_x = c3_xValues[c3_i108 - 1];
-        c3_c_x = c3_b_x;
-        c3_x = c3_c_x;
-        c3_x = muDoubleScalarRound(c3_x);
-        if (c3_c_i != (real_T)(int32_T)muDoubleScalarFloor(c3_c_i)) {
-          emlrtIntegerCheckR2012b(c3_c_i, &c3_sb_emlrtDCI, &c3_st);
-        }
-
-        c3_i111 = (int32_T)c3_c_i;
-        if ((c3_i111 < 1) || (c3_i111 > 200)) {
-          emlrtDynamicBoundsCheckR2012b(c3_i111, 1, 200, &c3_vb_emlrtBCI, &c3_st);
-        }
-
-        c3_d_x = c3_xvaluesi[c3_i111 - 1];
-        c3_e_x = c3_d_x;
-        c3_g_y = c3_e_x;
-        c3_g_y = muDoubleScalarRound(c3_g_y);
-        if (covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 2,
-                             covrtRelationalopUpdateFcn
-                             (chartInstance->c3_covrtInstance, 4U, 0U, 3U, c3_x,
-                              0.0, -1, 4U, c3_x > 0.0)) && covrtEmlCondEval
-            (chartInstance->c3_covrtInstance, 4U, 0, 3,
-             covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance, 4U, 0U,
-              4U, c3_x, 160.0, -1, 3U, c3_x <= 160.0)) && covrtEmlCondEval
-            (chartInstance->c3_covrtInstance, 4U, 0, 4,
-             covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance, 4U, 0U,
-              5U, c3_g_y, 0.0, -1, 4U, c3_g_y > 0.0)) && covrtEmlCondEval
-            (chartInstance->c3_covrtInstance, 4U, 0, 5,
-             covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance, 4U, 0U,
-              6U, c3_g_y, 120.0, -1, 3U, c3_g_y <= 120.0))) {
-          covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 1, true);
-          covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 6, true);
-          if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
-            emlrtIntegerCheckR2012b(c3_g_y, &c3_h_emlrtDCI, &c3_st);
-          }
-
-          c3_i113 = (int32_T)c3_g_y;
-          if ((c3_i113 < 1) || (c3_i113 > 120)) {
-            emlrtDynamicBoundsCheckR2012b(c3_i113, 1, 120, &c3_o_emlrtBCI,
-              &c3_st);
-          }
-
-          if (c3_x != (real_T)(int32_T)muDoubleScalarFloor(c3_x)) {
-            emlrtIntegerCheckR2012b(c3_x, &c3_i_emlrtDCI, &c3_st);
-          }
-
-          c3_i114 = (int32_T)c3_x;
-          if ((c3_i114 < 1) || (c3_i114 > 160)) {
-            emlrtDynamicBoundsCheckR2012b(c3_i114, 1, 160, &c3_p_emlrtBCI,
-              &c3_st);
-          }
-
-          chartInstance->c3_outt[(c3_i113 + 120 * (c3_i114 - 1)) - 1] = 0U;
-          if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
-            emlrtIntegerCheckR2012b(c3_g_y, &c3_j_emlrtDCI, &c3_st);
-          }
-
-          c3_i115 = (int32_T)c3_g_y;
-          if ((c3_i115 < 1) || (c3_i115 > 120)) {
-            emlrtDynamicBoundsCheckR2012b(c3_i115, 1, 120, &c3_q_emlrtBCI,
-              &c3_st);
-          }
-
-          if (c3_x != (real_T)(int32_T)muDoubleScalarFloor(c3_x)) {
-            emlrtIntegerCheckR2012b(c3_x, &c3_k_emlrtDCI, &c3_st);
-          }
-
-          c3_i116 = (int32_T)c3_x;
-          if ((c3_i116 < 1) || (c3_i116 > 160)) {
-            emlrtDynamicBoundsCheckR2012b(c3_i116, 1, 160, &c3_r_emlrtBCI,
-              &c3_st);
-          }
-
-          chartInstance->c3_outt[(c3_i115 + 120 * (c3_i116 - 1)) + 19199] = 0U;
-          if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
-            emlrtIntegerCheckR2012b(c3_g_y, &c3_l_emlrtDCI, &c3_st);
-          }
-
-          c3_i117 = (int32_T)c3_g_y;
-          if ((c3_i117 < 1) || (c3_i117 > 120)) {
-            emlrtDynamicBoundsCheckR2012b(c3_i117, 1, 120, &c3_s_emlrtBCI,
-              &c3_st);
-          }
-
-          if (c3_x != (real_T)(int32_T)muDoubleScalarFloor(c3_x)) {
-            emlrtIntegerCheckR2012b(c3_x, &c3_m_emlrtDCI, &c3_st);
-          }
-
-          c3_i118 = (int32_T)c3_x;
-          if ((c3_i118 < 1) || (c3_i118 > 160)) {
-            emlrtDynamicBoundsCheckR2012b(c3_i118, 1, 160, &c3_t_emlrtBCI,
-              &c3_st);
-          }
-
-          chartInstance->c3_outt[(c3_i117 + 120 * (c3_i118 - 1)) + 38399] =
-            MAX_uint8_T;
-        } else {
-          covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 1, false);
-          covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 6, false);
-        }
-
-        _SF_MEX_LISTEN_FOR_CTRL_C(chartInstance->S);
-      }
-
-      covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 3, 0);
+              c3_c_emlrt_marshallOut(chartInstance, c3_dv1));
     } else {
       c3_guard1 = true;
     }
@@ -3779,218 +2857,240 @@ static void sf_gateway_c3_flightControlSystem
   c3_d9 = (real_T)c3_filteredX_size[0];
   c3_i84 = (int32_T)c3_d9;
   emlrtForLoopVectorCheckR2021a(1.0, 1.0, c3_d9, mxDOUBLE_CLASS, c3_i84,
-    &c3_nc_emlrtRTEI, &c3_st);
+    &c3_bc_emlrtRTEI, &c3_st);
   for (c3_b_k = 0; c3_b_k < c3_i84; c3_b_k++) {
     c3_c_k = 1.0 + (real_T)c3_b_k;
-    covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 4, 1);
+    covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 2, 1);
     for (c3_dx = 0; c3_dx < 9; c3_dx++) {
       c3_b_dx = -4.0 + (real_T)c3_dx;
-      covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 5, 1);
+      covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 3, 1);
       for (c3_dy = 0; c3_dy < 9; c3_dy++) {
         c3_b_dy = -4.0 + (real_T)c3_dy;
-        covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 6, 1);
-        c3_b_st.site = &c3_yd_emlrtRSI;
+        covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 4, 1);
+        c3_b_st.site = &c3_nc_emlrtRSI;
         c3_b_a = c3_b_dx;
         c3_c_a = c3_b_a;
         c3_d_a = c3_c_a;
         c3_e_a = c3_d_a;
         c3_f_a = c3_e_a;
         c3_c = c3_f_a * c3_f_a;
-        c3_b_st.site = &c3_yd_emlrtRSI;
+        c3_b_st.site = &c3_nc_emlrtRSI;
         c3_g_a = c3_b_dy;
         c3_h_a = c3_g_a;
         c3_i_a = c3_h_a;
         c3_j_a = c3_i_a;
         c3_k_a = c3_j_a;
         c3_b_c = c3_k_a * c3_k_a;
-        c3_d11 = c3_c + c3_b_c;
-        c3_b_st.site = &c3_yd_emlrtRSI;
-        if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 7,
+        c3_d10 = c3_c + c3_b_c;
+        c3_b_st.site = &c3_nc_emlrtRSI;
+        if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 5,
                            covrtRelationalopUpdateFcn
-                           (chartInstance->c3_covrtInstance, 4U, 0U, 7U, c3_d11,
-                            16.0, -1, 3U, c3_d11 <= 16.0))) {
+                           (chartInstance->c3_covrtInstance, 4U, 0U, 2U, c3_d10,
+                            16.0, -1, 3U, c3_d10 <= 16.0))) {
           if (c3_c_k != (real_T)(int32_T)muDoubleScalarFloor(c3_c_k)) {
-            emlrtIntegerCheckR2012b(c3_c_k, &c3_tb_emlrtDCI, &c3_st);
+            emlrtIntegerCheckR2012b(c3_c_k, &c3_hb_emlrtDCI, &c3_st);
           }
 
-          c3_i100 = (int32_T)c3_c_k;
-          if ((c3_i100 < 1) || (c3_i100 > c3_filteredX_size[0])) {
-            emlrtDynamicBoundsCheckR2012b(c3_i100, 1, c3_filteredX_size[0],
-              &c3_wb_emlrtBCI, &c3_st);
+          c3_i94 = (int32_T)c3_c_k;
+          if ((c3_i94 < 1) || (c3_i94 > c3_filteredX_size[0])) {
+            emlrtDynamicBoundsCheckR2012b(c3_i94, 1, c3_filteredX_size[0],
+              &c3_ib_emlrtBCI, &c3_st);
           }
 
-          c3_x = (chartInstance->c3_filteredX_data[c3_i100 - 1] + c3_b_dx) +
-            80.0;
+          c3_x = (chartInstance->c3_filteredX_data[c3_i94 - 1] + c3_b_dx) + 80.0;
           if (c3_c_k != (real_T)(int32_T)muDoubleScalarFloor(c3_c_k)) {
-            emlrtIntegerCheckR2012b(c3_c_k, &c3_ub_emlrtDCI, &c3_st);
+            emlrtIntegerCheckR2012b(c3_c_k, &c3_ib_emlrtDCI, &c3_st);
           }
 
-          c3_i101 = (int32_T)c3_c_k;
-          if ((c3_i101 < 1) || (c3_i101 > c3_filteredY_size[0])) {
-            emlrtDynamicBoundsCheckR2012b(c3_i101, 1, c3_filteredY_size[0],
-              &c3_xb_emlrtBCI, &c3_st);
+          c3_i95 = (int32_T)c3_c_k;
+          if ((c3_i95 < 1) || (c3_i95 > c3_filteredY_size[0])) {
+            emlrtDynamicBoundsCheckR2012b(c3_i95, 1, c3_filteredY_size[0],
+              &c3_jb_emlrtBCI, &c3_st);
           }
 
-          c3_g_y = (chartInstance->c3_filteredY_data[c3_i101 - 1] + c3_b_dy) +
+          c3_g_y = (chartInstance->c3_filteredY_data[c3_i95 - 1] + c3_b_dy) +
             60.0;
-          if (covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 6,
+          if (covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 2,
                                covrtRelationalopUpdateFcn
-                               (chartInstance->c3_covrtInstance, 4U, 0U, 8U,
+                               (chartInstance->c3_covrtInstance, 4U, 0U, 3U,
                                 c3_x, 0.0, -1, 4U, c3_x > 0.0)) &&
-              covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 7,
+              covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 3,
                                covrtRelationalopUpdateFcn
-                               (chartInstance->c3_covrtInstance, 4U, 0U, 9U,
+                               (chartInstance->c3_covrtInstance, 4U, 0U, 4U,
                                 c3_x, 160.0, -1, 3U, c3_x <= 160.0)) &&
-              covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 8,
+              covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 4,
                                covrtRelationalopUpdateFcn
-                               (chartInstance->c3_covrtInstance, 4U, 0U, 10U,
+                               (chartInstance->c3_covrtInstance, 4U, 0U, 5U,
                                 c3_g_y, 0.0, -1, 4U, c3_g_y > 0.0)) &&
-              covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 9,
+              covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 5,
                                covrtRelationalopUpdateFcn
-                               (chartInstance->c3_covrtInstance, 4U, 0U, 11U,
+                               (chartInstance->c3_covrtInstance, 4U, 0U, 6U,
                                 c3_g_y, 120.0, -1, 3U, c3_g_y <= 120.0))) {
-            covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 2, true);
-            covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 8, true);
+            covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 1, true);
+            covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 6, true);
             if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
-              emlrtIntegerCheckR2012b(c3_g_y, &c3_n_emlrtDCI, &c3_st);
+              emlrtIntegerCheckR2012b(c3_g_y, &c3_h_emlrtDCI, &c3_st);
             }
 
-            c3_i103 = (int32_T)c3_g_y;
-            if ((c3_i103 < 1) || (c3_i103 > 120)) {
-              emlrtDynamicBoundsCheckR2012b(c3_i103, 1, 120, &c3_u_emlrtBCI,
+            c3_i96 = (int32_T)c3_g_y;
+            if ((c3_i96 < 1) || (c3_i96 > 120)) {
+              emlrtDynamicBoundsCheckR2012b(c3_i96, 1, 120, &c3_m_emlrtBCI,
                 &c3_st);
             }
 
             if (c3_x != (real_T)(int32_T)muDoubleScalarFloor(c3_x)) {
-              emlrtIntegerCheckR2012b(c3_x, &c3_o_emlrtDCI, &c3_st);
+              emlrtIntegerCheckR2012b(c3_x, &c3_i_emlrtDCI, &c3_st);
             }
 
-            c3_i104 = (int32_T)c3_x;
-            if ((c3_i104 < 1) || (c3_i104 > 160)) {
-              emlrtDynamicBoundsCheckR2012b(c3_i104, 1, 160, &c3_v_emlrtBCI,
+            c3_i97 = (int32_T)c3_x;
+            if ((c3_i97 < 1) || (c3_i97 > 160)) {
+              emlrtDynamicBoundsCheckR2012b(c3_i97, 1, 160, &c3_n_emlrtBCI,
                 &c3_st);
             }
 
-            chartInstance->c3_outt[(c3_i103 + 120 * (c3_i104 - 1)) - 1] = 0U;
+            chartInstance->c3_outt[(c3_i96 + 120 * (c3_i97 - 1)) - 1] = 0U;
+            c3_b_x = 255.0 * c3_c_k / (real_T)c3_filteredX_size[0];
+            c3_c_x = c3_b_x;
+            c3_h_y = c3_c_x;
+            c3_h_y = muDoubleScalarFloor(c3_h_y);
             if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
-              emlrtIntegerCheckR2012b(c3_g_y, &c3_p_emlrtDCI, &c3_st);
+              emlrtIntegerCheckR2012b(c3_g_y, &c3_j_emlrtDCI, &c3_st);
             }
 
-            c3_i107 = (int32_T)c3_g_y;
-            if ((c3_i107 < 1) || (c3_i107 > 120)) {
-              emlrtDynamicBoundsCheckR2012b(c3_i107, 1, 120, &c3_w_emlrtBCI,
+            c3_i98 = (int32_T)c3_g_y;
+            if ((c3_i98 < 1) || (c3_i98 > 120)) {
+              emlrtDynamicBoundsCheckR2012b(c3_i98, 1, 120, &c3_o_emlrtBCI,
                 &c3_st);
             }
 
             if (c3_x != (real_T)(int32_T)muDoubleScalarFloor(c3_x)) {
-              emlrtIntegerCheckR2012b(c3_x, &c3_q_emlrtDCI, &c3_st);
+              emlrtIntegerCheckR2012b(c3_x, &c3_k_emlrtDCI, &c3_st);
             }
 
-            c3_i109 = (int32_T)c3_x;
-            if ((c3_i109 < 1) || (c3_i109 > 160)) {
-              emlrtDynamicBoundsCheckR2012b(c3_i109, 1, 160, &c3_x_emlrtBCI,
+            c3_i99 = (int32_T)c3_x;
+            if ((c3_i99 < 1) || (c3_i99 > 160)) {
+              emlrtDynamicBoundsCheckR2012b(c3_i99, 1, 160, &c3_p_emlrtBCI,
                 &c3_st);
             }
 
-            chartInstance->c3_outt[(c3_i107 + 120 * (c3_i109 - 1)) + 19199] =
-              MAX_uint8_T;
-            if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
-              emlrtIntegerCheckR2012b(c3_g_y, &c3_r_emlrtDCI, &c3_st);
+            c3_d11 = muDoubleScalarRound(c3_h_y);
+            c3_b_covSaturation = false;
+            if (c3_d11 < 256.0) {
+              if (c3_d11 >= 0.0) {
+                c3_u1 = (uint8_T)c3_d11;
+              } else {
+                c3_b_covSaturation = true;
+                c3_u1 = 0U;
+                sf_data_saturate_error(chartInstance->S, 1U, 3785, 46);
+              }
+            } else if (c3_d11 >= 256.0) {
+              c3_b_covSaturation = true;
+              c3_u1 = MAX_uint8_T;
+              sf_data_saturate_error(chartInstance->S, 1U, 3785, 46);
+            } else {
+              c3_u1 = 0U;
             }
 
-            c3_i110 = (int32_T)c3_g_y;
-            if ((c3_i110 < 1) || (c3_i110 > 120)) {
-              emlrtDynamicBoundsCheckR2012b(c3_i110, 1, 120, &c3_y_emlrtBCI,
+            covrtSaturationUpdateFcn(chartInstance->c3_covrtInstance, 4, 0, 0, 0,
+              c3_b_covSaturation);
+            chartInstance->c3_outt[(c3_i98 + 120 * (c3_i99 - 1)) + 19199] =
+              c3_u1;
+            if (c3_g_y != (real_T)(int32_T)muDoubleScalarFloor(c3_g_y)) {
+              emlrtIntegerCheckR2012b(c3_g_y, &c3_l_emlrtDCI, &c3_st);
+            }
+
+            c3_i100 = (int32_T)c3_g_y;
+            if ((c3_i100 < 1) || (c3_i100 > 120)) {
+              emlrtDynamicBoundsCheckR2012b(c3_i100, 1, 120, &c3_q_emlrtBCI,
                 &c3_st);
             }
 
             if (c3_x != (real_T)(int32_T)muDoubleScalarFloor(c3_x)) {
-              emlrtIntegerCheckR2012b(c3_x, &c3_s_emlrtDCI, &c3_st);
+              emlrtIntegerCheckR2012b(c3_x, &c3_m_emlrtDCI, &c3_st);
             }
 
-            c3_i112 = (int32_T)c3_x;
-            if ((c3_i112 < 1) || (c3_i112 > 160)) {
-              emlrtDynamicBoundsCheckR2012b(c3_i112, 1, 160, &c3_ab_emlrtBCI,
+            c3_i101 = (int32_T)c3_x;
+            if ((c3_i101 < 1) || (c3_i101 > 160)) {
+              emlrtDynamicBoundsCheckR2012b(c3_i101, 1, 160, &c3_r_emlrtBCI,
                 &c3_st);
             }
 
-            chartInstance->c3_outt[(c3_i110 + 120 * (c3_i112 - 1)) + 38399] = 0U;
+            chartInstance->c3_outt[(c3_i100 + 120 * (c3_i101 - 1)) + 38399] = 0U;
           } else {
-            covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 2, false);
-            covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 8, false);
+            covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 1, false);
+            covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 6, false);
           }
         }
 
         _SF_MEX_LISTEN_FOR_CTRL_C(chartInstance->S);
       }
 
-      covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 6, 0);
+      covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 4, 0);
       _SF_MEX_LISTEN_FOR_CTRL_C(chartInstance->S);
     }
 
-    covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 5, 0);
+    covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 3, 0);
     _SF_MEX_LISTEN_FOR_CTRL_C(chartInstance->S);
   }
 
-  covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 4, 0);
-  if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 9,
+  covrtEmlForEval(chartInstance->c3_covrtInstance, 4U, 0, 2, 0);
+  if (covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 7,
                      covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance,
-        4U, 0U, 12U, chartInstance->c3_call_count, 75.0, -1, 2U,
+        4U, 0U, 7U, chartInstance->c3_call_count, 75.0, -1, 2U,
         chartInstance->c3_call_count < 75.0))) {
     c3_b_distX = -10.0;
     c3_b_distY = 10.0;
-  } else if (covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 10,
+  } else if (covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 6,
               covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance, 4U, 0U,
-    13U, chartInstance->c3_call_count, 60.0, -1, 5U,
-               chartInstance->c3_call_count >= 60.0)) && covrtEmlCondEval
-             (chartInstance->c3_covrtInstance, 4U, 0, 11,
+    8U, chartInstance->c3_call_count, 60.0, -1, 5U, chartInstance->c3_call_count
+    >= 60.0)) && covrtEmlCondEval(chartInstance->c3_covrtInstance, 4U, 0, 7,
               covrtRelationalopUpdateFcn(chartInstance->c3_covrtInstance, 4U, 0U,
-    14U, chartInstance->c3_call_count, 120.0, -1, 2U,
+    9U, chartInstance->c3_call_count, 120.0, -1, 2U,
                chartInstance->c3_call_count < 120.0))) {
-    covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 3, true);
-    covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 10, true);
+    covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 2, true);
+    covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 8, true);
     c3_b_distX = 0.0;
     c3_b_distY = 30.0;
   } else {
-    covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 3, false);
-    covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 10, false);
+    covrtEmlMcdcEval(chartInstance->c3_covrtInstance, 4U, 0, 2, false);
+    covrtEmlIfEval(chartInstance->c3_covrtInstance, 4U, 0, 8, false);
     c3_b_distX = 0.0;
     c3_b_distY = 0.0;
   }
 
   chartInstance->c3_call_count++;
-  for (c3_i88 = 0; c3_i88 < 57600; c3_i88++) {
-    (*chartInstance->c3_b_outt)[c3_i88] = chartInstance->c3_outt[c3_i88];
+  for (c3_i86 = 0; c3_i86 < 57600; c3_i86++) {
+    (*chartInstance->c3_b_outt)[c3_i86] = chartInstance->c3_outt[c3_i86];
   }
 
   *chartInstance->c3_distX = c3_b_distX;
   *chartInstance->c3_distY = c3_b_distY;
-  for (c3_i89 = 0; c3_i89 < 20; c3_i89++) {
-    (*chartInstance->c3_pointsx)[c3_i89] = c3_b_pointsx[c3_i89];
+  for (c3_i88 = 0; c3_i88 < 20; c3_i88++) {
+    (*chartInstance->c3_pointsx)[c3_i88] = c3_b_pointsx[c3_i88];
   }
 
-  for (c3_i92 = 0; c3_i92 < 20; c3_i92++) {
-    (*chartInstance->c3_pointsy)[c3_i92] = c3_b_pointsy[c3_i92];
+  for (c3_i90 = 0; c3_i90 < 20; c3_i90++) {
+    (*chartInstance->c3_pointsy)[c3_i90] = c3_b_pointsy[c3_i90];
   }
 
   c3_do_animation_call_c3_flightControlSystem(chartInstance);
-  for (c3_i93 = 0; c3_i93 < 57600; c3_i93++) {
+  for (c3_i91 = 0; c3_i91 < 57600; c3_i91++) {
     covrtSigUpdateFcn(chartInstance->c3_covrtInstance, 1U, (real_T)
-                      (*chartInstance->c3_b_outt)[c3_i93]);
+                      (*chartInstance->c3_b_outt)[c3_i91]);
   }
 
   covrtSigUpdateFcn(chartInstance->c3_covrtInstance, 2U,
                     *chartInstance->c3_distX);
   covrtSigUpdateFcn(chartInstance->c3_covrtInstance, 3U,
                     *chartInstance->c3_distY);
-  for (c3_i96 = 0; c3_i96 < 20; c3_i96++) {
+  for (c3_i92 = 0; c3_i92 < 20; c3_i92++) {
     covrtSigUpdateFcn(chartInstance->c3_covrtInstance, 4U,
-                      (*chartInstance->c3_pointsx)[c3_i96]);
+                      (*chartInstance->c3_pointsx)[c3_i92]);
   }
 
-  for (c3_i98 = 0; c3_i98 < 20; c3_i98++) {
+  for (c3_i93 = 0; c3_i93 < 20; c3_i93++) {
     covrtSigUpdateFcn(chartInstance->c3_covrtInstance, 5U,
-                      (*chartInstance->c3_pointsy)[c3_i98]);
+                      (*chartInstance->c3_pointsy)[c3_i93]);
   }
 }
 
@@ -4028,17 +3128,11 @@ static const mxArray *get_sim_state_c3_flightControlSystem
   const mxArray *c3_i_y = NULL;
   const mxArray *c3_j_y = NULL;
   const mxArray *c3_k_y = NULL;
-  const mxArray *c3_l_y = NULL;
-  const mxArray *c3_m_y = NULL;
-  const mxArray *c3_n_y = NULL;
-  const mxArray *c3_o_y = NULL;
-  const mxArray *c3_p_y = NULL;
-  const mxArray *c3_q_y = NULL;
   const mxArray *c3_st;
   c3_st = NULL;
   c3_st = NULL;
   c3_b_y = NULL;
-  sf_mex_assign(&c3_b_y, sf_mex_createcellmatrix(15, 1), false);
+  sf_mex_assign(&c3_b_y, sf_mex_createcellmatrix(9, 1), false);
   c3_c_y = NULL;
   sf_mex_assign(&c3_c_y, sf_mex_create("y", chartInstance->c3_distX, 0, 0U, 0U,
     0U, 0), false);
@@ -4090,70 +3184,10 @@ static const mxArray *get_sim_state_c3_flightControlSystem
 
   sf_mex_setcell(c3_b_y, 7, c3_j_y);
   c3_k_y = NULL;
-  if (!chartInstance->c3_b_method_not_empty) {
-    sf_mex_assign(&c3_k_y, sf_mex_create("y", NULL, 0, 0U, 1U, 0U, 2, 0, 0),
-                  false);
-  } else {
-    sf_mex_assign(&c3_k_y, sf_mex_create("y", &chartInstance->c3_b_method, 7, 0U,
-      0U, 0U, 0), false);
-  }
-
-  sf_mex_setcell(c3_b_y, 8, c3_k_y);
-  c3_l_y = NULL;
-  if (!chartInstance->c3_b_method_not_empty) {
-    sf_mex_assign(&c3_l_y, sf_mex_create("y", NULL, 0, 0U, 1U, 0U, 2, 0, 0),
-                  false);
-  } else {
-    sf_mex_assign(&c3_l_y, sf_mex_create("y", &chartInstance->c3_method, 7, 0U,
-      0U, 0U, 0), false);
-  }
-
-  sf_mex_setcell(c3_b_y, 9, c3_l_y);
-  c3_m_y = NULL;
-  if (!chartInstance->c3_b_method_not_empty) {
-    sf_mex_assign(&c3_m_y, sf_mex_create("y", NULL, 0, 0U, 1U, 0U, 2, 0, 0),
-                  false);
-  } else {
-    sf_mex_assign(&c3_m_y, sf_mex_create("y", &chartInstance->c3_b_state, 7, 0U,
-      0U, 0U, 0), false);
-  }
-
-  sf_mex_setcell(c3_b_y, 10, c3_m_y);
-  c3_n_y = NULL;
-  if (!chartInstance->c3_d_state_not_empty) {
-    sf_mex_assign(&c3_n_y, sf_mex_create("y", NULL, 0, 0U, 1U, 0U, 2, 0, 0),
-                  false);
-  } else {
-    sf_mex_assign(&c3_n_y, sf_mex_create("y", chartInstance->c3_d_state, 7, 0U,
-      1U, 0U, 1, 625), false);
-  }
-
-  sf_mex_setcell(c3_b_y, 11, c3_n_y);
-  c3_o_y = NULL;
-  if (!chartInstance->c3_c_state_not_empty) {
-    sf_mex_assign(&c3_o_y, sf_mex_create("y", NULL, 0, 0U, 1U, 0U, 2, 0, 0),
-                  false);
-  } else {
-    sf_mex_assign(&c3_o_y, sf_mex_create("y", chartInstance->c3_c_state, 7, 0U,
-      1U, 0U, 1, 2), false);
-  }
-
-  sf_mex_setcell(c3_b_y, 12, c3_o_y);
-  c3_p_y = NULL;
-  if (!chartInstance->c3_c_state_not_empty) {
-    sf_mex_assign(&c3_p_y, sf_mex_create("y", NULL, 0, 0U, 1U, 0U, 2, 0, 0),
-                  false);
-  } else {
-    sf_mex_assign(&c3_p_y, sf_mex_create("y", chartInstance->c3_state, 7, 0U, 1U,
-      0U, 1, 2), false);
-  }
-
-  sf_mex_setcell(c3_b_y, 13, c3_p_y);
-  c3_q_y = NULL;
-  sf_mex_assign(&c3_q_y, sf_mex_create("y",
+  sf_mex_assign(&c3_k_y, sf_mex_create("y",
     &chartInstance->c3_is_active_c3_flightControlSystem, 3, 0U, 0U, 0U, 0),
                 false);
-  sf_mex_setcell(c3_b_y, 14, c3_q_y);
+  sf_mex_setcell(c3_b_y, 8, c3_k_y);
   sf_mex_assign(&c3_st, c3_b_y, false);
   return c3_st;
 }
@@ -4167,12 +3201,6 @@ static void set_sim_state_c3_flightControlSystem
   int32_T c3_i;
   int32_T c3_i1;
   int32_T c3_i2;
-  int32_T c3_i3;
-  int32_T c3_i4;
-  int32_T c3_i5;
-  uint32_T c3_uv1[625];
-  uint32_T c3_uv2[2];
-  uint32_T c3_uv3[2];
   uint8_T c3_uv[57600];
   chartInstance->c3_doneDoubleBufferReInit = true;
   c3_b_u = sf_mex_dup(c3_st);
@@ -4207,32 +3235,8 @@ static void set_sim_state_c3_flightControlSystem
   sf_mex_assign(&chartInstance->c3_hFig, c3_k_emlrt_marshallIn(chartInstance,
     sf_mex_dup(sf_mex_getcell(c3_b_u, 7)), &chartInstance->c3_hFig_not_empty),
                 true);
-  chartInstance->c3_b_method = c3_m_emlrt_marshallIn(chartInstance, sf_mex_dup
-    (sf_mex_getcell(c3_b_u, 8)), "method", &chartInstance->c3_b_method_not_empty);
-  chartInstance->c3_method = c3_m_emlrt_marshallIn(chartInstance, sf_mex_dup
-    (sf_mex_getcell(c3_b_u, 9)), "method", &chartInstance->c3_method_not_empty);
-  chartInstance->c3_b_state = c3_m_emlrt_marshallIn(chartInstance, sf_mex_dup
-    (sf_mex_getcell(c3_b_u, 10)), "state", &chartInstance->c3_b_state_not_empty);
-  c3_o_emlrt_marshallIn(chartInstance, sf_mex_dup(sf_mex_getcell(c3_b_u, 11)),
-                        "state", &chartInstance->c3_d_state_not_empty, c3_uv1);
-  for (c3_i3 = 0; c3_i3 < 625; c3_i3++) {
-    chartInstance->c3_d_state[c3_i3] = c3_uv1[c3_i3];
-  }
-
-  c3_q_emlrt_marshallIn(chartInstance, sf_mex_dup(sf_mex_getcell(c3_b_u, 12)),
-                        "state", &chartInstance->c3_c_state_not_empty, c3_uv2);
-  for (c3_i4 = 0; c3_i4 < 2; c3_i4++) {
-    chartInstance->c3_c_state[c3_i4] = c3_uv2[c3_i4];
-  }
-
-  c3_q_emlrt_marshallIn(chartInstance, sf_mex_dup(sf_mex_getcell(c3_b_u, 13)),
-                        "state", &chartInstance->c3_state_not_empty, c3_uv3);
-  for (c3_i5 = 0; c3_i5 < 2; c3_i5++) {
-    chartInstance->c3_state[c3_i5] = c3_uv3[c3_i5];
-  }
-
-  chartInstance->c3_is_active_c3_flightControlSystem = c3_s_emlrt_marshallIn
-    (chartInstance, sf_mex_dup(sf_mex_getcell(c3_b_u, 14)),
+  chartInstance->c3_is_active_c3_flightControlSystem = c3_m_emlrt_marshallIn
+    (chartInstance, sf_mex_dup(sf_mex_getcell(c3_b_u, 8)),
      "is_active_c3_flightControlSystem");
   sf_mex_destroy(&c3_b_u);
   sf_mex_destroy(&c3_st);
@@ -4980,7 +3984,7 @@ static void c3_indexShapeCheck(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const emlrtStack *c3_sp, int32_T c3_matrixSize, int32_T
   c3_indexSize[2])
 {
-  static char_T c3_b_cv[30] = { 'C', 'o', 'd', 'e', 'r', ':', 'F', 'E', ':', 'P',
+  static char_T c3_cv[30] = { 'C', 'o', 'd', 'e', 'r', ':', 'F', 'E', ':', 'P',
     'o', 't', 'e', 'n', 't', 'i', 'a', 'l', 'V', 'e', 'c', 't', 'o', 'r', 'V',
     'e', 'c', 't', 'o', 'r' };
 
@@ -5023,10 +4027,10 @@ static void c3_indexShapeCheck(SFc3_flightControlSystemInstanceStruct
   c3_b_c = c3_c;
   if (c3_b_c) {
     c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 30),
+    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 30),
                   false);
     c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 30),
+    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 30),
                   false);
     sf_mex_call(&c3_st, &c3_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
                 sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
@@ -5038,7 +4042,7 @@ static void c3_power(SFc3_flightControlSystemInstanceStruct *chartInstance,
                      const emlrtStack *c3_sp, real_T c3_a_data[], int32_T
                      c3_a_size[1], real_T c3_y_data[], int32_T c3_y_size[1])
 {
-  static char_T c3_b_cv[31] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+  static char_T c3_cv[31] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'p', 'o', 'w', 'e', 'r', '_', 'd', 'o', 'm', 'a', 'i',
     'n', 'E', 'r', 'r', 'o', 'r' };
 
@@ -5054,10 +4058,10 @@ static void c3_power(SFc3_flightControlSystemInstanceStruct *chartInstance,
   c3_p = false;
   if (c3_p) {
     c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 31),
+    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 31),
                   false);
     c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 31),
+    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 31),
                   false);
     sf_mex_call(&c3_st, &c3_b_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
                 sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
@@ -5102,24 +4106,24 @@ static void c3_check_forloop_overflow_error
   (SFc3_flightControlSystemInstanceStruct *chartInstance, const emlrtStack
    *c3_sp)
 {
-  static char_T c3_b_cv[34] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+  static char_T c3_cv[34] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'i', 'n', 't', '_', 'f', 'o', 'r', 'l', 'o', 'o', 'p',
     '_', 'o', 'v', 'e', 'r', 'f', 'l', 'o', 'w' };
 
-  static char_T c3_b_cv1[5] = { 'i', 'n', 't', '3', '2' };
+  static char_T c3_cv1[5] = { 'i', 'n', 't', '3', '2' };
 
   const mxArray *c3_b_y = NULL;
   const mxArray *c3_c_y = NULL;
   const mxArray *c3_d_y = NULL;
   (void)chartInstance;
   c3_b_y = NULL;
-  sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 34),
+  sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 34),
                 false);
   c3_c_y = NULL;
-  sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 34),
+  sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 34),
                 false);
   c3_d_y = NULL;
-  sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_b_cv1, 10, 0U, 1U, 0U, 2, 1, 5),
+  sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_cv1, 10, 0U, 1U, 0U, 2, 1, 5),
                 false);
   sf_mex_call(c3_sp, &c3_d_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
               sf_mex_call(c3_sp, NULL, "getString", 1U, 1U, 14, sf_mex_call
@@ -5129,7 +4133,7 @@ static void c3_check_forloop_overflow_error
 static boolean_T c3_all(SFc3_flightControlSystemInstanceStruct *chartInstance,
   const emlrtStack *c3_sp, boolean_T c3_c_x_data[], int32_T c3_x_size[1])
 {
-  static char_T c3_b_cv[51] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+  static char_T c3_cv[51] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'e', 'm', 'l', '_', 'a', 'l', 'l', '_', 'o', 'r', '_',
     'a', 'n', 'y', '_', 'a', 'u', 't', 'o', 'D', 'i', 'm', 'I', 'n', 'c', 'o',
     'm', 'p', 'a', 't', 'i', 'b', 'i', 'l', 'i', 't', 'y' };
@@ -5169,10 +4173,10 @@ static boolean_T c3_all(SFc3_flightControlSystemInstanceStruct *chartInstance,
 
   if (!c3_b) {
     c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 51),
+    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 51),
                   false);
     c3_d_y = NULL;
-    sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 51),
+    sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 51),
                   false);
     sf_mex_call(&c3_st, &c3_e_emlrtMCI, "error", 0U, 2U, 14, c3_c_y, 14,
                 sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
@@ -5414,388 +4418,6 @@ static void c3_isfinite(SFc3_flightControlSystemInstanceStruct *chartInstance,
   }
 }
 
-static real_T c3_randn(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp)
-{
-  static real_T c3_dv[257] = { 0.0, 0.215241895984875, 0.286174591792068,
-    0.335737519214422, 0.375121332878378, 0.408389134611989, 0.43751840220787,
-    0.46363433679088, 0.487443966139235, 0.50942332960209, 0.529909720661557,
-    0.549151702327164, 0.567338257053817, 0.584616766106378, 0.601104617755991,
-    0.61689699000775, 0.63207223638606, 0.646695714894993, 0.660822574244419,
-    0.674499822837293, 0.687767892795788, 0.700661841106814, 0.713212285190975,
-    0.725446140909999, 0.737387211434295, 0.749056662017815, 0.760473406430107,
-    0.771654424224568, 0.782615023307232, 0.793369058840623, 0.80392911698997,
-    0.814306670135215, 0.824512208752291, 0.834555354086381, 0.844444954909153,
-    0.854189171008163, 0.863795545553308, 0.87327106808886, 0.882622229585165,
-    0.891855070732941, 0.900975224461221, 0.909987953496718, 0.91889818364959,
-    0.927710533401999, 0.936429340286575, 0.945058684468165, 0.953602409881086,
-    0.96206414322304, 0.970447311064224, 0.978755155294224, 0.986990747099062,
-    0.99515699963509, 1.00325667954467, 1.01129241744, 1.01926671746548,
-    1.02718196603564, 1.03504043983344, 1.04284431314415, 1.05059566459093,
-    1.05829648333067, 1.06594867476212, 1.07355406579244, 1.0811144097034,
-    1.08863139065398, 1.09610662785202, 1.10354167942464, 1.11093804601357,
-    1.11829717411934, 1.12562045921553, 1.13290924865253, 1.14016484436815,
-    1.14738850542085, 1.15458145035993, 1.16174485944561, 1.16887987673083,
-    1.17598761201545, 1.18306914268269, 1.19012551542669, 1.19715774787944,
-    1.20416683014438, 1.2111537262437, 1.21811937548548, 1.22506469375653,
-    1.23199057474614, 1.23889789110569, 1.24578749554863, 1.2526602218949,
-    1.25951688606371, 1.26635828701823, 1.27318520766536, 1.27999841571382,
-    1.28679866449324, 1.29358669373695, 1.30036323033084, 1.30712898903073,
-    1.31388467315022, 1.32063097522106, 1.32736857762793, 1.33409815321936,
-    1.3408203658964, 1.34753587118059, 1.35424531676263, 1.36094934303328,
-    1.36764858359748, 1.37434366577317, 1.38103521107586, 1.38772383568998,
-    1.39441015092814, 1.40109476367925, 1.4077782768464, 1.41446128977547,
-    1.42114439867531, 1.42782819703026, 1.43451327600589, 1.44120022484872,
-    1.44788963128058, 1.45458208188841, 1.46127816251028, 1.46797845861808,
-    1.47468355569786, 1.48139403962819, 1.48811049705745, 1.49483351578049,
-    1.50156368511546, 1.50830159628131, 1.51504784277671, 1.521803020761,
-    1.52856772943771, 1.53534257144151, 1.542128153229, 1.54892508547417,
-    1.55573398346918, 1.56255546753104, 1.56939016341512, 1.57623870273591,
-    1.58310172339603, 1.58997987002419, 1.59687379442279, 1.60378415602609,
-    1.61071162236983, 1.61765686957301, 1.62462058283303, 1.63160345693487,
-    1.63860619677555, 1.64562951790478, 1.65267414708306, 1.65974082285818,
-    1.66683029616166, 1.67394333092612, 1.68108070472517, 1.68824320943719,
-    1.69543165193456, 1.70264685479992, 1.7098896570713, 1.71716091501782,
-    1.72446150294804, 1.73179231405296, 1.73915426128591, 1.74654827828172,
-    1.75397532031767, 1.76143636531891, 1.76893241491127, 1.77646449552452,
-    1.78403365954944, 1.79164098655216, 1.79928758454972, 1.80697459135082,
-    1.81470317596628, 1.82247454009388, 1.83028991968276, 1.83815058658281,
-    1.84605785028518, 1.8540130597602, 1.86201760539967, 1.87007292107127,
-    1.878180486293, 1.88634182853678, 1.8945585256707, 1.90283220855043,
-    1.91116456377125, 1.91955733659319, 1.92801233405266, 1.93653142827569,
-    1.94511656000868, 1.95376974238465, 1.96249306494436, 1.97128869793366,
-    1.98015889690048, 1.98910600761744, 1.99813247135842, 2.00724083056053,
-    2.0164337349062, 2.02571394786385, 2.03508435372962, 2.04454796521753,
-    2.05410793165065, 2.06376754781173, 2.07353026351874, 2.0833996939983,
-    2.09337963113879, 2.10347405571488, 2.11368715068665, 2.12402331568952,
-    2.13448718284602, 2.14508363404789, 2.15581781987674, 2.16669518035431,
-    2.17772146774029, 2.18890277162636, 2.20024554661128, 2.21175664288416,
-    2.22344334009251, 2.23531338492992, 2.24737503294739, 2.25963709517379,
-    2.27210899022838, 2.28480080272449, 2.29772334890286, 2.31088825060137,
-    2.32430801887113, 2.33799614879653, 2.35196722737914, 2.36623705671729,
-    2.38082279517208, 2.39574311978193, 2.41101841390112, 2.42667098493715,
-    2.44272531820036, 2.4592083743347, 2.47614993967052, 2.49358304127105,
-    2.51154444162669, 2.53007523215985, 2.54922155032478, 2.56903545268184,
-    2.58957598670829, 2.61091051848882, 2.63311639363158, 2.65628303757674,
-    2.68051464328574, 2.70593365612306, 2.73268535904401, 2.76094400527999,
-    2.79092117400193, 2.82287739682644, 2.85713873087322, 2.89412105361341,
-    2.93436686720889, 2.97860327988184, 3.02783779176959, 3.08352613200214,
-    3.147889289518, 3.2245750520478, 3.32024473383983, 3.44927829856143,
-    3.65415288536101, 3.91075795952492 };
-
-  static real_T c3_dv1[257] = { 1.0, 0.977101701267673, 0.959879091800108,
-    0.9451989534423, 0.932060075959231, 0.919991505039348, 0.908726440052131,
-    0.898095921898344, 0.887984660755834, 0.878309655808918, 0.869008688036857,
-    0.860033621196332, 0.851346258458678, 0.842915653112205, 0.834716292986884,
-    0.826726833946222, 0.818929191603703, 0.811307874312656, 0.803849483170964,
-    0.796542330422959, 0.789376143566025, 0.782341832654803, 0.775431304981187,
-    0.768637315798486, 0.761953346836795, 0.755373506507096, 0.748892447219157,
-    0.742505296340151, 0.736207598126863, 0.729995264561476, 0.72386453346863,
-    0.717811932630722, 0.711834248878248, 0.705928501332754, 0.700091918136512,
-    0.694321916126117, 0.688616083004672, 0.682972161644995, 0.677388036218774,
-    0.671861719897082, 0.66639134390875, 0.660975147776663, 0.655611470579697,
-    0.650298743110817, 0.645035480820822, 0.639820277453057, 0.634651799287624,
-    0.629528779924837, 0.624450015547027, 0.619414360605834, 0.614420723888914,
-    0.609468064925773, 0.604555390697468, 0.599681752619125, 0.594846243767987,
-    0.590047996332826, 0.585286179263371, 0.580559996100791, 0.575868682972354,
-    0.571211506735253, 0.566587763256165, 0.561996775814525, 0.557437893618766,
-    0.552910490425833, 0.548413963255266, 0.543947731190026, 0.539511234256952,
-    0.535103932380458, 0.530725304403662, 0.526374847171684, 0.522052074672322,
-    0.517756517229756, 0.513487720747327, 0.509245245995748, 0.505028667943468,
-    0.500837575126149, 0.49667156905249, 0.492530263643869, 0.488413284705458,
-    0.484320269426683, 0.480250865909047, 0.476204732719506, 0.47218153846773,
-    0.468180961405694, 0.464202689048174, 0.460246417812843, 0.456311852678716,
-    0.452398706861849, 0.448506701507203, 0.444635565395739, 0.440785034665804,
-    0.436954852547985, 0.433144769112652, 0.429354541029442, 0.425583931338022,
-    0.421832709229496, 0.418100649837848, 0.414387534040891, 0.410693148270188,
-    0.407017284329473, 0.403359739221114, 0.399720314980197, 0.396098818515832,
-    0.392495061459315, 0.388908860018789, 0.385340034840077, 0.381788410873393,
-    0.378253817245619, 0.374736087137891, 0.371235057668239, 0.367750569779032,
-    0.364282468129004, 0.360830600989648, 0.357394820145781, 0.353974980800077,
-    0.350570941481406, 0.347182563956794, 0.343809713146851, 0.340452257044522,
-    0.337110066637006, 0.333783015830718, 0.330470981379163, 0.327173842813601,
-    0.323891482376391, 0.320623784956905, 0.317370638029914, 0.314131931596337,
-    0.310907558126286, 0.307697412504292, 0.30450139197665, 0.301319396100803,
-    0.298151326696685, 0.294997087799962, 0.291856585617095, 0.288729728482183,
-    0.285616426815502, 0.282516593083708, 0.279430141761638, 0.276356989295668,
-    0.273297054068577, 0.270250256365875, 0.267216518343561, 0.264195763997261,
-    0.261187919132721, 0.258192911337619, 0.255210669954662, 0.252241126055942,
-    0.249284212418529, 0.246339863501264, 0.24340801542275, 0.240488605940501,
-    0.237581574431238, 0.23468686187233, 0.231804410824339, 0.228934165414681,
-    0.226076071322381, 0.223230075763918, 0.220396127480152, 0.217574176724331,
-    0.214764175251174, 0.211966076307031, 0.209179834621125, 0.206405406397881,
-    0.203642749310335, 0.200891822494657, 0.198152586545776, 0.195425003514135,
-    0.192709036903589, 0.190004651670465, 0.187311814223801, 0.1846304924268,
-    0.181960655599523, 0.179302274522848, 0.176655321443735, 0.174019770081839,
-    0.171395595637506, 0.168782774801212, 0.166181285764482, 0.163591108232366,
-    0.161012223437511, 0.158444614155925, 0.15588826472448, 0.153343161060263,
-    0.150809290681846, 0.148286642732575, 0.145775208005994, 0.143274978973514,
-    0.140785949814445, 0.138308116448551, 0.135841476571254, 0.133386029691669,
-    0.130941777173644, 0.12850872228, 0.126086870220186, 0.123676228201597,
-    0.12127680548479, 0.11888861344291, 0.116511665625611, 0.114145977827839,
-    0.111791568163838, 0.109448457146812, 0.107116667774684, 0.104796225622487,
-    0.102487158941935, 0.10018949876881, 0.0979032790388625, 0.095628536713009,
-    0.093365311912691, 0.0911136480663738, 0.0888735920682759,
-    0.0866451944505581, 0.0844285095703535, 0.082223595813203,
-    0.0800305158146631, 0.0778493367020961, 0.0756801303589272,
-    0.0735229737139814, 0.0713779490588905, 0.0692451443970068,
-    0.0671246538277886, 0.065016577971243, 0.0629210244377582, 0.06083810834954,
-    0.0587679529209339, 0.0567106901062031, 0.0546664613248891,
-    0.0526354182767924, 0.0506177238609479, 0.0486135532158687,
-    0.0466230949019305, 0.0446465522512946, 0.0426841449164746,
-    0.0407361106559411, 0.0388027074045262, 0.0368842156885674,
-    0.0349809414617162, 0.0330932194585786, 0.0312214171919203,
-    0.0293659397581334, 0.0275272356696031, 0.0257058040085489,
-    0.0239022033057959, 0.0221170627073089, 0.0203510962300445,
-    0.0186051212757247, 0.0168800831525432, 0.0151770883079353,
-    0.0134974506017399, 0.0118427578579079, 0.0102149714397015,
-    0.00861658276939875, 0.00705087547137324, 0.00552240329925101,
-    0.00403797259336304, 0.00260907274610216, 0.0012602859304986,
-    0.000477467764609386 };
-
-  static uint32_T c3_uv[625] = { 5489U, 1301868182U, 2938499221U, 2950281878U,
-    1875628136U, 751856242U, 944701696U, 2243192071U, 694061057U, 219885934U,
-    2066767472U, 3182869408U, 485472502U, 2336857883U, 1071588843U, 3418470598U,
-    951210697U, 3693558366U, 2923482051U, 1793174584U, 2982310801U, 1586906132U,
-    1951078751U, 1808158765U, 1733897588U, 431328322U, 4202539044U, 530658942U,
-    1714810322U, 3025256284U, 3342585396U, 1937033938U, 2640572511U, 1654299090U,
-    3692403553U, 4233871309U, 3497650794U, 862629010U, 2943236032U, 2426458545U,
-    1603307207U, 1133453895U, 3099196360U, 2208657629U, 2747653927U, 931059398U,
-    761573964U, 3157853227U, 785880413U, 730313442U, 124945756U, 2937117055U,
-    3295982469U, 1724353043U, 3021675344U, 3884886417U, 4010150098U, 4056961966U,
-    699635835U, 2681338818U, 1339167484U, 720757518U, 2800161476U, 2376097373U,
-    1532957371U, 3902664099U, 1238982754U, 3725394514U, 3449176889U, 3570962471U,
-    4287636090U, 4087307012U, 3603343627U, 202242161U, 2995682783U, 1620962684U,
-    3704723357U, 371613603U, 2814834333U, 2111005706U, 624778151U, 2094172212U,
-    4284947003U, 1211977835U, 991917094U, 1570449747U, 2962370480U, 1259410321U,
-    170182696U, 146300961U, 2836829791U, 619452428U, 2723670296U, 1881399711U,
-    1161269684U, 1675188680U, 4132175277U, 780088327U, 3409462821U, 1036518241U,
-    1834958505U, 3048448173U, 161811569U, 618488316U, 44795092U, 3918322701U,
-    1924681712U, 3239478144U, 383254043U, 4042306580U, 2146983041U, 3992780527U,
-    3518029708U, 3545545436U, 3901231469U, 1896136409U, 2028528556U, 2339662006U,
-    501326714U, 2060962201U, 2502746480U, 561575027U, 581893337U, 3393774360U,
-    1778912547U, 3626131687U, 2175155826U, 319853231U, 986875531U, 819755096U,
-    2915734330U, 2688355739U, 3482074849U, 2736559U, 2296975761U, 1029741190U,
-    2876812646U, 690154749U, 579200347U, 4027461746U, 1285330465U, 2701024045U,
-    4117700889U, 759495121U, 3332270341U, 2313004527U, 2277067795U, 4131855432U,
-    2722057515U, 1264804546U, 3848622725U, 2211267957U, 4100593547U, 959123777U,
-    2130745407U, 3194437393U, 486673947U, 1377371204U, 17472727U, 352317554U,
-    3955548058U, 159652094U, 1232063192U, 3835177280U, 49423123U, 3083993636U,
-    733092U, 2120519771U, 2573409834U, 1112952433U, 3239502554U, 761045320U,
-    1087580692U, 2540165110U, 641058802U, 1792435497U, 2261799288U, 1579184083U,
-    627146892U, 2165744623U, 2200142389U, 2167590760U, 2381418376U, 1793358889U,
-    3081659520U, 1663384067U, 2009658756U, 2689600308U, 739136266U, 2304581039U,
-    3529067263U, 591360555U, 525209271U, 3131882996U, 294230224U, 2076220115U,
-    3113580446U, 1245621585U, 1386885462U, 3203270426U, 123512128U, 12350217U,
-    354956375U, 4282398238U, 3356876605U, 3888857667U, 157639694U, 2616064085U,
-    1563068963U, 2762125883U, 4045394511U, 4180452559U, 3294769488U, 1684529556U,
-    1002945951U, 3181438866U, 22506664U, 691783457U, 2685221343U, 171579916U,
-    3878728600U, 2475806724U, 2030324028U, 3331164912U, 1708711359U, 1970023127U,
-    2859691344U, 2588476477U, 2748146879U, 136111222U, 2967685492U, 909517429U,
-    2835297809U, 3206906216U, 3186870716U, 341264097U, 2542035121U, 3353277068U,
-    548223577U, 3170936588U, 1678403446U, 297435620U, 2337555430U, 466603495U,
-    1132321815U, 1208589219U, 696392160U, 894244439U, 2562678859U, 470224582U,
-    3306867480U, 201364898U, 2075966438U, 1767227936U, 2929737987U, 3674877796U,
-    2654196643U, 3692734598U, 3528895099U, 2796780123U, 3048728353U, 842329300U,
-    191554730U, 2922459673U, 3489020079U, 3979110629U, 1022523848U, 2202932467U,
-    3583655201U, 3565113719U, 587085778U, 4176046313U, 3013713762U, 950944241U,
-    396426791U, 3784844662U, 3477431613U, 3594592395U, 2782043838U, 3392093507U,
-    3106564952U, 2829419931U, 1358665591U, 2206918825U, 3170783123U, 31522386U,
-    2988194168U, 1782249537U, 1105080928U, 843500134U, 1225290080U, 1521001832U,
-    3605886097U, 2802786495U, 2728923319U, 3996284304U, 903417639U, 1171249804U,
-    1020374987U, 2824535874U, 423621996U, 1988534473U, 2493544470U, 1008604435U,
-    1756003503U, 1488867287U, 1386808992U, 732088248U, 1780630732U, 2482101014U,
-    976561178U, 1543448953U, 2602866064U, 2021139923U, 1952599828U, 2360242564U,
-    2117959962U, 2753061860U, 2388623612U, 4138193781U, 2962920654U, 2284970429U,
-    766920861U, 3457264692U, 2879611383U, 815055854U, 2332929068U, 1254853997U,
-    3740375268U, 3799380844U, 4091048725U, 2006331129U, 1982546212U, 686850534U,
-    1907447564U, 2682801776U, 2780821066U, 998290361U, 1342433871U, 4195430425U,
-    607905174U, 3902331779U, 2454067926U, 1708133115U, 1170874362U, 2008609376U,
-    3260320415U, 2211196135U, 433538229U, 2728786374U, 2189520818U, 262554063U,
-    1182318347U, 3710237267U, 1221022450U, 715966018U, 2417068910U, 2591870721U,
-    2870691989U, 3418190842U, 4238214053U, 1540704231U, 1575580968U, 2095917976U,
-    4078310857U, 2313532447U, 2110690783U, 4056346629U, 4061784526U, 1123218514U,
-    551538993U, 597148360U, 4120175196U, 3581618160U, 3181170517U, 422862282U,
-    3227524138U, 1713114790U, 662317149U, 1230418732U, 928171837U, 1324564878U,
-    1928816105U, 1786535431U, 2878099422U, 3290185549U, 539474248U, 1657512683U,
-    552370646U, 1671741683U, 3655312128U, 1552739510U, 2605208763U, 1441755014U,
-    181878989U, 3124053868U, 1447103986U, 3183906156U, 1728556020U, 3502241336U,
-    3055466967U, 1013272474U, 818402132U, 1715099063U, 2900113506U, 397254517U,
-    4194863039U, 1009068739U, 232864647U, 2540223708U, 2608288560U, 2415367765U,
-    478404847U, 3455100648U, 3182600021U, 2115988978U, 434269567U, 4117179324U,
-    3461774077U, 887256537U, 3545801025U, 286388911U, 3451742129U, 1981164769U,
-    786667016U, 3310123729U, 3097811076U, 2224235657U, 2959658883U, 3370969234U,
-    2514770915U, 3345656436U, 2677010851U, 2206236470U, 271648054U, 2342188545U,
-    4292848611U, 3646533909U, 3754009956U, 3803931226U, 4160647125U, 1477814055U,
-    4043852216U, 1876372354U, 3133294443U, 3871104810U, 3177020907U, 2074304428U,
-    3479393793U, 759562891U, 164128153U, 1839069216U, 2114162633U, 3989947309U,
-    3611054956U, 1333547922U, 835429831U, 494987340U, 171987910U, 1252001001U,
-    370809172U, 3508925425U, 2535703112U, 1276855041U, 1922855120U, 835673414U,
-    3030664304U, 613287117U, 171219893U, 3423096126U, 3376881639U, 2287770315U,
-    1658692645U, 1262815245U, 3957234326U, 1168096164U, 2968737525U, 2655813712U,
-    2132313144U, 3976047964U, 326516571U, 353088456U, 3679188938U, 3205649712U,
-    2654036126U, 1249024881U, 880166166U, 691800469U, 2229503665U, 1673458056U,
-    4032208375U, 1851778863U, 2563757330U, 376742205U, 1794655231U, 340247333U,
-    1505873033U, 396524441U, 879666767U, 3335579166U, 3260764261U, 3335999539U,
-    506221798U, 4214658741U, 975887814U, 2080536343U, 3360539560U, 571586418U,
-    138896374U, 4234352651U, 2737620262U, 3928362291U, 1516365296U, 38056726U,
-    3599462320U, 3585007266U, 3850961033U, 471667319U, 1536883193U, 2310166751U,
-    1861637689U, 2530999841U, 4139843801U, 2710569485U, 827578615U, 2012334720U,
-    2907369459U, 3029312804U, 2820112398U, 1965028045U, 35518606U, 2478379033U,
-    643747771U, 1924139484U, 4123405127U, 3811735531U, 3429660832U, 3285177704U,
-    1948416081U, 1311525291U, 1183517742U, 1739192232U, 3979815115U, 2567840007U,
-    4116821529U, 213304419U, 4125718577U, 1473064925U, 2442436592U, 1893310111U,
-    4195361916U, 3747569474U, 828465101U, 2991227658U, 750582866U, 1205170309U,
-    1409813056U, 678418130U, 1171531016U, 3821236156U, 354504587U, 4202874632U,
-    3882511497U, 1893248677U, 1903078632U, 26340130U, 2069166240U, 3657122492U,
-    3725758099U, 831344905U, 811453383U, 3447711422U, 2434543565U, 4166886888U,
-    3358210805U, 4142984013U, 2988152326U, 3527824853U, 982082992U, 2809155763U,
-    190157081U, 3340214818U, 2365432395U, 2548636180U, 2894533366U, 3474657421U,
-    2372634704U, 2845748389U, 43024175U, 2774226648U, 1987702864U, 3186502468U,
-    453610222U, 4204736567U, 1392892630U, 2471323686U, 2470534280U, 3541393095U,
-    4269885866U, 3909911300U, 759132955U, 1482612480U, 667715263U, 1795580598U,
-    2337923983U, 3390586366U, 581426223U, 1515718634U, 476374295U, 705213300U,
-    363062054U, 2084697697U, 2407503428U, 2292957699U, 2426213835U, 2199989172U,
-    1987356470U, 4026755612U, 2147252133U, 270400031U, 1367820199U, 2369854699U,
-    2844269403U, 79981964U, 624U };
-
-  emlrtStack c3_b_st;
-  emlrtStack c3_c_st;
-  emlrtStack c3_d_st;
-  emlrtStack c3_e_st;
-  emlrtStack c3_f_st;
-  emlrtStack c3_st;
-  real_T c3_b_r;
-  real_T c3_b_u;
-  real_T c3_b_x;
-  real_T c3_b_y;
-  real_T c3_c_u;
-  real_T c3_c_x;
-  real_T c3_d;
-  real_T c3_d_u;
-  real_T c3_d_x;
-  real_T c3_e_u;
-  real_T c3_e_x;
-  real_T c3_f_x;
-  real_T c3_x;
-  int32_T c3_exitg1;
-  int32_T c3_i;
-  int32_T c3_i1;
-  uint32_T c3_u32[2];
-  uint32_T c3_b_i;
-  uint32_T c3_ip1;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_st.site = &c3_yb_emlrtRSI;
-  c3_b_st.prev = &c3_st;
-  c3_b_st.tls = c3_st.tls;
-  c3_c_st.prev = &c3_b_st;
-  c3_c_st.tls = c3_b_st.tls;
-  c3_d_st.prev = &c3_c_st;
-  c3_d_st.tls = c3_c_st.tls;
-  c3_e_st.prev = &c3_d_st;
-  c3_e_st.tls = c3_d_st.tls;
-  c3_f_st.prev = &c3_e_st;
-  c3_f_st.tls = c3_e_st.tls;
-  if (!chartInstance->c3_method_not_empty) {
-    chartInstance->c3_method = 0U;
-    chartInstance->c3_method_not_empty = true;
-    for (c3_i = 0; c3_i < 2; c3_i++) {
-      chartInstance->c3_state[c3_i] = 362436069U + 158852560U * (uint32_T)c3_i;
-    }
-
-    chartInstance->c3_state_not_empty = true;
-  }
-
-  c3_b_st.site = &c3_ac_emlrtRSI;
-  if (!chartInstance->c3_b_method_not_empty) {
-    chartInstance->c3_b_method = 7U;
-    chartInstance->c3_b_method_not_empty = true;
-  }
-
-  c3_c_st.site = &c3_bc_emlrtRSI;
-  if (!chartInstance->c3_d_state_not_empty) {
-    for (c3_i1 = 0; c3_i1 < 625; c3_i1++) {
-      chartInstance->c3_d_state[c3_i1] = c3_uv[c3_i1];
-    }
-
-    chartInstance->c3_d_state_not_empty = true;
-  }
-
-  c3_d_st.site = &c3_cc_emlrtRSI;
-  c3_e_st.site = &c3_dc_emlrtRSI;
-  do {
-    c3_exitg1 = 0;
-    c3_b_genrand_uint32_vector(chartInstance, chartInstance->c3_d_state, c3_u32);
-    c3_b_i = (c3_u32[1] >> 24U) + 1U;
-    c3_ip1 = c3_b_i + 1U;
-    c3_b_u = ((real_T)(c3_u32[0] >> 3U) * 1.6777216E+7 + (real_T)(c3_u32[1] &
-               16777215U)) * 2.2204460492503131E-16 - 1.0;
-    c3_b_r = c3_b_u * c3_dv[(int32_T)c3_ip1 - 1];
-    c3_x = c3_b_r;
-    c3_b_x = c3_x;
-    c3_c_x = c3_b_x;
-    c3_b_y = muDoubleScalarAbs(c3_c_x);
-    if (c3_b_y <= c3_dv[(int32_T)c3_b_i - 1]) {
-      c3_exitg1 = 1;
-    } else if ((real_T)c3_b_i < 256.0) {
-      c3_f_st.site = &c3_ec_emlrtRSI;
-      c3_c_u = c3_b_genrandu(chartInstance, &c3_f_st, chartInstance->c3_d_state);
-      c3_d_x = -0.5 * c3_b_r * c3_b_r;
-      c3_f_x = c3_d_x;
-      c3_f_x = muDoubleScalarExp(c3_f_x);
-      if (c3_dv1[(int32_T)c3_ip1 - 1] + c3_c_u * (c3_dv1[(int32_T)c3_b_i - 1] -
-           c3_dv1[(int32_T)c3_ip1 - 1]) < c3_f_x) {
-        c3_exitg1 = 1;
-      }
-    } else {
-      do {
-        c3_f_st.site = &c3_fc_emlrtRSI;
-        c3_d_u = c3_b_genrandu(chartInstance, &c3_f_st,
-          chartInstance->c3_d_state);
-        c3_e_x = muDoubleScalarLog(c3_d_u) * 0.273661237329758;
-        c3_f_st.site = &c3_gc_emlrtRSI;
-        c3_e_u = c3_b_genrandu(chartInstance, &c3_f_st,
-          chartInstance->c3_d_state);
-      } while (!(-2.0 * muDoubleScalarLog(c3_e_u) > c3_e_x * c3_e_x));
-
-      if (c3_b_r < 0.0) {
-        c3_b_r = c3_e_x - 3.65415288536101;
-      } else {
-        c3_b_r = 3.65415288536101 - c3_e_x;
-      }
-
-      c3_exitg1 = 1;
-    }
-  } while (c3_exitg1 == 0);
-
-  c3_d = c3_b_r;
-  return c3_d;
-}
-
-static void c3_genrand_uint32_vector(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, uint32_T c3_mt[625], uint32_T c3_b_mt[625], uint32_T c3_b_u[2])
-{
-  int32_T c3_i;
-  for (c3_i = 0; c3_i < 625; c3_i++) {
-    c3_b_mt[c3_i] = c3_mt[c3_i];
-  }
-
-  c3_b_genrand_uint32_vector(chartInstance, c3_b_mt, c3_b_u);
-}
-
-static void c3_genrandu(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp, uint32_T c3_mt[625], uint32_T c3_b_mt[625], real_T
-  *c3_r)
-{
-  int32_T c3_i;
-  for (c3_i = 0; c3_i < 625; c3_i++) {
-    c3_b_mt[c3_i] = c3_mt[c3_i];
-  }
-
-  *c3_r = c3_b_genrandu(chartInstance, c3_sp, c3_b_mt);
-}
-
 static void c3_b_sort(SFc3_flightControlSystemInstanceStruct *chartInstance,
                       const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
                       c3_x_size[1], real_T c3_d_x_data[], int32_T c3_b_x_size[1],
@@ -5813,1608 +4435,13 @@ static void c3_b_sort(SFc3_flightControlSystemInstanceStruct *chartInstance,
             c3_idx_size);
 }
 
-static void c3_pchip(SFc3_flightControlSystemInstanceStruct *chartInstance,
-                     const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
-                     c3_x_size[1], real_T c3_y_data[], int32_T c3_y_size[1],
-                     c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_v)
-{
-  emlrtStack c3_b_st;
-  emlrtStack c3_c_st;
-  emlrtStack c3_st;
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  const mxArray *c3_e_y = NULL;
-  const mxArray *c3_f_y = NULL;
-  const mxArray *c3_g_y = NULL;
-  const mxArray *c3_h_y = NULL;
-  const mxArray *c3_i_y = NULL;
-  const mxArray *c3_j_y = NULL;
-  const mxArray *c3_k_y = NULL;
-  const mxArray *c3_l_y = NULL;
-  const mxArray *c3_m_y = NULL;
-  const mxArray *c3_r_y = NULL;
-  const mxArray *c3_s_y = NULL;
-  const mxArray *c3_t_y = NULL;
-  const mxArray *c3_u_y = NULL;
-  real_T c3_slopes_data[20];
-  real_T c3_del_data[19];
-  real_T c3_h_data[19];
-  real_T c3_dv[2];
-  real_T c3_ab_x;
-  real_T c3_b_d1;
-  real_T c3_b_d2;
-  real_T c3_b_h1;
-  real_T c3_b_h2;
-  real_T c3_b_k;
-  real_T c3_b_s;
-  real_T c3_b_signd1;
-  real_T c3_b_signs;
-  real_T c3_b_w1;
-  real_T c3_b_w2;
-  real_T c3_b_x;
-  real_T c3_bb_x;
-  real_T c3_c_d1;
-  real_T c3_c_d2;
-  real_T c3_c_h1;
-  real_T c3_c_h2;
-  real_T c3_c_s;
-  real_T c3_c_w1;
-  real_T c3_c_w2;
-  real_T c3_c_x;
-  real_T c3_d;
-  real_T c3_d1;
-  real_T c3_d2;
-  real_T c3_d_d1;
-  real_T c3_d_d2;
-  real_T c3_d_h1;
-  real_T c3_d_h2;
-  real_T c3_d_k;
-  real_T c3_d_x;
-  real_T c3_divdifij;
-  real_T c3_dxj;
-  real_T c3_dzdxdx;
-  real_T c3_dzzdx;
-  real_T c3_e_d1;
-  real_T c3_e_d2;
-  real_T c3_e_x;
-  real_T c3_f_d1;
-  real_T c3_f_d2;
-  real_T c3_f_x;
-  real_T c3_g_d1;
-  real_T c3_g_d2;
-  real_T c3_g_x;
-  real_T c3_h1;
-  real_T c3_h2;
-  real_T c3_h_x;
-  real_T c3_i_x;
-  real_T c3_j_x;
-  real_T c3_k_x;
-  real_T c3_l_x;
-  real_T c3_m_x;
-  real_T c3_n_x;
-  real_T c3_n_y;
-  real_T c3_o_x;
-  real_T c3_o_y;
-  real_T c3_p_x;
-  real_T c3_p_y;
-  real_T c3_q_x;
-  real_T c3_q_y;
-  real_T c3_r_x;
-  real_T c3_s;
-  real_T c3_s_x;
-  real_T c3_signd1;
-  real_T c3_signs;
-  real_T c3_t_x;
-  real_T c3_u_x;
-  real_T c3_v_x;
-  real_T c3_varargin_2;
-  real_T c3_w1;
-  real_T c3_w2;
-  real_T c3_w_x;
-  real_T c3_x;
-  real_T c3_x_x;
-  real_T c3_y_x;
-  int32_T c3_szdel[2];
-  int32_T c3_slopes_size[1];
-  int32_T c3_b_j;
-  int32_T c3_b_nx;
-  int32_T c3_b_nxm1;
-  int32_T c3_b_ny;
-  int32_T c3_b_varargin_2;
-  int32_T c3_c1;
-  int32_T c3_c_k;
-  int32_T c3_c_nx;
-  int32_T c3_c_varargin_2;
-  int32_T c3_cpage;
-  int32_T c3_d_nx;
-  int32_T c3_e_k;
-  int32_T c3_f_k;
-  int32_T c3_g_b;
-  int32_T c3_g_k;
-  int32_T c3_h_b;
-  int32_T c3_h_k;
-  int32_T c3_i;
-  int32_T c3_i1;
-  int32_T c3_i2;
-  int32_T c3_i3;
-  int32_T c3_i4;
-  int32_T c3_i5;
-  int32_T c3_i6;
-  int32_T c3_i_b;
-  int32_T c3_j;
-  int32_T c3_j_b;
-  int32_T c3_joffset;
-  int32_T c3_k;
-  int32_T c3_k_b;
-  int32_T c3_l_b;
-  int32_T c3_loop_ub;
-  int32_T c3_m_b;
-  int32_T c3_maxdimlen;
-  int32_T c3_n;
-  int32_T c3_n_b;
-  int32_T c3_nx;
-  int32_T c3_nxm1;
-  int32_T c3_nxm2;
-  int32_T c3_nxm3;
-  int32_T c3_ny;
-  int32_T c3_o_b;
-  int32_T c3_p_b;
-  int32_T c3_result;
-  int32_T c3_v_y;
-  int32_T c3_w_y;
-  boolean_T c3_b;
-  boolean_T c3_b1;
-  boolean_T c3_b_b;
-  boolean_T c3_b_overflow;
-  boolean_T c3_b_p;
-  boolean_T c3_c_b;
-  boolean_T c3_c_overflow;
-  boolean_T c3_c_p;
-  boolean_T c3_d_b;
-  boolean_T c3_d_overflow;
-  boolean_T c3_d_p;
-  boolean_T c3_e_b;
-  boolean_T c3_exitg1;
-  boolean_T c3_f_b;
-  boolean_T c3_overflow;
-  boolean_T c3_p;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_b_st.prev = &c3_st;
-  c3_b_st.tls = c3_st.tls;
-  c3_c_st.prev = &c3_b_st;
-  c3_c_st.tls = c3_b_st.tls;
-  c3_st.site = &c3_lc_emlrtRSI;
-  c3_nx = c3_x_size[0];
-  c3_ny = c3_y_size[0];
-  c3_x = c3_c_x_data[0];
-  c3_b_x = c3_x;
-  c3_b = muDoubleScalarIsInf(c3_b_x);
-  c3_b_b = !c3_b;
-  c3_c_x = c3_x;
-  c3_c_b = muDoubleScalarIsNaN(c3_c_x);
-  c3_b1 = !c3_c_b;
-  c3_d_b = (c3_b_b && c3_b1);
-  if (c3_d_b) {
-    c3_p = true;
-  } else {
-    c3_p = false;
-  }
-
-  c3_b_p = c3_p;
-  if (c3_p) {
-    c3_d = (real_T)c3_x_size[0];
-    c3_i = (int32_T)(c3_d - 1.0) - 1;
-    c3_k = 0;
-    c3_exitg1 = false;
-    while ((!c3_exitg1) && (c3_k <= c3_i)) {
-      c3_b_k = (real_T)c3_k + 2.0;
-      if (!(c3_c_x_data[(int32_T)(c3_b_k - 1.0) - 1] < c3_c_x_data[(int32_T)
-            c3_b_k - 1])) {
-        c3_b_p = false;
-        c3_exitg1 = true;
-      } else {
-        c3_k++;
-      }
-    }
-  }
-
-  if (c3_b_p) {
-    c3_d_x = c3_c_x_data[c3_x_size[0] - 1];
-    c3_e_b = muDoubleScalarIsInf(c3_d_x);
-    if (!c3_e_b) {
-      c3_c_p = true;
-    } else {
-      c3_c_p = false;
-    }
-  } else {
-    c3_c_p = false;
-  }
-
-  c3_b_p = c3_c_p;
-  if (!c3_b_p) {
-    c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_cv4, 10, 0U, 1U, 0U, 2, 1, 47),
-                  false);
-    c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv4, 10, 0U, 1U, 0U, 2, 1, 47),
-                  false);
-    sf_mex_call(&c3_st, &c3_h_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 1U, 14, c3_c_y)));
-  }
-
-  c3_d_p = false;
-  c3_d1 = (real_T)c3_y_size[0];
-  c3_i1 = (int32_T)c3_d1 - 1;
-  c3_c_k = 0;
-  c3_exitg1 = false;
-  while ((!c3_exitg1) && (c3_c_k <= c3_i1)) {
-    c3_d_k = (real_T)c3_c_k + 1.0;
-    c3_e_x = c3_y_data[(int32_T)c3_d_k - 1];
-    c3_f_b = muDoubleScalarIsNaN(c3_e_x);
-    if (c3_f_b) {
-      c3_d_p = true;
-      c3_exitg1 = true;
-    } else {
-      c3_c_k++;
-    }
-  }
-
-  if (c3_d_p) {
-    c3_d_y = NULL;
-    sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_cv3, 10, 0U, 1U, 0U, 2, 1, 28),
-                  false);
-    c3_f_y = NULL;
-    sf_mex_assign(&c3_f_y, sf_mex_create("y", c3_cv3, 10, 0U, 1U, 0U, 2, 1, 28),
-                  false);
-    sf_mex_call(&c3_st, &c3_i_emlrtMCI, "error", 0U, 2U, 14, c3_d_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 1U, 14, c3_f_y)));
-  }
-
-  if ((c3_ny != c3_nx) && (c3_ny != c3_nx + 2)) {
-    c3_e_y = NULL;
-    sf_mex_assign(&c3_e_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_g_y = NULL;
-    sf_mex_assign(&c3_g_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_i_y = NULL;
-    sf_mex_assign(&c3_i_y, sf_mex_create("y", &c3_nx, 6, 0U, 0U, 0U, 0), false);
-    c3_k_y = NULL;
-    sf_mex_assign(&c3_k_y, sf_mex_create("y", &c3_ny, 6, 0U, 0U, 0U, 0), false);
-    sf_mex_call(&c3_st, &c3_j_emlrtMCI, "error", 0U, 2U, 14, c3_e_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 3U, 14, c3_g_y, 14, c3_i_y, 14, c3_k_y)));
-  }
-
-  c3_b_nx = c3_x_size[0];
-  c3_b_ny = c3_y_size[0];
-  if (c3_b_nx != c3_b_ny) {
-    c3_h_y = NULL;
-    sf_mex_assign(&c3_h_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_j_y = NULL;
-    sf_mex_assign(&c3_j_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_l_y = NULL;
-    sf_mex_assign(&c3_l_y, sf_mex_create("y", &c3_b_nx, 6, 0U, 0U, 0U, 0), false);
-    c3_m_y = NULL;
-    sf_mex_assign(&c3_m_y, sf_mex_create("y", &c3_b_ny, 6, 0U, 0U, 0U, 0), false);
-    sf_mex_call(c3_sp, &c3_g_emlrtMCI, "error", 0U, 2U, 14, c3_h_y, 14,
-                sf_mex_call(c3_sp, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (c3_sp, NULL, "message", 1U, 3U, 14, c3_j_y, 14, c3_l_y, 14, c3_m_y)));
-  }
-
-  c3_nxm1 = c3_b_nx - 1;
-  c3_st.site = &c3_kc_emlrtRSI;
-  c3_g_b = c3_nxm1;
-  c3_h_b = c3_g_b;
-  if (c3_h_b < 1) {
-    c3_overflow = false;
-  } else {
-    c3_overflow = (c3_h_b > 2147483646);
-  }
-
-  if (c3_overflow) {
-    c3_b_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
-  }
-
-  c3_i2 = (uint8_T)c3_nxm1 - 1;
-  for (c3_e_k = 0; c3_e_k <= c3_i2; c3_e_k++) {
-    c3_f_k = c3_e_k;
-    c3_h_data[c3_f_k] = c3_c_x_data[c3_f_k + 1] - c3_c_x_data[c3_f_k];
-  }
-
-  c3_st.site = &c3_jc_emlrtRSI;
-  c3_i_b = c3_nxm1;
-  c3_j_b = c3_i_b;
-  if (c3_j_b < 1) {
-    c3_b_overflow = false;
-  } else {
-    c3_b_overflow = (c3_j_b > 2147483646);
-  }
-
-  if (c3_b_overflow) {
-    c3_b_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
-  }
-
-  c3_i3 = (uint8_T)c3_nxm1 - 1;
-  for (c3_g_k = 0; c3_g_k <= c3_i3; c3_g_k++) {
-    c3_f_k = c3_g_k;
-    c3_c1 = c3_f_k;
-    c3_del_data[c3_c1] = (c3_y_data[c3_f_k + 1] - c3_y_data[c3_c1]) /
-      c3_h_data[c3_f_k];
-  }
-
-  c3_dv[0] = (real_T)c3_y_size[0];
-  c3_slopes_size[0] = (int32_T)c3_dv[0];
-  c3_nxm2 = c3_b_nx - 2;
-  c3_nxm3 = c3_b_nx;
-  c3_st.site = &c3_ic_emlrtRSI;
-  c3_k_b = c3_nxm2;
-  c3_l_b = c3_k_b;
-  if (c3_l_b < 1) {
-    c3_c_overflow = false;
-  } else {
-    c3_c_overflow = (c3_l_b > 2147483646);
-  }
-
-  if (c3_c_overflow) {
-    c3_b_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
-  }
-
-  c3_i4 = (uint8_T)c3_nxm2 - 1;
-  for (c3_h_k = 0; c3_h_k <= c3_i4; c3_h_k++) {
-    c3_f_k = c3_h_k;
-    c3_w1 = 2.0 * c3_h_data[c3_f_k + 1] + c3_h_data[c3_f_k];
-    c3_w2 = c3_h_data[c3_f_k + 1] + 2.0 * c3_h_data[c3_f_k];
-    c3_c1 = c3_f_k;
-    c3_d_d1 = c3_del_data[c3_c1];
-    c3_c_d2 = c3_del_data[c3_f_k + 1];
-    c3_b_w1 = c3_w1;
-    c3_b_w2 = c3_w2;
-    c3_e_d1 = c3_d_d1;
-    c3_d_d2 = c3_c_d2;
-    c3_c_w1 = c3_b_w1;
-    c3_c_w2 = c3_b_w2;
-    c3_b_s = 0.0;
-    c3_h_x = c3_e_d1 * c3_d_d2;
-    c3_i_x = c3_h_x;
-    c3_i_x = muDoubleScalarSign(c3_i_x);
-    if (c3_i_x > 0.0) {
-      c3_b_s = (c3_c_w1 + c3_c_w2) / (c3_c_w1 / c3_e_d1 + c3_c_w2 / c3_d_d2);
-    }
-
-    c3_slopes_data[c3_f_k + 1] = c3_b_s;
-  }
-
-  c3_b_d1 = c3_del_data[0];
-  c3_d2 = c3_del_data[1];
-  c3_h1 = c3_h_data[0];
-  c3_h2 = c3_h_data[1];
-  c3_c_d1 = c3_b_d1;
-  c3_b_d2 = c3_d2;
-  c3_b_h1 = c3_h1;
-  c3_b_h2 = c3_h2;
-  c3_s = ((2.0 * c3_b_h1 + c3_b_h2) * c3_c_d1 - c3_b_h1 * c3_b_d2) / (c3_b_h1 +
-    c3_b_h2);
-  c3_f_x = c3_c_d1;
-  c3_signd1 = c3_f_x;
-  c3_signd1 = muDoubleScalarSign(c3_signd1);
-  c3_g_x = c3_s;
-  c3_signs = c3_g_x;
-  c3_signs = muDoubleScalarSign(c3_signs);
-  if (c3_signs != c3_signd1) {
-    c3_s = 0.0;
-  } else {
-    c3_j_x = c3_b_d2;
-    c3_k_x = c3_j_x;
-    c3_k_x = muDoubleScalarSign(c3_k_x);
-    if (c3_signd1 != c3_k_x) {
-      c3_l_x = c3_s;
-      c3_m_x = c3_l_x;
-      c3_n_x = c3_m_x;
-      c3_n_y = muDoubleScalarAbs(c3_n_x);
-      c3_o_x = 3.0 * c3_c_d1;
-      c3_p_x = c3_o_x;
-      c3_q_x = c3_p_x;
-      c3_o_y = muDoubleScalarAbs(c3_q_x);
-      if (c3_n_y > c3_o_y) {
-        c3_s = 3.0 * c3_c_d1;
-      }
-    }
-  }
-
-  c3_slopes_data[0] = c3_s;
-  c3_f_d1 = c3_del_data[c3_nxm2];
-  c3_e_d2 = c3_del_data[c3_nxm3 - 3];
-  c3_c_h1 = c3_h_data[c3_nxm1 - 1];
-  c3_c_h2 = c3_h_data[c3_nxm2 - 1];
-  c3_g_d1 = c3_f_d1;
-  c3_f_d2 = c3_e_d2;
-  c3_d_h1 = c3_c_h1;
-  c3_d_h2 = c3_c_h2;
-  c3_c_s = ((2.0 * c3_d_h1 + c3_d_h2) * c3_g_d1 - c3_d_h1 * c3_f_d2) / (c3_d_h1
-    + c3_d_h2);
-  c3_r_x = c3_g_d1;
-  c3_b_signd1 = c3_r_x;
-  c3_b_signd1 = muDoubleScalarSign(c3_b_signd1);
-  c3_s_x = c3_c_s;
-  c3_b_signs = c3_s_x;
-  c3_b_signs = muDoubleScalarSign(c3_b_signs);
-  if (c3_b_signs != c3_b_signd1) {
-    c3_c_s = 0.0;
-  } else {
-    c3_t_x = c3_f_d2;
-    c3_u_x = c3_t_x;
-    c3_u_x = muDoubleScalarSign(c3_u_x);
-    if (c3_b_signd1 != c3_u_x) {
-      c3_v_x = c3_c_s;
-      c3_w_x = c3_v_x;
-      c3_x_x = c3_w_x;
-      c3_p_y = muDoubleScalarAbs(c3_x_x);
-      c3_y_x = 3.0 * c3_g_d1;
-      c3_ab_x = c3_y_x;
-      c3_bb_x = c3_ab_x;
-      c3_q_y = muDoubleScalarAbs(c3_bb_x);
-      if (c3_p_y > c3_q_y) {
-        c3_c_s = 3.0 * c3_g_d1;
-      }
-    }
-  }
-
-  c3_slopes_data[c3_nxm1] = c3_c_s;
-  c3_st.site = &c3_hc_emlrtRSI;
-  c3_c_nx = c3_x_size[0] - 1;
-  c3_b_nxm1 = c3_c_nx;
-  c3_g_d2 = (real_T)c3_x_size[0];
-  c3_b_st.site = &c3_mc_emlrtRSI;
-  c3_varargin_2 = c3_g_d2;
-  c3_d_nx = c3_x_size[0];
-  c3_c_st.site = &c3_oc_emlrtRSI;
-  c3_computeDimsData(chartInstance, &c3_c_st, c3_varargin_2);
-  c3_szdel[1] = (int32_T)c3_varargin_2;
-  c3_n = c3_x_size[0];
-  c3_maxdimlen = muIntScalarMax_sint32(c3_d_nx, c3_n);
-  if (c3_szdel[1] > c3_maxdimlen) {
-    c3_r_y = NULL;
-    sf_mex_assign(&c3_r_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 39),
-                  false);
-    c3_s_y = NULL;
-    sf_mex_assign(&c3_s_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 39),
-                  false);
-    sf_mex_call(&c3_b_st, &c3_k_emlrtMCI, "error", 0U, 2U, 14, c3_r_y, 14,
-                sf_mex_call(&c3_b_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_b_st, NULL, "message", 1U, 1U, 14, c3_s_y)));
-  }
-
-  c3_b_varargin_2 = c3_szdel[1];
-  c3_c_varargin_2 = c3_b_varargin_2;
-  c3_result = c3_c_varargin_2;
-  if (c3_result != c3_d_nx) {
-    c3_t_y = NULL;
-    sf_mex_assign(&c3_t_y, sf_mex_create("y", c3_cv1, 10, 0U, 1U, 0U, 2, 1, 40),
-                  false);
-    c3_u_y = NULL;
-    sf_mex_assign(&c3_u_y, sf_mex_create("y", c3_cv1, 10, 0U, 1U, 0U, 2, 1, 40),
-                  false);
-    sf_mex_call(&c3_b_st, &c3_m_emlrtMCI, "error", 0U, 2U, 14, c3_t_y, 14,
-                sf_mex_call(&c3_b_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_b_st, NULL, "message", 1U, 1U, 14, c3_u_y)));
-  }
-
-  c3_v->breaks.size[0] = 1;
-  c3_v->breaks.size[1] = (int32_T)c3_g_d2;
-  c3_loop_ub = (int32_T)c3_g_d2 - 1;
-  for (c3_i5 = 0; c3_i5 <= c3_loop_ub; c3_i5++) {
-    c3_v->breaks.data[c3_i5] = c3_c_x_data[c3_i5];
-  }
-
-  c3_cpage = c3_slopes_size[0] - 1;
-  c3_v->coefs.size[0] = c3_cpage;
-  c3_v->coefs.size[1] = 4;
-  c3_b_st.site = &c3_nc_emlrtRSI;
-  c3_m_b = c3_b_nxm1;
-  c3_n_b = c3_m_b;
-  if (c3_n_b < 1) {
-    c3_d_overflow = false;
-  } else {
-    c3_d_overflow = (c3_n_b > 2147483646);
-  }
-
-  if (c3_d_overflow) {
-    c3_c_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_c_st);
-  }
-
-  c3_i6 = (uint8_T)c3_b_nxm1 - 1;
-  for (c3_j = 0; c3_j <= c3_i6; c3_j++) {
-    c3_b_j = c3_j;
-    c3_dxj = c3_h_data[c3_b_j];
-    c3_joffset = c3_b_j;
-    c3_divdifij = c3_del_data[c3_joffset];
-    c3_dzzdx = (c3_divdifij - c3_slopes_data[c3_joffset]) / c3_dxj;
-    c3_dzdxdx = (c3_slopes_data[c3_joffset + 1] - c3_divdifij) / c3_dxj;
-    c3_v->coefs.data[c3_joffset] = (c3_dzdxdx - c3_dzzdx) / c3_dxj;
-    c3_v->coefs.data[c3_cpage + c3_joffset] = 2.0 * c3_dzzdx - c3_dzdxdx;
-    c3_o_b = c3_cpage;
-    c3_v_y = c3_o_b << 1;
-    c3_v->coefs.data[c3_v_y + c3_joffset] = c3_slopes_data[c3_joffset];
-    c3_p_b = c3_cpage;
-    c3_w_y = 3 * c3_p_b;
-    c3_v->coefs.data[c3_w_y + c3_joffset] = c3_y_data[c3_joffset];
-  }
-}
-
-static void c3_computeDimsData(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, real_T c3_varargin_2)
-{
-  static char_T c3_b_cv[28] = { 'C', 'o', 'd', 'e', 'r', ':', 'M', 'A', 'T', 'L',
-    'A', 'B', ':', 'N', 'o', 'n', 'I', 'n', 't', 'e', 'g', 'e', 'r', 'I', 'n',
-    'p', 'u', 't' };
-
-  emlrtStack c3_st;
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  const mxArray *c3_e_y = NULL;
-  real_T c3_arg;
-  real_T c3_varargin_1;
-  int32_T c3_b_u;
-  int32_T c3_c_u;
-  boolean_T c3_b;
-  boolean_T c3_p;
-  (void)chartInstance;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_st.site = &c3_pc_emlrtRSI;
-  c3_varargin_1 = c3_varargin_2;
-  c3_arg = c3_varargin_1;
-  if (c3_arg != c3_arg) {
-    c3_p = false;
-  } else {
-    c3_p = true;
-  }
-
-  if (c3_p) {
-    c3_b = true;
-  } else {
-    c3_b = false;
-  }
-
-  if (!c3_b) {
-    c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 28),
-                  false);
-    c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 28),
-                  false);
-    c3_b_u = MIN_int32_T;
-    c3_d_y = NULL;
-    sf_mex_assign(&c3_d_y, sf_mex_create("y", &c3_b_u, 6, 0U, 0U, 0U, 0), false);
-    c3_c_u = MAX_int32_T;
-    c3_e_y = NULL;
-    sf_mex_assign(&c3_e_y, sf_mex_create("y", &c3_c_u, 6, 0U, 0U, 0U, 0), false);
-    sf_mex_call(&c3_st, &c3_n_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 3U, 14, c3_c_y, 14, c3_d_y, 14, c3_e_y)));
-  }
-}
-
-static void c3_string_disp(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp)
-{
-  static char_T c3_b_cv[7] = { 'f', 'p', 'r', 'i', 'n', 't', 'f' };
-
-  static char_T c3_varargin_1[5] = { 's', 't', 'a', 'r', 't' };
-
-  static char_T c3_b_cv1[4] = { '%', 's', '\\', 'n' };
-
-  emlrtStack c3_b_st;
-  emlrtStack c3_c_st;
-  emlrtStack c3_st;
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  const mxArray *c3_e_y = NULL;
-  real_T c3_b_u;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_b_st.prev = &c3_st;
-  c3_b_st.tls = c3_st.tls;
-  c3_c_st.prev = &c3_b_st;
-  c3_c_st.tls = c3_b_st.tls;
-  c3_st.site = &c3_qc_emlrtRSI;
-  c3_b_st.site = &c3_rc_emlrtRSI;
-  c3_b_y = NULL;
-  sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 7),
-                false);
-  c3_b_u = 1.0;
-  c3_c_y = NULL;
-  sf_mex_assign(&c3_c_y, sf_mex_create("y", &c3_b_u, 0, 0U, 0U, 0U, 0), false);
-  c3_d_y = NULL;
-  sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_b_cv1, 10, 0U, 1U, 0U, 2, 1, 4),
-                false);
-  c3_e_y = NULL;
-  sf_mex_assign(&c3_e_y, sf_mex_create("y", c3_varargin_1, 10, 0U, 1U, 0U, 2, 1,
-    5), false);
-  c3_c_st.site = &c3_sc_emlrtRSI;
-  c3_c_emlrt_marshallIn(chartInstance, c3_feval(chartInstance, &c3_c_st, c3_b_y,
-    c3_c_y, c3_d_y, c3_e_y), "<output of feval>");
-}
-
-static void c3_b_string_disp(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp)
-{
-  static char_T c3_b_cv[7] = { 'f', 'p', 'r', 'i', 'n', 't', 'f' };
-
-  static char_T c3_varargin_1[6] = { 'f', 'i', 'n', 'i', 's', 'h' };
-
-  static char_T c3_b_cv1[4] = { '%', 's', '\\', 'n' };
-
-  emlrtStack c3_b_st;
-  emlrtStack c3_c_st;
-  emlrtStack c3_st;
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  const mxArray *c3_e_y = NULL;
-  real_T c3_b_u;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_b_st.prev = &c3_st;
-  c3_b_st.tls = c3_st.tls;
-  c3_c_st.prev = &c3_b_st;
-  c3_c_st.tls = c3_b_st.tls;
-  c3_st.site = &c3_qc_emlrtRSI;
-  c3_b_st.site = &c3_rc_emlrtRSI;
-  c3_b_y = NULL;
-  sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 7),
-                false);
-  c3_b_u = 1.0;
-  c3_c_y = NULL;
-  sf_mex_assign(&c3_c_y, sf_mex_create("y", &c3_b_u, 0, 0U, 0U, 0U, 0), false);
-  c3_d_y = NULL;
-  sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_b_cv1, 10, 0U, 1U, 0U, 2, 1, 4),
-                false);
-  c3_e_y = NULL;
-  sf_mex_assign(&c3_e_y, sf_mex_create("y", c3_varargin_1, 10, 0U, 1U, 0U, 2, 1,
-    6), false);
-  c3_c_st.site = &c3_sc_emlrtRSI;
-  c3_c_emlrt_marshallIn(chartInstance, c3_b_feval(chartInstance, &c3_c_st,
-    c3_b_y, c3_c_y, c3_d_y, c3_e_y), "<output of feval>");
-}
-
-static void c3_linspace(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  real_T c3_d2, real_T c3_b_y[200])
-{
-  real_T c3_b_d2;
-  real_T c3_b_k;
-  real_T c3_delta1;
-  int32_T c3_k;
-  (void)chartInstance;
-  c3_b_d2 = c3_d2;
-  c3_b_y[199] = c3_b_d2;
-  c3_b_y[0] = 1.0;
-  c3_delta1 = (c3_b_d2 - 1.0) / 199.0;
-  for (c3_k = 0; c3_k < 198; c3_k++) {
-    c3_b_k = (real_T)c3_k + 1.0;
-    c3_b_y[(int32_T)(c3_b_k + 1.0) - 1] = 1.0 + c3_b_k * c3_delta1;
-  }
-}
-
-static void c3_interp1(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp, real_T c3_varargin_1_data[], int32_T
-  c3_varargin_1_size[2], real_T c3_varargin_2_data[], int32_T
-  c3_varargin_2_size[1], real_T c3_varargin_3[200], real_T c3_Vq[200])
-{
-  static char_T c3_b_cv[36] = { 'C', 'o', 'd', 'e', 'r', ':', 'M', 'A', 'T', 'L',
-    'A', 'B', ':', 'i', 'n', 't', 'e', 'r', 'p', '1', '_', 'Y', 'I', 'n', 'v',
-    'a', 'l', 'i', 'd', 'N', 'u', 'm', 'R', 'o', 'w', 's' };
-
-  static char_T c3_b_cv2[35] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o',
-    'l', 'b', 'o', 'x', ':', 'i', 'n', 't', 'e', 'r', 'p', '1', '_', 'n', 'o',
-    'n', 'M', 'o', 'n', 'o', 't', 'o', 'n', 'i', 'c', 'X' };
-
-  static char_T c3_b_cv1[21] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'i', 'n',
-    't', 'e', 'r', 'p', '1', ':', 'N', 'a', 'N', 'i', 'n', 'X' };
-
-  c3_s_WVIjmaAZoOE6RkudQk1Zu c3_pp;
-  emlrtStack c3_b_st;
-  emlrtStack c3_c_st;
-  emlrtStack c3_d_st;
-  emlrtStack c3_st;
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  const mxArray *c3_e_y = NULL;
-  const mxArray *c3_f_y = NULL;
-  const mxArray *c3_g_y = NULL;
-  real_T c3_b_y_data[20];
-  real_T c3_c_x_data[20];
-  real_T c3_y_data[20];
-  real_T c3_b_x;
-  real_T c3_c_x;
-  real_T c3_d_x;
-  real_T c3_tmp;
-  real_T c3_x;
-  real_T c3_xloc;
-  real_T c3_xtmp;
-  real_T c3_yit;
-  int32_T c3_b_y_size[2];
-  int32_T c3_x_size[2];
-  int32_T c3_y_size[1];
-  int32_T c3_b;
-  int32_T c3_b_b;
-  int32_T c3_b_j1;
-  int32_T c3_b_k;
-  int32_T c3_b_loop_ub;
-  int32_T c3_c_k;
-  int32_T c3_c_loop_ub;
-  int32_T c3_coefStride;
-  int32_T c3_d_b;
-  int32_T c3_d_k;
-  int32_T c3_e_b;
-  int32_T c3_e_k;
-  int32_T c3_exitg1;
-  int32_T c3_f_b;
-  int32_T c3_f_k;
-  int32_T c3_g_b;
-  int32_T c3_g_k;
-  int32_T c3_h_k;
-  int32_T c3_i;
-  int32_T c3_i1;
-  int32_T c3_i2;
-  int32_T c3_i3;
-  int32_T c3_i4;
-  int32_T c3_i5;
-  int32_T c3_i6;
-  int32_T c3_ic;
-  int32_T c3_ip;
-  int32_T c3_j;
-  int32_T c3_j1;
-  int32_T c3_k;
-  int32_T c3_loop_ub;
-  int32_T c3_n;
-  int32_T c3_nd2;
-  int32_T c3_numPieces;
-  int32_T c3_nx;
-  int32_T c3_nyrows;
-  boolean_T c3_b_overflow;
-  boolean_T c3_c_b;
-  boolean_T c3_c_overflow;
-  boolean_T c3_h_b;
-  boolean_T c3_overflow;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_b_st.prev = &c3_st;
-  c3_b_st.tls = c3_st.tls;
-  c3_c_st.prev = &c3_b_st;
-  c3_c_st.tls = c3_b_st.tls;
-  c3_d_st.prev = &c3_c_st;
-  c3_d_st.tls = c3_c_st.tls;
-  c3_st.site = &c3_tc_emlrtRSI;
-  c3_y_size[0] = c3_varargin_2_size[0];
-  c3_loop_ub = c3_varargin_2_size[0] - 1;
-  for (c3_i = 0; c3_i <= c3_loop_ub; c3_i++) {
-    c3_y_data[c3_i] = c3_varargin_2_data[c3_i];
-  }
-
-  c3_x_size[0] = 1;
-  c3_x_size[1] = c3_varargin_1_size[1];
-  c3_b_loop_ub = c3_varargin_1_size[1] - 1;
-  for (c3_i1 = 0; c3_i1 <= c3_b_loop_ub; c3_i1++) {
-    c3_c_x_data[c3_i1] = c3_varargin_1_data[c3_i1];
-  }
-
-  c3_nyrows = c3_y_size[0];
-  c3_nx = c3_x_size[1];
-  if (c3_nx != c3_nyrows) {
-    c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    sf_mex_call(&c3_st, &c3_p_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 1U, 14, c3_c_y)));
-  }
-
-  c3_b_st.site = &c3_xc_emlrtRSI;
-  c3_b = c3_nx;
-  c3_b_b = c3_b;
-  if (c3_b_b < 1) {
-    c3_overflow = false;
-  } else {
-    c3_overflow = (c3_b_b > 2147483646);
-  }
-
-  if (c3_overflow) {
-    c3_c_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_c_st);
-  }
-
-  c3_i2 = (uint8_T)c3_nx - 1;
-  c3_k = 1;
-  do {
-    c3_exitg1 = 0;
-    if (c3_k - 1 <= c3_i2) {
-      c3_b_k = c3_k - 1;
-      c3_x = c3_c_x_data[c3_b_k];
-      c3_c_b = muDoubleScalarIsNaN(c3_x);
-      if (c3_c_b) {
-        c3_d_y = NULL;
-        sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_b_cv1, 10, 0U, 1U, 0U, 2, 1,
-          21), false);
-        c3_f_y = NULL;
-        sf_mex_assign(&c3_f_y, sf_mex_create("y", c3_b_cv1, 10, 0U, 1U, 0U, 2, 1,
-          21), false);
-        sf_mex_call(&c3_st, &c3_q_emlrtMCI, "error", 0U, 2U, 14, c3_d_y, 14,
-                    sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14,
-          sf_mex_call(&c3_st, NULL, "message", 1U, 1U, 14, c3_f_y)));
-        c3_exitg1 = 1;
-      } else {
-        c3_k++;
-      }
-    } else {
-      if (c3_c_x_data[1] < c3_c_x_data[0]) {
-        c3_i3 = c3_nx >> 1;
-        c3_b_st.site = &c3_wc_emlrtRSI;
-        c3_d_b = c3_i3;
-        c3_e_b = c3_d_b;
-        if (c3_e_b < 1) {
-          c3_b_overflow = false;
-        } else {
-          c3_b_overflow = (c3_e_b > 2147483646);
-        }
-
-        if (c3_b_overflow) {
-          c3_c_st.site = &c3_u_emlrtRSI;
-          c3_check_forloop_overflow_error(chartInstance, &c3_c_st);
-        }
-
-        c3_i5 = (uint8_T)c3_i3 - 1;
-        for (c3_j1 = 0; c3_j1 <= c3_i5; c3_j1++) {
-          c3_b_j1 = c3_j1;
-          c3_xtmp = c3_c_x_data[c3_b_j1];
-          c3_c_x_data[c3_b_j1] = c3_c_x_data[(c3_nx - c3_b_j1) - 1];
-          c3_c_x_data[(c3_nx - c3_b_j1) - 1] = c3_xtmp;
-        }
-
-        c3_b_st.site = &c3_vc_emlrtRSI;
-        c3_n = c3_y_size[0];
-        c3_nd2 = c3_n >> 1;
-        c3_c_st.site = &c3_yc_emlrtRSI;
-        c3_f_b = c3_nd2;
-        c3_g_b = c3_f_b;
-        if (c3_g_b < 1) {
-          c3_c_overflow = false;
-        } else {
-          c3_c_overflow = (c3_g_b > 2147483646);
-        }
-
-        if (c3_c_overflow) {
-          c3_d_st.site = &c3_u_emlrtRSI;
-          c3_check_forloop_overflow_error(chartInstance, &c3_d_st);
-        }
-
-        c3_i6 = (uint8_T)c3_nd2 - 1;
-        for (c3_g_k = 0; c3_g_k <= c3_i6; c3_g_k++) {
-          c3_h_k = c3_g_k;
-          c3_tmp = c3_y_data[c3_h_k];
-          c3_y_data[c3_h_k] = c3_y_data[(c3_n - c3_h_k) - 1];
-          c3_y_data[(c3_n - c3_h_k) - 1] = c3_tmp;
-        }
-      }
-
-      for (c3_c_k = 2; c3_c_k <= c3_nx; c3_c_k++) {
-        if (c3_c_x_data[c3_c_k - 1] <= c3_c_x_data[c3_c_k - 2]) {
-          c3_e_y = NULL;
-          sf_mex_assign(&c3_e_y, sf_mex_create("y", c3_b_cv2, 10, 0U, 1U, 0U, 2,
-            1, 35), false);
-          c3_g_y = NULL;
-          sf_mex_assign(&c3_g_y, sf_mex_create("y", c3_b_cv2, 10, 0U, 1U, 0U, 2,
-            1, 35), false);
-          sf_mex_call(&c3_st, &c3_r_emlrtMCI, "error", 0U, 2U, 14, c3_e_y, 14,
-                      sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14,
-            sf_mex_call(&c3_st, NULL, "message", 1U, 1U, 14, c3_g_y)));
-        }
-      }
-
-      c3_b_st.site = &c3_uc_emlrtRSI;
-      c3_c_st.site = &c3_ad_emlrtRSI;
-      c3_b_y_size[0] = 1;
-      c3_b_y_size[1] = c3_y_size[0];
-      c3_c_loop_ub = c3_y_size[0] - 1;
-      for (c3_i4 = 0; c3_i4 <= c3_c_loop_ub; c3_i4++) {
-        c3_b_y_data[c3_i4] = c3_y_data[c3_i4];
-      }
-
-      c3_d_st.site = &c3_cd_emlrtRSI;
-      c3_b_pchip(chartInstance, &c3_d_st, c3_c_x_data, c3_x_size, c3_b_y_data,
-                 c3_b_y_size, &c3_pp);
-      for (c3_d_k = 0; c3_d_k < 200; c3_d_k++) {
-        c3_e_k = c3_d_k;
-        c3_c_st.site = &c3_bd_emlrtRSI;
-        c3_f_k = c3_e_k;
-        c3_b_x = c3_varargin_3[c3_f_k];
-        c3_numPieces = c3_pp.breaks.size[1];
-        c3_c_x = c3_b_x;
-        c3_coefStride = c3_numPieces - 1;
-        c3_d_x = c3_c_x;
-        c3_h_b = muDoubleScalarIsNaN(c3_d_x);
-        if (c3_h_b) {
-          c3_yit = c3_c_x;
-        } else {
-          c3_ip = c3_bsearch(chartInstance, c3_pp.breaks.data, c3_pp.breaks.size,
-                             c3_c_x) - 1;
-          c3_xloc = c3_c_x - c3_pp.breaks.data[c3_ip];
-          c3_yit = c3_pp.coefs.data[c3_ip];
-          for (c3_ic = 0; c3_ic < 3; c3_ic++) {
-            c3_yit = c3_xloc * c3_yit + c3_pp.coefs.data[c3_ip + (c3_ic + 1) *
-              c3_coefStride];
-          }
-        }
-
-        for (c3_j = 0; c3_j < 1; c3_j++) {
-          c3_Vq[c3_f_k] = c3_yit;
-        }
-      }
-
-      c3_exitg1 = 1;
-    }
-  } while (c3_exitg1 == 0);
-}
-
-static void c3_b_pchip(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T c3_x_size[2], real_T
-  c3_y_data[], int32_T c3_y_size[2], c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_v)
-{
-  emlrtStack c3_b_st;
-  emlrtStack c3_c_st;
-  emlrtStack c3_st;
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  const mxArray *c3_e_y = NULL;
-  const mxArray *c3_f_y = NULL;
-  const mxArray *c3_g_y = NULL;
-  const mxArray *c3_h_y = NULL;
-  const mxArray *c3_i_y = NULL;
-  const mxArray *c3_j_y = NULL;
-  const mxArray *c3_k_y = NULL;
-  const mxArray *c3_l_y = NULL;
-  const mxArray *c3_m_y = NULL;
-  const mxArray *c3_r_y = NULL;
-  const mxArray *c3_s_y = NULL;
-  const mxArray *c3_t_y = NULL;
-  const mxArray *c3_u_y = NULL;
-  real_T c3_slopes_data[20];
-  real_T c3_del_data[19];
-  real_T c3_h_data[19];
-  real_T c3_dv[2];
-  real_T c3_b_d1;
-  real_T c3_b_d2;
-  real_T c3_b_h1;
-  real_T c3_b_h2;
-  real_T c3_b_k;
-  real_T c3_b_s;
-  real_T c3_b_signd1;
-  real_T c3_b_signs;
-  real_T c3_b_w1;
-  real_T c3_b_w2;
-  real_T c3_b_x;
-  real_T c3_c_d1;
-  real_T c3_c_d2;
-  real_T c3_c_h1;
-  real_T c3_c_h2;
-  real_T c3_c_s;
-  real_T c3_c_w1;
-  real_T c3_c_w2;
-  real_T c3_c_x;
-  real_T c3_d;
-  real_T c3_d1;
-  real_T c3_d2;
-  real_T c3_d_d1;
-  real_T c3_d_d2;
-  real_T c3_d_h1;
-  real_T c3_d_h2;
-  real_T c3_d_k;
-  real_T c3_d_x;
-  real_T c3_divdifij;
-  real_T c3_dxj;
-  real_T c3_dzdxdx;
-  real_T c3_dzzdx;
-  real_T c3_e_d1;
-  real_T c3_e_d2;
-  real_T c3_e_x;
-  real_T c3_f_d1;
-  real_T c3_f_d2;
-  real_T c3_f_x;
-  real_T c3_g_d1;
-  real_T c3_g_d2;
-  real_T c3_g_x;
-  real_T c3_h1;
-  real_T c3_h2;
-  real_T c3_h_x;
-  real_T c3_i_x;
-  real_T c3_j_x;
-  real_T c3_k_x;
-  real_T c3_l_x;
-  real_T c3_m_x;
-  real_T c3_n_x;
-  real_T c3_n_y;
-  real_T c3_o_x;
-  real_T c3_o_y;
-  real_T c3_p_x;
-  real_T c3_p_y;
-  real_T c3_q_x;
-  real_T c3_q_y;
-  real_T c3_r_x;
-  real_T c3_s;
-  real_T c3_s_x;
-  real_T c3_signd1;
-  real_T c3_signs;
-  real_T c3_t_x;
-  real_T c3_u_x;
-  real_T c3_v_x;
-  real_T c3_varargin_2;
-  real_T c3_w1;
-  real_T c3_w2;
-  real_T c3_w_x;
-  real_T c3_x;
-  int32_T c3_slopes_size[2];
-  int32_T c3_szdel[2];
-  int32_T c3_b_b;
-  int32_T c3_b_j;
-  int32_T c3_b_nx;
-  int32_T c3_b_nxm1;
-  int32_T c3_b_ny;
-  int32_T c3_b_varargin_2;
-  int32_T c3_c1;
-  int32_T c3_c_b;
-  int32_T c3_c_k;
-  int32_T c3_c_nx;
-  int32_T c3_c_varargin_2;
-  int32_T c3_cpage;
-  int32_T c3_d_b;
-  int32_T c3_d_nx;
-  int32_T c3_e_b;
-  int32_T c3_e_k;
-  int32_T c3_f_b;
-  int32_T c3_f_k;
-  int32_T c3_g_b;
-  int32_T c3_g_k;
-  int32_T c3_h_b;
-  int32_T c3_h_k;
-  int32_T c3_i;
-  int32_T c3_i1;
-  int32_T c3_i2;
-  int32_T c3_i3;
-  int32_T c3_i4;
-  int32_T c3_i5;
-  int32_T c3_i6;
-  int32_T c3_i7;
-  int32_T c3_i_b;
-  int32_T c3_j;
-  int32_T c3_j_b;
-  int32_T c3_joffset;
-  int32_T c3_k;
-  int32_T c3_k_b;
-  int32_T c3_loop_ub;
-  int32_T c3_maxdimlen;
-  int32_T c3_n;
-  int32_T c3_nx;
-  int32_T c3_nxm1;
-  int32_T c3_nxm2;
-  int32_T c3_nxm3;
-  int32_T c3_ny;
-  int32_T c3_result;
-  int32_T c3_v_y;
-  int32_T c3_w_y;
-  boolean_T c3_b;
-  boolean_T c3_b_overflow;
-  boolean_T c3_b_p;
-  boolean_T c3_c_overflow;
-  boolean_T c3_c_p;
-  boolean_T c3_d_overflow;
-  boolean_T c3_exitg1;
-  boolean_T c3_overflow;
-  boolean_T c3_p;
-  c3_st.prev = c3_sp;
-  c3_st.tls = c3_sp->tls;
-  c3_b_st.prev = &c3_st;
-  c3_b_st.tls = c3_st.tls;
-  c3_c_st.prev = &c3_b_st;
-  c3_c_st.tls = c3_b_st.tls;
-  c3_st.site = &c3_lc_emlrtRSI;
-  c3_nx = c3_x_size[1];
-  c3_ny = c3_y_size[1];
-  c3_p = true;
-  c3_d = (real_T)c3_x_size[1];
-  c3_i = (int32_T)(c3_d - 1.0) - 1;
-  c3_k = 0;
-  c3_exitg1 = false;
-  while ((!c3_exitg1) && (c3_k <= c3_i)) {
-    c3_b_k = (real_T)c3_k + 2.0;
-    if (!(c3_c_x_data[(int32_T)(c3_b_k - 1.0) - 1] < c3_c_x_data[(int32_T)c3_b_k
-          - 1])) {
-      c3_p = false;
-      c3_exitg1 = true;
-    } else {
-      c3_k++;
-    }
-  }
-
-  if (c3_p) {
-    c3_b_p = true;
-  } else {
-    c3_b_p = false;
-  }
-
-  c3_p = c3_b_p;
-  if (!c3_p) {
-    c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_cv4, 10, 0U, 1U, 0U, 2, 1, 47),
-                  false);
-    c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv4, 10, 0U, 1U, 0U, 2, 1, 47),
-                  false);
-    sf_mex_call(&c3_st, &c3_h_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 1U, 14, c3_c_y)));
-  }
-
-  c3_c_p = false;
-  c3_d1 = (real_T)c3_y_size[1];
-  c3_i1 = (int32_T)c3_d1 - 1;
-  c3_c_k = 0;
-  c3_exitg1 = false;
-  while ((!c3_exitg1) && (c3_c_k <= c3_i1)) {
-    c3_d_k = (real_T)c3_c_k + 1.0;
-    c3_x = c3_y_data[(int32_T)c3_d_k - 1];
-    c3_b = muDoubleScalarIsNaN(c3_x);
-    if (c3_b) {
-      c3_c_p = true;
-      c3_exitg1 = true;
-    } else {
-      c3_c_k++;
-    }
-  }
-
-  if (c3_c_p) {
-    c3_d_y = NULL;
-    sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_cv3, 10, 0U, 1U, 0U, 2, 1, 28),
-                  false);
-    c3_f_y = NULL;
-    sf_mex_assign(&c3_f_y, sf_mex_create("y", c3_cv3, 10, 0U, 1U, 0U, 2, 1, 28),
-                  false);
-    sf_mex_call(&c3_st, &c3_i_emlrtMCI, "error", 0U, 2U, 14, c3_d_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 1U, 14, c3_f_y)));
-  }
-
-  if ((c3_ny != c3_nx) && (c3_ny != c3_nx + 2)) {
-    c3_e_y = NULL;
-    sf_mex_assign(&c3_e_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_g_y = NULL;
-    sf_mex_assign(&c3_g_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_i_y = NULL;
-    sf_mex_assign(&c3_i_y, sf_mex_create("y", &c3_nx, 6, 0U, 0U, 0U, 0), false);
-    c3_k_y = NULL;
-    sf_mex_assign(&c3_k_y, sf_mex_create("y", &c3_ny, 6, 0U, 0U, 0U, 0), false);
-    sf_mex_call(&c3_st, &c3_j_emlrtMCI, "error", 0U, 2U, 14, c3_e_y, 14,
-                sf_mex_call(&c3_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_st, NULL, "message", 1U, 3U, 14, c3_g_y, 14, c3_i_y, 14, c3_k_y)));
-  }
-
-  c3_b_nx = c3_x_size[1];
-  c3_b_ny = c3_y_size[1];
-  if (c3_b_nx != c3_b_ny) {
-    c3_h_y = NULL;
-    sf_mex_assign(&c3_h_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_j_y = NULL;
-    sf_mex_assign(&c3_j_y, sf_mex_create("y", c3_cv2, 10, 0U, 1U, 0U, 2, 1, 36),
-                  false);
-    c3_l_y = NULL;
-    sf_mex_assign(&c3_l_y, sf_mex_create("y", &c3_b_nx, 6, 0U, 0U, 0U, 0), false);
-    c3_m_y = NULL;
-    sf_mex_assign(&c3_m_y, sf_mex_create("y", &c3_b_ny, 6, 0U, 0U, 0U, 0), false);
-    sf_mex_call(c3_sp, &c3_g_emlrtMCI, "error", 0U, 2U, 14, c3_h_y, 14,
-                sf_mex_call(c3_sp, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (c3_sp, NULL, "message", 1U, 3U, 14, c3_j_y, 14, c3_l_y, 14, c3_m_y)));
-  }
-
-  c3_nxm1 = c3_b_nx - 1;
-  c3_st.site = &c3_kc_emlrtRSI;
-  c3_b_b = c3_nxm1;
-  c3_c_b = c3_b_b;
-  if (c3_c_b < 1) {
-    c3_overflow = false;
-  } else {
-    c3_overflow = (c3_c_b > 2147483646);
-  }
-
-  if (c3_overflow) {
-    c3_b_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
-  }
-
-  c3_i2 = (uint8_T)c3_nxm1 - 1;
-  for (c3_e_k = 0; c3_e_k <= c3_i2; c3_e_k++) {
-    c3_f_k = c3_e_k;
-    c3_h_data[c3_f_k] = c3_c_x_data[c3_f_k + 1] - c3_c_x_data[c3_f_k];
-  }
-
-  c3_st.site = &c3_jc_emlrtRSI;
-  c3_d_b = c3_nxm1;
-  c3_e_b = c3_d_b;
-  if (c3_e_b < 1) {
-    c3_b_overflow = false;
-  } else {
-    c3_b_overflow = (c3_e_b > 2147483646);
-  }
-
-  if (c3_b_overflow) {
-    c3_b_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
-  }
-
-  c3_i3 = (uint8_T)c3_nxm1 - 1;
-  for (c3_g_k = 0; c3_g_k <= c3_i3; c3_g_k++) {
-    c3_f_k = c3_g_k;
-    c3_c1 = c3_f_k;
-    c3_del_data[c3_c1] = (c3_y_data[c3_f_k + 1] - c3_y_data[c3_c1]) /
-      c3_h_data[c3_f_k];
-  }
-
-  for (c3_i4 = 0; c3_i4 < 2; c3_i4++) {
-    c3_dv[c3_i4] = (real_T)c3_y_size[c3_i4];
-  }
-
-  c3_slopes_size[1] = (int32_T)c3_dv[1];
-  c3_nxm2 = c3_b_nx - 2;
-  c3_nxm3 = c3_b_nx;
-  c3_st.site = &c3_ic_emlrtRSI;
-  c3_f_b = c3_nxm2;
-  c3_g_b = c3_f_b;
-  if (c3_g_b < 1) {
-    c3_c_overflow = false;
-  } else {
-    c3_c_overflow = (c3_g_b > 2147483646);
-  }
-
-  if (c3_c_overflow) {
-    c3_b_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
-  }
-
-  c3_i5 = (uint8_T)c3_nxm2 - 1;
-  for (c3_h_k = 0; c3_h_k <= c3_i5; c3_h_k++) {
-    c3_f_k = c3_h_k;
-    c3_w1 = 2.0 * c3_h_data[c3_f_k + 1] + c3_h_data[c3_f_k];
-    c3_w2 = c3_h_data[c3_f_k + 1] + 2.0 * c3_h_data[c3_f_k];
-    c3_c1 = c3_f_k;
-    c3_d_d1 = c3_del_data[c3_c1];
-    c3_c_d2 = c3_del_data[c3_f_k + 1];
-    c3_b_w1 = c3_w1;
-    c3_b_w2 = c3_w2;
-    c3_e_d1 = c3_d_d1;
-    c3_d_d2 = c3_c_d2;
-    c3_c_w1 = c3_b_w1;
-    c3_c_w2 = c3_b_w2;
-    c3_b_s = 0.0;
-    c3_d_x = c3_e_d1 * c3_d_d2;
-    c3_e_x = c3_d_x;
-    c3_e_x = muDoubleScalarSign(c3_e_x);
-    if (c3_e_x > 0.0) {
-      c3_b_s = (c3_c_w1 + c3_c_w2) / (c3_c_w1 / c3_e_d1 + c3_c_w2 / c3_d_d2);
-    }
-
-    c3_slopes_data[c3_f_k + 1] = c3_b_s;
-  }
-
-  c3_b_d1 = c3_del_data[0];
-  c3_d2 = c3_del_data[1];
-  c3_h1 = c3_h_data[0];
-  c3_h2 = c3_h_data[1];
-  c3_c_d1 = c3_b_d1;
-  c3_b_d2 = c3_d2;
-  c3_b_h1 = c3_h1;
-  c3_b_h2 = c3_h2;
-  c3_s = ((2.0 * c3_b_h1 + c3_b_h2) * c3_c_d1 - c3_b_h1 * c3_b_d2) / (c3_b_h1 +
-    c3_b_h2);
-  c3_b_x = c3_c_d1;
-  c3_signd1 = c3_b_x;
-  c3_signd1 = muDoubleScalarSign(c3_signd1);
-  c3_c_x = c3_s;
-  c3_signs = c3_c_x;
-  c3_signs = muDoubleScalarSign(c3_signs);
-  if (c3_signs != c3_signd1) {
-    c3_s = 0.0;
-  } else {
-    c3_f_x = c3_b_d2;
-    c3_g_x = c3_f_x;
-    c3_g_x = muDoubleScalarSign(c3_g_x);
-    if (c3_signd1 != c3_g_x) {
-      c3_h_x = c3_s;
-      c3_i_x = c3_h_x;
-      c3_j_x = c3_i_x;
-      c3_n_y = muDoubleScalarAbs(c3_j_x);
-      c3_k_x = 3.0 * c3_c_d1;
-      c3_l_x = c3_k_x;
-      c3_m_x = c3_l_x;
-      c3_o_y = muDoubleScalarAbs(c3_m_x);
-      if (c3_n_y > c3_o_y) {
-        c3_s = 3.0 * c3_c_d1;
-      }
-    }
-  }
-
-  c3_slopes_data[0] = c3_s;
-  c3_f_d1 = c3_del_data[c3_nxm2];
-  c3_e_d2 = c3_del_data[c3_nxm3 - 3];
-  c3_c_h1 = c3_h_data[c3_nxm1 - 1];
-  c3_c_h2 = c3_h_data[c3_nxm2 - 1];
-  c3_g_d1 = c3_f_d1;
-  c3_f_d2 = c3_e_d2;
-  c3_d_h1 = c3_c_h1;
-  c3_d_h2 = c3_c_h2;
-  c3_c_s = ((2.0 * c3_d_h1 + c3_d_h2) * c3_g_d1 - c3_d_h1 * c3_f_d2) / (c3_d_h1
-    + c3_d_h2);
-  c3_n_x = c3_g_d1;
-  c3_b_signd1 = c3_n_x;
-  c3_b_signd1 = muDoubleScalarSign(c3_b_signd1);
-  c3_o_x = c3_c_s;
-  c3_b_signs = c3_o_x;
-  c3_b_signs = muDoubleScalarSign(c3_b_signs);
-  if (c3_b_signs != c3_b_signd1) {
-    c3_c_s = 0.0;
-  } else {
-    c3_p_x = c3_f_d2;
-    c3_q_x = c3_p_x;
-    c3_q_x = muDoubleScalarSign(c3_q_x);
-    if (c3_b_signd1 != c3_q_x) {
-      c3_r_x = c3_c_s;
-      c3_s_x = c3_r_x;
-      c3_t_x = c3_s_x;
-      c3_p_y = muDoubleScalarAbs(c3_t_x);
-      c3_u_x = 3.0 * c3_g_d1;
-      c3_v_x = c3_u_x;
-      c3_w_x = c3_v_x;
-      c3_q_y = muDoubleScalarAbs(c3_w_x);
-      if (c3_p_y > c3_q_y) {
-        c3_c_s = 3.0 * c3_g_d1;
-      }
-    }
-  }
-
-  c3_slopes_data[c3_nxm1] = c3_c_s;
-  c3_st.site = &c3_hc_emlrtRSI;
-  c3_c_nx = c3_x_size[1] - 1;
-  c3_b_nxm1 = c3_c_nx;
-  c3_g_d2 = (real_T)c3_x_size[1];
-  c3_b_st.site = &c3_mc_emlrtRSI;
-  c3_varargin_2 = c3_g_d2;
-  c3_d_nx = c3_x_size[1];
-  c3_c_st.site = &c3_oc_emlrtRSI;
-  c3_computeDimsData(chartInstance, &c3_c_st, c3_varargin_2);
-  c3_szdel[1] = (int32_T)c3_varargin_2;
-  c3_n = c3_x_size[1];
-  c3_maxdimlen = muIntScalarMax_sint32(c3_d_nx, c3_n);
-  if (c3_szdel[1] > c3_maxdimlen) {
-    c3_r_y = NULL;
-    sf_mex_assign(&c3_r_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 39),
-                  false);
-    c3_s_y = NULL;
-    sf_mex_assign(&c3_s_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 39),
-                  false);
-    sf_mex_call(&c3_b_st, &c3_k_emlrtMCI, "error", 0U, 2U, 14, c3_r_y, 14,
-                sf_mex_call(&c3_b_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_b_st, NULL, "message", 1U, 1U, 14, c3_s_y)));
-  }
-
-  c3_b_varargin_2 = c3_szdel[1];
-  c3_c_varargin_2 = c3_b_varargin_2;
-  c3_result = c3_c_varargin_2;
-  if (c3_result != c3_d_nx) {
-    c3_t_y = NULL;
-    sf_mex_assign(&c3_t_y, sf_mex_create("y", c3_cv1, 10, 0U, 1U, 0U, 2, 1, 40),
-                  false);
-    c3_u_y = NULL;
-    sf_mex_assign(&c3_u_y, sf_mex_create("y", c3_cv1, 10, 0U, 1U, 0U, 2, 1, 40),
-                  false);
-    sf_mex_call(&c3_b_st, &c3_m_emlrtMCI, "error", 0U, 2U, 14, c3_t_y, 14,
-                sf_mex_call(&c3_b_st, NULL, "getString", 1U, 1U, 14, sf_mex_call
-      (&c3_b_st, NULL, "message", 1U, 1U, 14, c3_u_y)));
-  }
-
-  c3_v->breaks.size[0] = 1;
-  c3_v->breaks.size[1] = (int32_T)c3_g_d2;
-  c3_loop_ub = (int32_T)c3_g_d2 - 1;
-  for (c3_i6 = 0; c3_i6 <= c3_loop_ub; c3_i6++) {
-    c3_v->breaks.data[c3_i6] = c3_c_x_data[c3_i6];
-  }
-
-  c3_cpage = c3_slopes_size[1] - 1;
-  c3_v->coefs.size[0] = c3_cpage;
-  c3_v->coefs.size[1] = 4;
-  c3_b_st.site = &c3_nc_emlrtRSI;
-  c3_h_b = c3_b_nxm1;
-  c3_i_b = c3_h_b;
-  if (c3_i_b < 1) {
-    c3_d_overflow = false;
-  } else {
-    c3_d_overflow = (c3_i_b > 2147483646);
-  }
-
-  if (c3_d_overflow) {
-    c3_c_st.site = &c3_u_emlrtRSI;
-    c3_check_forloop_overflow_error(chartInstance, &c3_c_st);
-  }
-
-  c3_i7 = (uint8_T)c3_b_nxm1 - 1;
-  for (c3_j = 0; c3_j <= c3_i7; c3_j++) {
-    c3_b_j = c3_j;
-    c3_dxj = c3_h_data[c3_b_j];
-    c3_joffset = c3_b_j;
-    c3_divdifij = c3_del_data[c3_joffset];
-    c3_dzzdx = (c3_divdifij - c3_slopes_data[c3_joffset]) / c3_dxj;
-    c3_dzdxdx = (c3_slopes_data[c3_joffset + 1] - c3_divdifij) / c3_dxj;
-    c3_v->coefs.data[c3_joffset] = (c3_dzdxdx - c3_dzzdx) / c3_dxj;
-    c3_v->coefs.data[c3_cpage + c3_joffset] = 2.0 * c3_dzzdx - c3_dzdxdx;
-    c3_j_b = c3_cpage;
-    c3_v_y = c3_j_b << 1;
-    c3_v->coefs.data[c3_v_y + c3_joffset] = c3_slopes_data[c3_joffset];
-    c3_k_b = c3_cpage;
-    c3_w_y = 3 * c3_k_b;
-    c3_v->coefs.data[c3_w_y + c3_joffset] = c3_y_data[c3_joffset];
-  }
-}
-
-static int32_T c3_bsearch(SFc3_flightControlSystemInstanceStruct *chartInstance,
-  real_T c3_c_x_data[], int32_T c3_x_size[2], real_T c3_xi)
-{
-  int32_T c3_b_high_i;
-  int32_T c3_b_low_i;
-  int32_T c3_high_i;
-  int32_T c3_low_i;
-  int32_T c3_low_ip1;
-  int32_T c3_mid_i;
-  int32_T c3_xend;
-  (void)chartInstance;
-  c3_xend = c3_x_size[1];
-  c3_low_i = 1;
-  c3_low_ip1 = 1;
-  c3_high_i = c3_xend;
-  while (c3_high_i > c3_low_ip1 + 1) {
-    c3_b_low_i = c3_low_i;
-    c3_b_high_i = c3_high_i;
-    c3_mid_i = (c3_b_low_i >> 1) + (c3_b_high_i >> 1);
-    if (((c3_b_low_i & 1) == 1) && ((c3_b_high_i & 1) == 1)) {
-      c3_mid_i++;
-    }
-
-    if (c3_xi >= c3_c_x_data[c3_mid_i - 1]) {
-      c3_low_i = c3_mid_i;
-      c3_low_ip1 = c3_mid_i;
-    } else {
-      c3_high_i = c3_mid_i;
-    }
-  }
-
-  return c3_low_i;
-}
-
-static void c3_ppval(SFc3_flightControlSystemInstanceStruct *chartInstance,
-                     c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_pp, real_T c3_x[200], real_T
-                     c3_v[200])
-{
-  real_T c3_b_v;
-  real_T c3_b_x;
-  real_T c3_c_x;
-  real_T c3_xloc;
-  int32_T c3_b_ix;
-  int32_T c3_coefStride;
-  int32_T c3_ic;
-  int32_T c3_ip;
-  int32_T c3_ix;
-  int32_T c3_numPieces;
-  boolean_T c3_b;
-  c3_numPieces = c3_pp->breaks.size[1];
-  for (c3_ix = 0; c3_ix < 200; c3_ix++) {
-    c3_b_ix = c3_ix;
-    c3_b_x = c3_x[c3_b_ix];
-    c3_coefStride = c3_numPieces - 1;
-    c3_c_x = c3_b_x;
-    c3_b = muDoubleScalarIsNaN(c3_c_x);
-    if (c3_b) {
-      c3_b_v = c3_b_x;
-    } else {
-      c3_ip = c3_bsearch(chartInstance, c3_pp->breaks.data, c3_pp->breaks.size,
-                         c3_b_x) - 1;
-      c3_xloc = c3_b_x - c3_pp->breaks.data[c3_ip];
-      c3_b_v = c3_pp->coefs.data[c3_ip];
-      for (c3_ic = 0; c3_ic < 3; c3_ic++) {
-        c3_b_v = c3_xloc * c3_b_v + c3_pp->coefs.data[c3_ip + (c3_ic + 1) *
-          c3_coefStride];
-      }
-    }
-
-    c3_v[c3_b_ix] = c3_b_v;
-  }
-}
-
 const mxArray *sf_c3_flightControlSystem_get_eml_resolved_functions_info(void)
 {
   const mxArray *c3_nameCaptureInfo = NULL;
-  const char_T *c3_data[5] = {
-    "789ced54cb4ac340149d4805051f59f905dd290d15445c6ba581b6545b4414a9794c4de83cc264d4f62bf4335cfa09aefd2a9bc7b449ec90d0425d98bbe8bd97"
-    "3373cf99937281a2b71500c01e88a2b913e5ddb857e3bc01d291c595cc39257d1c6c824aea9ec0dfe26c51c2e198470d31309cddb429768941787fe241c0a04f",
-    "d10bb44364e822d87731ec259b4ed0e1cb04346b0228a8cf1d688d7acf1830c79f2b44c966e6c7a7e4bd95827eb4247ea819fc5e6fdd361eaad8e0c83019a5bc"
-    "aa714a9149c71ac44843aea94598e65134193e13cd9d1ac6bc7a0d2b3dce5cf2d4a76dc81d6aeb1749fdef2bea3fcad12f708bda90d5424dc4405131556a7018",
-    "d79138bf41a6be27f43d2ea92f1b327d2204dfd7927c62fe20874fe0c1f7ec2cfe9ebe6330686ba163f1ef619c847f711519a8fd32b08673fddb2ff89e6c9e9f"
-    "df0ab3f7bd6d06795d7c22fe0bdf5832afe8fff140c2a766f0b6de3db981eee9dd59fbf8daa2ec0ad775d69cebe8e6f0e4e900927e5df33f24f78bfad894cc57",
-    "33f82a7b3aae06af948dcafd9c8e723f2f7e4fb99fff96afdccfabcdff01e551edd5", "" };
-
   c3_nameCaptureInfo = NULL;
-  emlrtNameCaptureMxArrayR2016a(&c3_data[0], 3168U, &c3_nameCaptureInfo);
+  sf_mex_assign(&c3_nameCaptureInfo, sf_mex_create("nameCaptureInfo", NULL, 0,
+    0U, 1U, 0U, 2, 0, 1), false);
   return c3_nameCaptureInfo;
-}
-
-static const mxArray *c3_emlrt_marshallOut
-  (SFc3_flightControlSystemInstanceStruct *chartInstance, const
-   c3_s_WVIjmaAZoOE6RkudQk1Zu *c3_b_u)
-{
-  static const char_T *c3_sv[2] = { "breaks", "coefs" };
-
-  const mxArray *c3_b_y;
-  const mxArray *c3_c_y = NULL;
-  const mxArray *c3_d_y = NULL;
-  real_T c3_b_u_data[76];
-  real_T c3_u_data[20];
-  int32_T c3_b_u_size[2];
-  int32_T c3_u_size[2];
-  int32_T c3_b_loop_ub;
-  int32_T c3_i;
-  int32_T c3_i1;
-  int32_T c3_loop_ub;
-  (void)chartInstance;
-  c3_b_y = NULL;
-  c3_b_y = NULL;
-  sf_mex_assign(&c3_b_y, sf_mex_createstruct("structure", 2, c3_sv, 2, 1, 1),
-                false);
-  c3_u_size[1] = c3_b_u->breaks.size[1];
-  c3_loop_ub = c3_b_u->breaks.size[1] - 1;
-  for (c3_i = 0; c3_i <= c3_loop_ub; c3_i++) {
-    c3_u_data[c3_i] = c3_b_u->breaks.data[c3_i];
-  }
-
-  c3_c_y = NULL;
-  sf_mex_assign(&c3_c_y, sf_mex_create("y", &c3_u_data, 0, 0U, 1U, 0U, 2, 1,
-    c3_u_size[1]), false);
-  sf_mex_setfieldbynum(c3_b_y, 0, "breaks", c3_c_y, 0);
-  c3_b_u_size[0] = c3_b_u->coefs.size[0];
-  c3_b_loop_ub = (c3_b_u->coefs.size[0] << 2) - 1;
-  for (c3_i1 = 0; c3_i1 <= c3_b_loop_ub; c3_i1++) {
-    c3_b_u_data[c3_i1] = c3_b_u->coefs.data[c3_i1];
-  }
-
-  c3_d_y = NULL;
-  sf_mex_assign(&c3_d_y, sf_mex_create("y", &c3_b_u_data, 0, 0U, 1U, 0U, 2,
-    c3_b_u_size[0], 4), false);
-  sf_mex_setfieldbynum(c3_b_y, 0, "coefs", c3_d_y, 1);
-  return c3_b_y;
 }
 
 static boolean_T c3_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
@@ -7444,7 +4471,7 @@ static boolean_T c3_b_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   return c3_b_y;
 }
 
-static const mxArray *c3_b_emlrt_marshallOut
+static const mxArray *c3_emlrt_marshallOut
   (SFc3_flightControlSystemInstanceStruct *chartInstance, const char_T c3_b_u[6])
 {
   const mxArray *c3_b_y = NULL;
@@ -7455,19 +4482,19 @@ static const mxArray *c3_b_emlrt_marshallOut
   return c3_b_y;
 }
 
-static const mxArray *c3_c_emlrt_marshallOut
-  (SFc3_flightControlSystemInstanceStruct *chartInstance, const real_T c3_b_u
-   [200])
+static const mxArray *c3_b_emlrt_marshallOut
+  (SFc3_flightControlSystemInstanceStruct *chartInstance, const real_T
+   c3_u_data[], const int32_T c3_u_size[1])
 {
   const mxArray *c3_b_y = NULL;
   (void)chartInstance;
   c3_b_y = NULL;
-  sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_u, 0, 0U, 1U, 0U, 2, 1, 200),
-                false);
+  sf_mex_assign(&c3_b_y, sf_mex_create("y", (void *)c3_u_data, 0, 0U, 1U, 0U, 1,
+    c3_u_size[0]), false);
   return c3_b_y;
 }
 
-static const mxArray *c3_d_emlrt_marshallOut
+static const mxArray *c3_c_emlrt_marshallOut
   (SFc3_flightControlSystemInstanceStruct *chartInstance, const real_T c3_b_u[4])
 {
   const mxArray *c3_b_y = NULL;
@@ -7479,17 +4506,16 @@ static const mxArray *c3_d_emlrt_marshallOut
 }
 
 static real_T c3_c_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_a__output_of_feval_, const char_T
-  *c3_identifier)
+  *chartInstance, const mxArray *c3_b_distX, const char_T *c3_identifier)
 {
   emlrtMsgIdentifier c3_thisId;
   real_T c3_b_y;
   c3_thisId.fIdentifier = (const char_T *)c3_identifier;
   c3_thisId.fParent = NULL;
   c3_thisId.bParentIsCell = false;
-  c3_b_y = c3_d_emlrt_marshallIn(chartInstance, sf_mex_dup
-    (c3_a__output_of_feval_), &c3_thisId);
-  sf_mex_destroy(&c3_a__output_of_feval_);
+  c3_b_y = c3_d_emlrt_marshallIn(chartInstance, sf_mex_dup(c3_b_distX),
+    &c3_thisId);
+  sf_mex_destroy(&c3_b_distX);
   return c3_b_y;
 }
 
@@ -7626,108 +4652,7 @@ static const mxArray *c3_l_emlrt_marshallIn
   return c3_b_y;
 }
 
-static uint32_T c3_m_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_c_method, const char_T *c3_identifier,
-  boolean_T *c3_svPtr)
-{
-  emlrtMsgIdentifier c3_thisId;
-  uint32_T c3_b_y;
-  c3_thisId.fIdentifier = (const char_T *)c3_identifier;
-  c3_thisId.fParent = NULL;
-  c3_thisId.bParentIsCell = false;
-  c3_b_y = c3_n_emlrt_marshallIn(chartInstance, sf_mex_dup(c3_c_method),
-    &c3_thisId, c3_svPtr);
-  sf_mex_destroy(&c3_c_method);
-  return c3_b_y;
-}
-
-static uint32_T c3_n_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId,
-  boolean_T *c3_svPtr)
-{
-  uint32_T c3_b_y;
-  uint32_T c3_c_u;
-  (void)chartInstance;
-  if (mxIsEmpty(c3_b_u)) {
-    *c3_svPtr = false;
-  } else {
-    *c3_svPtr = true;
-    sf_mex_import(c3_parentId, sf_mex_dup(c3_b_u), &c3_c_u, 1, 7, 0U, 0, 0U, 0);
-    c3_b_y = c3_c_u;
-  }
-
-  sf_mex_destroy(&c3_b_u);
-  return c3_b_y;
-}
-
-static void c3_o_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_e_state, const char_T *c3_identifier,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[625])
-{
-  emlrtMsgIdentifier c3_thisId;
-  c3_thisId.fIdentifier = (const char_T *)c3_identifier;
-  c3_thisId.fParent = NULL;
-  c3_thisId.bParentIsCell = false;
-  c3_p_emlrt_marshallIn(chartInstance, sf_mex_dup(c3_e_state), &c3_thisId,
-                        c3_svPtr, c3_b_y);
-  sf_mex_destroy(&c3_e_state);
-}
-
-static void c3_p_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[625])
-{
-  int32_T c3_i;
-  uint32_T c3_uv[625];
-  (void)chartInstance;
-  if (mxIsEmpty(c3_b_u)) {
-    *c3_svPtr = false;
-  } else {
-    *c3_svPtr = true;
-    sf_mex_import(c3_parentId, sf_mex_dup(c3_b_u), c3_uv, 1, 7, 0U, 1, 0U, 1,
-                  625);
-    for (c3_i = 0; c3_i < 625; c3_i++) {
-      c3_b_y[c3_i] = c3_uv[c3_i];
-    }
-  }
-
-  sf_mex_destroy(&c3_b_u);
-}
-
-static void c3_q_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_e_state, const char_T *c3_identifier,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[2])
-{
-  emlrtMsgIdentifier c3_thisId;
-  c3_thisId.fIdentifier = (const char_T *)c3_identifier;
-  c3_thisId.fParent = NULL;
-  c3_thisId.bParentIsCell = false;
-  c3_r_emlrt_marshallIn(chartInstance, sf_mex_dup(c3_e_state), &c3_thisId,
-                        c3_svPtr, c3_b_y);
-  sf_mex_destroy(&c3_e_state);
-}
-
-static void c3_r_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId,
-  boolean_T *c3_svPtr, uint32_T c3_b_y[2])
-{
-  int32_T c3_i;
-  uint32_T c3_uv[2];
-  (void)chartInstance;
-  if (mxIsEmpty(c3_b_u)) {
-    *c3_svPtr = false;
-  } else {
-    *c3_svPtr = true;
-    sf_mex_import(c3_parentId, sf_mex_dup(c3_b_u), c3_uv, 1, 7, 0U, 1, 0U, 1, 2);
-    for (c3_i = 0; c3_i < 2; c3_i++) {
-      c3_b_y[c3_i] = c3_uv[c3_i];
-    }
-  }
-
-  sf_mex_destroy(&c3_b_u);
-}
-
-static uint8_T c3_s_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
+static uint8_T c3_m_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_b_is_active_c3_flightControlSystem, const
   char_T *c3_identifier)
 {
@@ -7736,13 +4661,13 @@ static uint8_T c3_s_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   c3_thisId.fIdentifier = (const char_T *)c3_identifier;
   c3_thisId.fParent = NULL;
   c3_thisId.bParentIsCell = false;
-  c3_b_y = c3_t_emlrt_marshallIn(chartInstance, sf_mex_dup
+  c3_b_y = c3_n_emlrt_marshallIn(chartInstance, sf_mex_dup
     (c3_b_is_active_c3_flightControlSystem), &c3_thisId);
   sf_mex_destroy(&c3_b_is_active_c3_flightControlSystem);
   return c3_b_y;
 }
 
-static uint8_T c3_t_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
+static uint8_T c3_n_emlrt_marshallIn(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c3_b_u, const emlrtMsgIdentifier *c3_parentId)
 {
   uint8_T c3_b_y;
@@ -7804,40 +4729,6 @@ static void c3_chart_data_browse_helper(SFc3_flightControlSystemInstanceStruct
   }
 }
 
-static const mxArray *c3_feval(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0, const
-  mxArray *c3_input1, const mxArray *c3_input2, const mxArray *c3_input3)
-{
-  const mxArray *c3_m = NULL;
-  (void)chartInstance;
-  c3_m = NULL;
-  sf_mex_assign(&c3_m, sf_mex_call(c3_sp, NULL, "feval", 1U, 4U, 14, sf_mex_dup
-    (c3_input0), 14, sf_mex_dup(c3_input1), 14, sf_mex_dup(c3_input2), 14,
-    sf_mex_dup(c3_input3)), false);
-  sf_mex_destroy(&c3_input0);
-  sf_mex_destroy(&c3_input1);
-  sf_mex_destroy(&c3_input2);
-  sf_mex_destroy(&c3_input3);
-  return c3_m;
-}
-
-static const mxArray *c3_b_feval(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0, const
-  mxArray *c3_input1, const mxArray *c3_input2, const mxArray *c3_input3)
-{
-  const mxArray *c3_m = NULL;
-  (void)chartInstance;
-  c3_m = NULL;
-  sf_mex_assign(&c3_m, sf_mex_call(c3_sp, NULL, "feval", 1U, 4U, 14, sf_mex_dup
-    (c3_input0), 14, sf_mex_dup(c3_input1), 14, sf_mex_dup(c3_input2), 14,
-    sf_mex_dup(c3_input3)), false);
-  sf_mex_destroy(&c3_input0);
-  sf_mex_destroy(&c3_input1);
-  sf_mex_destroy(&c3_input2);
-  sf_mex_destroy(&c3_input3);
-  return c3_m;
-}
-
 static const mxArray *c3_figure(SFc3_flightControlSystemInstanceStruct
   *chartInstance, const emlrtStack *c3_sp)
 {
@@ -7894,18 +4785,6 @@ static void c3_b_figure(SFc3_flightControlSystemInstanceStruct *chartInstance,
   sf_mex_destroy(&c3_input0);
 }
 
-static void c3_plot(SFc3_flightControlSystemInstanceStruct *chartInstance, const
-                    emlrtStack *c3_sp, const mxArray *c3_input0, const mxArray
-                    *c3_input1, const mxArray *c3_input2)
-{
-  (void)chartInstance;
-  sf_mex_call(c3_sp, NULL, "plot", 0U, 3U, 14, sf_mex_dup(c3_input0), 14,
-              sf_mex_dup(c3_input1), 14, sf_mex_dup(c3_input2));
-  sf_mex_destroy(&c3_input0);
-  sf_mex_destroy(&c3_input1);
-  sf_mex_destroy(&c3_input2);
-}
-
 static void c3_axis(SFc3_flightControlSystemInstanceStruct *chartInstance, const
                     emlrtStack *c3_sp, const mxArray *c3_input0, const mxArray
                     *c3_input1)
@@ -7917,15 +4796,29 @@ static void c3_axis(SFc3_flightControlSystemInstanceStruct *chartInstance, const
   sf_mex_destroy(&c3_input1);
 }
 
+static const mxArray *c3_scatter(SFc3_flightControlSystemInstanceStruct
+  *chartInstance, const emlrtStack *c3_sp, const mxArray *c3_input0, const
+  mxArray *c3_input1)
+{
+  const mxArray *c3_m = NULL;
+  (void)chartInstance;
+  c3_m = NULL;
+  sf_mex_assign(&c3_m, sf_mex_call(c3_sp, NULL, "scatter", 0U, 2U, 14,
+    sf_mex_dup(c3_input0), 14, sf_mex_dup(c3_input1)), false);
+  sf_mex_destroy(&c3_input0);
+  sf_mex_destroy(&c3_input1);
+  return c3_m;
+}
+
 static void c3_b_sqrt(SFc3_flightControlSystemInstanceStruct *chartInstance,
                       const emlrtStack *c3_sp, real_T c3_c_x_data[], int32_T
                       c3_x_size[1])
 {
-  static char_T c3_b_cv[30] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+  static char_T c3_cv[30] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'E', 'l', 'F', 'u', 'n', 'D', 'o', 'm', 'a', 'i', 'n',
     'E', 'r', 'r', 'o', 'r' };
 
-  static char_T c3_b_cv1[4] = { 's', 'q', 'r', 't' };
+  static char_T c3_cv1[4] = { 's', 'q', 'r', 't' };
 
   emlrtStack c3_b_st;
   emlrtStack c3_c_st;
@@ -7979,13 +4872,13 @@ static void c3_b_sqrt(SFc3_flightControlSystemInstanceStruct *chartInstance,
 
   if (c3_p) {
     c3_b_y = NULL;
-    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 30),
+    sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 30),
                   false);
     c3_c_y = NULL;
-    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1, 30),
+    sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_cv, 10, 0U, 1U, 0U, 2, 1, 30),
                   false);
     c3_d_y = NULL;
-    sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_b_cv1, 10, 0U, 1U, 0U, 2, 1, 4),
+    sf_mex_assign(&c3_d_y, sf_mex_create("y", c3_cv1, 10, 0U, 1U, 0U, 2, 1, 4),
                   false);
     sf_mex_call(c3_sp, &c3_c_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
                 sf_mex_call(c3_sp, NULL, "getString", 1U, 1U, 14, sf_mex_call
@@ -8185,7 +5078,6 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
   emlrtStack c3_st;
   real_T c3_x4[4];
   real_T c3_dv[2];
-  real_T c3_x;
   int32_T c3_idx4[4];
   int32_T c3_perm[4];
   int32_T c3_iv[1];
@@ -8202,11 +5094,11 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
   int32_T c3_b_k;
   int32_T c3_b_loop_ub;
   int32_T c3_b_n;
+  int32_T c3_c_b;
   int32_T c3_c_k;
   int32_T c3_c_loop_ub;
   int32_T c3_c_n;
   int32_T c3_d_b;
-  int32_T c3_d_k;
   int32_T c3_e_b;
   int32_T c3_f_b;
   int32_T c3_g_b;
@@ -8219,27 +5111,18 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
   int32_T c3_i5;
   int32_T c3_i6;
   int32_T c3_i7;
-  int32_T c3_i_b;
+  int32_T c3_i8;
   int32_T c3_ib;
-  int32_T c3_itmp;
-  int32_T c3_j_b;
   int32_T c3_k;
-  int32_T c3_k_b;
   int32_T c3_loop_ub;
-  int32_T c3_m;
   int32_T c3_n;
   int32_T c3_nBlocks;
   int32_T c3_nLastBlock;
-  int32_T c3_nNaNs;
-  int32_T c3_nNonNaN;
   int32_T c3_preSortLevel;
   int32_T c3_quartetOffset;
   int32_T c3_tailOffset;
-  int32_T c3_wOffset;
   boolean_T c3_b_overflow;
-  boolean_T c3_c_b;
   boolean_T c3_c_overflow;
-  boolean_T c3_d_overflow;
   boolean_T c3_overflow;
   c3_st.prev = c3_sp;
   c3_st.tls = c3_sp->tls;
@@ -8259,7 +5142,7 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
   if (c3_x_size[0] != 0) {
     c3_st.site = &c3_gb_emlrtRSI;
     c3_n = c3_x_size[0];
-    c3_b_st.site = &c3_hb_emlrtRSI;
+    c3_b_st.site = &c3_lb_emlrtRSI;
     c3_b_n = c3_x_size[0];
     for (c3_i1 = 0; c3_i1 < 4; c3_i1++) {
       c3_x4[c3_i1] = 0.0;
@@ -8288,9 +5171,8 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
       chartInstance->c3_xwork_data[c3_i4] = 0.0;
     }
 
-    c3_nNaNs = 0;
     c3_ib = 0;
-    c3_c_st.site = &c3_mb_emlrtRSI;
+    c3_c_st.site = &c3_ob_emlrtRSI;
     c3_b = c3_b_n;
     c3_b_b = c3_b;
     if (c3_b_b < 1) {
@@ -8307,85 +5189,75 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
     c3_i5 = (uint16_T)c3_b_n - 1;
     for (c3_k = 0; c3_k <= c3_i5; c3_k++) {
       c3_b_k = c3_k;
-      c3_x = c3_c_x_data[c3_b_k];
-      c3_c_b = muDoubleScalarIsNaN(c3_x);
-      if (c3_c_b) {
-        c3_idx_data[(c3_b_n - c3_nNaNs) - 1] = c3_b_k + 1;
-        chartInstance->c3_xwork_data[(c3_b_n - c3_nNaNs) - 1] =
-          c3_c_x_data[c3_b_k];
-        c3_nNaNs++;
-      } else {
-        c3_ib++;
-        c3_idx4[c3_ib - 1] = c3_b_k + 1;
-        c3_x4[c3_ib - 1] = c3_c_x_data[c3_b_k];
-        if (c3_ib == 4) {
-          c3_quartetOffset = c3_b_k - c3_nNaNs;
-          if (c3_x4[0] <= c3_x4[1]) {
-            c3_b_i1 = 1;
-            c3_b_i2 = 2;
-          } else {
-            c3_b_i1 = 2;
-            c3_b_i2 = 1;
-          }
+      c3_ib++;
+      c3_idx4[c3_ib - 1] = c3_b_k + 1;
+      c3_x4[c3_ib - 1] = c3_c_x_data[c3_b_k];
+      if (c3_ib == 4) {
+        c3_quartetOffset = c3_b_k;
+        if (c3_x4[0] <= c3_x4[1]) {
+          c3_b_i1 = 1;
+          c3_b_i2 = 2;
+        } else {
+          c3_b_i1 = 2;
+          c3_b_i2 = 1;
+        }
 
-          if (c3_x4[2] <= c3_x4[3]) {
-            c3_b_i3 = 3;
-            c3_b_i4 = 4;
-          } else {
-            c3_b_i3 = 4;
-            c3_b_i4 = 3;
-          }
+        if (c3_x4[2] <= c3_x4[3]) {
+          c3_b_i3 = 3;
+          c3_b_i4 = 4;
+        } else {
+          c3_b_i3 = 4;
+          c3_b_i4 = 3;
+        }
 
-          if (c3_x4[c3_b_i1 - 1] <= c3_x4[c3_b_i3 - 1]) {
-            if (c3_x4[c3_b_i2 - 1] <= c3_x4[c3_b_i3 - 1]) {
-              c3_perm[0] = c3_b_i1;
-              c3_perm[1] = c3_b_i2;
-              c3_perm[2] = c3_b_i3;
-              c3_perm[3] = c3_b_i4;
-            } else if (c3_x4[c3_b_i2 - 1] <= c3_x4[c3_b_i4 - 1]) {
-              c3_perm[0] = c3_b_i1;
-              c3_perm[1] = c3_b_i3;
-              c3_perm[2] = c3_b_i2;
-              c3_perm[3] = c3_b_i4;
-            } else {
-              c3_perm[0] = c3_b_i1;
-              c3_perm[1] = c3_b_i3;
-              c3_perm[2] = c3_b_i4;
-              c3_perm[3] = c3_b_i2;
-            }
-          } else if (c3_x4[c3_b_i1 - 1] <= c3_x4[c3_b_i4 - 1]) {
-            if (c3_x4[c3_b_i2 - 1] <= c3_x4[c3_b_i4 - 1]) {
-              c3_perm[0] = c3_b_i3;
-              c3_perm[1] = c3_b_i1;
-              c3_perm[2] = c3_b_i2;
-              c3_perm[3] = c3_b_i4;
-            } else {
-              c3_perm[0] = c3_b_i3;
-              c3_perm[1] = c3_b_i1;
-              c3_perm[2] = c3_b_i4;
-              c3_perm[3] = c3_b_i2;
-            }
+        if (c3_x4[c3_b_i1 - 1] <= c3_x4[c3_b_i3 - 1]) {
+          if (c3_x4[c3_b_i2 - 1] <= c3_x4[c3_b_i3 - 1]) {
+            c3_perm[0] = c3_b_i1;
+            c3_perm[1] = c3_b_i2;
+            c3_perm[2] = c3_b_i3;
+            c3_perm[3] = c3_b_i4;
+          } else if (c3_x4[c3_b_i2 - 1] <= c3_x4[c3_b_i4 - 1]) {
+            c3_perm[0] = c3_b_i1;
+            c3_perm[1] = c3_b_i3;
+            c3_perm[2] = c3_b_i2;
+            c3_perm[3] = c3_b_i4;
           } else {
-            c3_perm[0] = c3_b_i3;
-            c3_perm[1] = c3_b_i4;
-            c3_perm[2] = c3_b_i1;
+            c3_perm[0] = c3_b_i1;
+            c3_perm[1] = c3_b_i3;
+            c3_perm[2] = c3_b_i4;
             c3_perm[3] = c3_b_i2;
           }
-
-          c3_idx_data[c3_quartetOffset - 3] = c3_idx4[c3_perm[0] - 1];
-          c3_idx_data[c3_quartetOffset - 2] = c3_idx4[c3_perm[1] - 1];
-          c3_idx_data[c3_quartetOffset - 1] = c3_idx4[c3_perm[2] - 1];
-          c3_idx_data[c3_quartetOffset] = c3_idx4[c3_perm[3] - 1];
-          c3_c_x_data[c3_quartetOffset - 3] = c3_x4[c3_perm[0] - 1];
-          c3_c_x_data[c3_quartetOffset - 2] = c3_x4[c3_perm[1] - 1];
-          c3_c_x_data[c3_quartetOffset - 1] = c3_x4[c3_perm[2] - 1];
-          c3_c_x_data[c3_quartetOffset] = c3_x4[c3_perm[3] - 1];
-          c3_ib = 0;
+        } else if (c3_x4[c3_b_i1 - 1] <= c3_x4[c3_b_i4 - 1]) {
+          if (c3_x4[c3_b_i2 - 1] <= c3_x4[c3_b_i4 - 1]) {
+            c3_perm[0] = c3_b_i3;
+            c3_perm[1] = c3_b_i1;
+            c3_perm[2] = c3_b_i2;
+            c3_perm[3] = c3_b_i4;
+          } else {
+            c3_perm[0] = c3_b_i3;
+            c3_perm[1] = c3_b_i1;
+            c3_perm[2] = c3_b_i4;
+            c3_perm[3] = c3_b_i2;
+          }
+        } else {
+          c3_perm[0] = c3_b_i3;
+          c3_perm[1] = c3_b_i4;
+          c3_perm[2] = c3_b_i1;
+          c3_perm[3] = c3_b_i2;
         }
+
+        c3_idx_data[c3_quartetOffset - 3] = c3_idx4[c3_perm[0] - 1];
+        c3_idx_data[c3_quartetOffset - 2] = c3_idx4[c3_perm[1] - 1];
+        c3_idx_data[c3_quartetOffset - 1] = c3_idx4[c3_perm[2] - 1];
+        c3_idx_data[c3_quartetOffset] = c3_idx4[c3_perm[3] - 1];
+        c3_c_x_data[c3_quartetOffset - 3] = c3_x4[c3_perm[0] - 1];
+        c3_c_x_data[c3_quartetOffset - 2] = c3_x4[c3_perm[1] - 1];
+        c3_c_x_data[c3_quartetOffset - 1] = c3_x4[c3_perm[2] - 1];
+        c3_c_x_data[c3_quartetOffset] = c3_x4[c3_perm[3] - 1];
+        c3_ib = 0;
       }
     }
 
-    c3_wOffset = (c3_b_n - c3_nNaNs) - 1;
     if (c3_ib > 0) {
       c3_c_n = c3_ib;
       for (c3_i6 = 0; c3_i6 < 4; c3_i6++) {
@@ -8431,91 +5303,59 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
       }
 
       c3_c_st.site = &c3_nb_emlrtRSI;
-      c3_f_b = c3_ib;
-      c3_g_b = c3_f_b;
-      if (c3_g_b < 1) {
-        c3_c_overflow = false;
+      c3_c_b = c3_ib;
+      c3_e_b = c3_c_b;
+      if (c3_e_b < 1) {
+        c3_b_overflow = false;
       } else {
-        c3_c_overflow = (c3_g_b > 2147483646);
+        c3_b_overflow = (c3_e_b > 2147483646);
       }
 
-      if (c3_c_overflow) {
+      if (c3_b_overflow) {
         c3_d_st.site = &c3_u_emlrtRSI;
         c3_check_forloop_overflow_error(chartInstance, &c3_d_st);
       }
 
       c3_i7 = (uint8_T)c3_ib - 1;
-      for (c3_d_k = 0; c3_d_k <= c3_i7; c3_d_k++) {
-        c3_b_k = c3_d_k;
-        c3_idx_data[((c3_wOffset - c3_ib) + c3_b_k) + 1] =
-          c3_idx4[c3_perm[c3_b_k] - 1];
-        c3_c_x_data[((c3_wOffset - c3_ib) + c3_b_k) + 1] = c3_x4[c3_perm[c3_b_k]
-          - 1];
+      for (c3_c_k = 0; c3_c_k <= c3_i7; c3_c_k++) {
+        c3_b_k = c3_c_k;
+        c3_idx_data[(c3_b_n - c3_ib) + c3_b_k] = c3_idx4[c3_perm[c3_b_k] - 1];
+        c3_c_x_data[(c3_b_n - c3_ib) + c3_b_k] = c3_x4[c3_perm[c3_b_k] - 1];
       }
     }
 
-    c3_m = c3_nNaNs >> 1;
-    c3_c_st.site = &c3_ob_emlrtRSI;
-    c3_d_b = c3_m;
-    c3_e_b = c3_d_b;
-    if (c3_e_b < 1) {
-      c3_b_overflow = false;
-    } else {
-      c3_b_overflow = (c3_e_b > 2147483646);
-    }
-
-    if (c3_b_overflow) {
-      c3_d_st.site = &c3_u_emlrtRSI;
-      c3_check_forloop_overflow_error(chartInstance, &c3_d_st);
-    }
-
-    for (c3_c_k = 0; c3_c_k < c3_m; c3_c_k++) {
-      c3_b_k = c3_c_k + 1;
-      c3_itmp = c3_idx_data[c3_wOffset + c3_b_k];
-      c3_idx_data[c3_wOffset + c3_b_k] = c3_idx_data[c3_b_n - c3_b_k];
-      c3_idx_data[c3_b_n - c3_b_k] = c3_itmp;
-      c3_c_x_data[c3_wOffset + c3_b_k] = chartInstance->c3_xwork_data[c3_b_n -
-        c3_b_k];
-      c3_c_x_data[c3_b_n - c3_b_k] = chartInstance->c3_xwork_data[c3_wOffset +
-        c3_b_k];
-    }
-
-    if ((c3_nNaNs & 1) != 0) {
-      c3_c_x_data[(c3_wOffset + c3_m) + 1] = chartInstance->c3_xwork_data
-        [(c3_wOffset + c3_m) + 1];
-    }
-
-    c3_nNonNaN = c3_n - c3_nNaNs;
+    c3_c_st.site = &c3_mb_emlrtRSI;
     c3_preSortLevel = 2;
-    if (c3_nNonNaN > 1) {
+    if (c3_n > 1) {
       if (c3_n >= 256) {
-        c3_nBlocks = c3_nNonNaN >> 8;
+        c3_nBlocks = c3_n >> 8;
         if (c3_nBlocks > 0) {
-          c3_b_st.site = &c3_ib_emlrtRSI;
-          c3_h_b = c3_nBlocks;
-          c3_i_b = c3_h_b;
-          if (c3_i_b < 1) {
-            c3_d_overflow = false;
+          c3_b_st.site = &c3_kb_emlrtRSI;
+          c3_d_b = c3_nBlocks;
+          c3_f_b = c3_d_b;
+          if (c3_f_b < 1) {
+            c3_c_overflow = false;
           } else {
-            c3_d_overflow = (c3_i_b > 2147483646);
+            c3_c_overflow = (c3_f_b > 2147483646);
           }
 
-          if (c3_d_overflow) {
+          if (c3_c_overflow) {
             c3_c_st.site = &c3_u_emlrtRSI;
             c3_check_forloop_overflow_error(chartInstance, &c3_c_st);
           }
 
-          for (c3_j_b = 0; c3_j_b < c3_nBlocks; c3_j_b++) {
-            c3_k_b = c3_j_b;
+          c3_i8 = (uint8_T)c3_nBlocks - 1;
+          for (c3_g_b = 0; c3_g_b <= c3_i8; c3_g_b++) {
+            c3_h_b = c3_g_b;
             c3_b_st.site = &c3_jb_emlrtRSI;
             c3_b_merge_pow2_block(chartInstance, &c3_b_st, c3_idx_data,
-                                  c3_c_x_data, c3_k_b << 8);
+                                  c3_c_x_data, c3_h_b << 8);
           }
 
           c3_tailOffset = c3_nBlocks << 8;
-          c3_nLastBlock = c3_nNonNaN - c3_tailOffset;
+          c3_nLastBlock = c3_n - c3_tailOffset;
           if (c3_nLastBlock > 0) {
-            c3_b_st.site = &c3_kb_emlrtRSI;
+            c3_b_st.site = &c3_ib_emlrtRSI;
             c3_b_merge_block(chartInstance, &c3_b_st, c3_idx_data, c3_c_x_data,
                              c3_tailOffset, c3_nLastBlock, 2,
                              chartInstance->c3_iwork_data,
@@ -8526,9 +5366,9 @@ static void c3_b_sortIdx(SFc3_flightControlSystemInstanceStruct *chartInstance,
         }
       }
 
-      c3_b_st.site = &c3_lb_emlrtRSI;
+      c3_b_st.site = &c3_hb_emlrtRSI;
       c3_b_merge_block(chartInstance, &c3_b_st, c3_idx_data, c3_c_x_data, 0,
-                       c3_nNonNaN, c3_preSortLevel, chartInstance->c3_iwork_data,
+                       c3_n, c3_preSortLevel, chartInstance->c3_iwork_data,
                        chartInstance->c3_xwork_data);
     }
   }
@@ -8679,6 +5519,7 @@ static void c3_b_merge_block(SFc3_flightControlSystemInstanceStruct
   int32_T c3_bLen2;
   int32_T c3_b_b;
   int32_T c3_b_k;
+  int32_T c3_i;
   int32_T c3_k;
   int32_T c3_nBlocks;
   int32_T c3_nPairs;
@@ -8720,7 +5561,8 @@ static void c3_b_merge_block(SFc3_flightControlSystemInstanceStruct
       c3_check_forloop_overflow_error(chartInstance, &c3_b_st);
     }
 
-    for (c3_k = 0; c3_k < c3_nPairs; c3_k++) {
+    c3_i = (uint16_T)c3_nPairs - 1;
+    for (c3_k = 0; c3_k <= c3_i; c3_k++) {
       c3_b_k = c3_k;
       c3_st.site = &c3_ub_emlrtRSI;
       c3_b_merge(chartInstance, &c3_st, c3_idx_data, c3_c_x_data, c3_offset +
@@ -8838,193 +5680,6 @@ static void c3_b_merge(SFc3_flightControlSystemInstanceStruct *chartInstance,
       }
     } while (c3_exitg1 == 0);
   }
-}
-
-static void c3_b_genrand_uint32_vector(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, uint32_T c3_mt[625], uint32_T c3_b_u[2])
-{
-  real_T c3_b_j;
-  real_T c3_c_kk;
-  int32_T c3_b_kk;
-  int32_T c3_j;
-  int32_T c3_kk;
-  uint32_T c3_b_y;
-  uint32_T c3_c_y;
-  uint32_T c3_d_y;
-  uint32_T c3_e_y;
-  uint32_T c3_f_y;
-  uint32_T c3_g_y;
-  uint32_T c3_h_y;
-  uint32_T c3_mti;
-  (void)chartInstance;
-  for (c3_j = 0; c3_j < 2; c3_j++) {
-    c3_b_j = (real_T)c3_j + 1.0;
-    c3_mti = c3_mt[624] + 1U;
-    if ((real_T)c3_mti >= 625.0) {
-      for (c3_kk = 0; c3_kk < 227; c3_kk++) {
-        c3_c_kk = (real_T)c3_kk + 1.0;
-        c3_b_y = (c3_mt[(int32_T)c3_c_kk - 1] & 2147483648U) | (c3_mt[(int32_T)
-          (c3_c_kk + 1.0) - 1] & 2147483647U);
-        c3_c_y = c3_b_y;
-        c3_e_y = c3_c_y;
-        if ((c3_e_y & 1U) == 0U) {
-          c3_e_y >>= 1U;
-        } else {
-          c3_e_y = c3_e_y >> 1U ^ 2567483615U;
-        }
-
-        c3_mt[(int32_T)c3_c_kk - 1] = c3_mt[(int32_T)(c3_c_kk + 397.0) - 1] ^
-          c3_e_y;
-      }
-
-      for (c3_b_kk = 0; c3_b_kk < 396; c3_b_kk++) {
-        c3_c_kk = (real_T)c3_b_kk + 228.0;
-        c3_b_y = (c3_mt[(int32_T)c3_c_kk - 1] & 2147483648U) | (c3_mt[(int32_T)
-          (c3_c_kk + 1.0) - 1] & 2147483647U);
-        c3_g_y = c3_b_y;
-        c3_h_y = c3_g_y;
-        if ((c3_h_y & 1U) == 0U) {
-          c3_h_y >>= 1U;
-        } else {
-          c3_h_y = c3_h_y >> 1U ^ 2567483615U;
-        }
-
-        c3_mt[(int32_T)c3_c_kk - 1] = c3_mt[(int32_T)((c3_c_kk + 1.0) - 228.0) -
-          1] ^ c3_h_y;
-      }
-
-      c3_b_y = (c3_mt[623] & 2147483648U) | (c3_mt[0] & 2147483647U);
-      c3_d_y = c3_b_y;
-      c3_f_y = c3_d_y;
-      if ((c3_f_y & 1U) == 0U) {
-        c3_f_y >>= 1U;
-      } else {
-        c3_f_y = c3_f_y >> 1U ^ 2567483615U;
-      }
-
-      c3_mt[623] = c3_mt[396] ^ c3_f_y;
-      c3_mti = 1U;
-    }
-
-    c3_b_y = c3_mt[(int32_T)c3_mti - 1];
-    c3_mt[624] = c3_mti;
-    c3_b_y ^= c3_b_y >> 11U;
-    c3_b_y ^= c3_b_y << 7U & 2636928640U;
-    c3_b_y ^= c3_b_y << 15U & 4022730752U;
-    c3_b_y ^= c3_b_y >> 18U;
-    c3_b_u[(int32_T)c3_b_j - 1] = c3_b_y;
-  }
-}
-
-static real_T c3_b_genrandu(SFc3_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c3_sp, uint32_T c3_mt[625])
-{
-  static char_T c3_b_cv[37] = { 'C', 'o', 'd', 'e', 'r', ':', 'M', 'A', 'T', 'L',
-    'A', 'B', ':', 'r', 'a', 'n', 'd', '_', 'i', 'n', 'v', 'a', 'l', 'i', 'd',
-    'T', 'w', 'i', 's', 't', 'e', 'r', 'S', 't', 'a', 't', 'e' };
-
-  const mxArray *c3_b_y = NULL;
-  const mxArray *c3_c_y = NULL;
-  real_T c3_r;
-  int32_T c3_b_a;
-  int32_T c3_exitg1;
-  int32_T c3_i;
-  int32_T c3_k;
-  uint32_T c3_b_mt[625];
-  uint32_T c3_b_u[2];
-  boolean_T c3_b_isvalid;
-  boolean_T c3_exitg2;
-  boolean_T c3_isvalid;
-
-  /* ========================= COPYRIGHT NOTICE ============================ */
-  /*  This is a uniform (0,1) pseudorandom number generator based on:        */
-  /*                                                                         */
-  /*  A C-program for MT19937, with initialization improved 2002/1/26.       */
-  /*  Coded by Takuji Nishimura and Makoto Matsumoto.                        */
-  /*                                                                         */
-  /*  Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura,      */
-  /*  All rights reserved.                                                   */
-  /*                                                                         */
-  /*  Redistribution and use in source and binary forms, with or without     */
-  /*  modification, are permitted provided that the following conditions     */
-  /*  are met:                                                               */
-  /*                                                                         */
-  /*    1. Redistributions of source code must retain the above copyright    */
-  /*       notice, this list of conditions and the following disclaimer.     */
-  /*                                                                         */
-  /*    2. Redistributions in binary form must reproduce the above copyright */
-  /*       notice, this list of conditions and the following disclaimer      */
-  /*       in the documentation and/or other materials provided with the     */
-  /*       distribution.                                                     */
-  /*                                                                         */
-  /*    3. The names of its contributors may not be used to endorse or       */
-  /*       promote products derived from this software without specific      */
-  /*       prior written permission.                                         */
-  /*                                                                         */
-  /*  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS    */
-  /*  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT      */
-  /*  LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR  */
-  /*  A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT  */
-  /*  OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,  */
-  /*  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT       */
-  /*  LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,  */
-  /*  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY  */
-  /*  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT    */
-  /*  (INCLUDING  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE */
-  /*  OF THIS  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  */
-  /*                                                                         */
-  /* =============================   END   ================================= */
-  do {
-    c3_exitg1 = 0;
-    c3_b_genrand_uint32_vector(chartInstance, c3_mt, c3_b_u);
-    c3_b_u[0] >>= 5U;
-    c3_b_u[1] >>= 6U;
-    c3_r = 1.1102230246251565E-16 * ((real_T)c3_b_u[0] * 6.7108864E+7 + (real_T)
-      c3_b_u[1]);
-    if (c3_r == 0.0) {
-      for (c3_i = 0; c3_i < 625; c3_i++) {
-        c3_b_mt[c3_i] = c3_mt[c3_i];
-      }
-
-      if (((real_T)c3_b_mt[624] >= 1.0) && ((real_T)c3_b_mt[624] < 625.0)) {
-        c3_isvalid = true;
-      } else {
-        c3_isvalid = false;
-      }
-
-      c3_b_isvalid = c3_isvalid;
-      if (c3_isvalid) {
-        c3_b_isvalid = false;
-        c3_k = 0;
-        c3_exitg2 = false;
-        while ((!c3_exitg2) && (c3_k + 1 < 625)) {
-          if ((real_T)c3_b_mt[c3_k] == 0.0) {
-            c3_b_a = c3_k + 1;
-            c3_k = c3_b_a;
-          } else {
-            c3_b_isvalid = true;
-            c3_exitg2 = true;
-          }
-        }
-      }
-
-      if (!c3_b_isvalid) {
-        c3_b_y = NULL;
-        sf_mex_assign(&c3_b_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1,
-          37), false);
-        c3_c_y = NULL;
-        sf_mex_assign(&c3_c_y, sf_mex_create("y", c3_b_cv, 10, 0U, 1U, 0U, 2, 1,
-          37), false);
-        sf_mex_call(c3_sp, &c3_f_emlrtMCI, "error", 0U, 2U, 14, c3_b_y, 14,
-                    sf_mex_call(c3_sp, NULL, "getString", 1U, 1U, 14,
-          sf_mex_call(c3_sp, NULL, "message", 1U, 1U, 14, c3_c_y)));
-      }
-    } else {
-      c3_exitg1 = 1;
-    }
-  } while (c3_exitg1 == 0);
-
-  return c3_r;
 }
 
 static void c3_d_sort(SFc3_flightControlSystemInstanceStruct *chartInstance,
@@ -9306,10 +5961,10 @@ static void init_simulink_io_address(SFc3_flightControlSystemInstanceStruct
 /* SFunction Glue Code */
 void sf_c3_flightControlSystem_get_check_sum(mxArray *plhs[])
 {
-  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(3611652749U);
-  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(4147288954U);
-  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(998346990U);
-  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(697916205U);
+  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(2874281358U);
+  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(3502618667U);
+  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(742364018U);
+  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(1085781529U);
 }
 
 mxArray *sf_c3_flightControlSystem_third_party_uses_info(void)
@@ -9351,17 +6006,12 @@ static const mxArray *sf_get_sim_state_info_c3_flightControlSystem(void)
 
   mxArray *mxInfo = mxCreateStructMatrix(1, 1, 2, infoFields);
   mxArray *mxVarInfo = sf_mex_decode(
-    "eNrtWE1r2zAYltM0+zh0OYyewxg71mkDa3ua08IgsMKaji2jB1eRnVggS8aWS3LLpdDjjjvuZ+z"
-    "Y4479Kf0Js2ylH8LMY9EaN41AiFfmfePnw6/lAKNzAJKxlsxf6wDUkvVpMisgG6syNpL5Qq7Zfv"
-    "V6v5FMPg5csR+FqOMkK4V+GsN41KEDltbfATf1azn1jVv1n8n9bFy9my2/Yan51Zz81Vv5dRk7O"
-    "OI9yc+Up/nheDUTjq+lwfEyxdEswFG9g6MKWMx5Oe7/9V/p8ETRQcQBw5RHo5Lo8GZGHGNNOOrW"
-    "bPnZ71sFOJ4rOESMICE2YjHlN3UuwZ/7oKH0wYqMRQ4BGAQ595OHp6LgqV+jObTSZXKkhZey6FP"
-    "0vK/c0WcFeO1RSfQ4zvS4OH5Ueqj913uPh6XQ4+Kz1OPLQulR1IdrSv8Sse9yjzlZfs+Ysy69Sa"
-    "bL+cTS8V47L+DjUOFDxGY7CAhGkGNGI/Og/elDe8/ubjW3WnADBoHJGSN9NjJdn5gE900fcgL7Z"
-    "gipM4ipGYT4FHJXXLbF3oa/9IdGf5xJf5zdiz+6Ch9d/f6gU4M8BH/kfRdEPIEj8715+2PiZP5o"
-    "uFr88b2AD6TwgfT7w/bRcPPtTnPbTokexEQaZukXHecA6ZeT+/GLo/Dh/A+/8M3d3dY2DBXDLP2"
-    "iwS8/pF+sxekvkRe2EKPDRewvcz+vfJPnlZ/L80rR/6n/4o+PBXw0FD5EjCMbIo5PXRu17AHBQ4"
-    "/vM8pDRo7GEXf96ffcb8jUXiw="
+    "eNpjYPT0ZQACPiC+wcnAwAakOYCYiQECWKF8RiDmhNIQcRa4uAIQl1QWpILEi4uSPVOAdF5iLpi"
+    "fWFrhmZeWDzbfggFhPhsW8xmRzOeEikPAB3vK9Cs4oOtnwaKfFUm/AJSfkllcEgENH1g4DZw/lC"
+    "jyR+Sg8YcI2B8GBPzBguIPFob80pKSweF+FaLigR0tHkD8gvzMvJLiikESD2oU+qOSSv4QcKBMP"
+    "8R+BwL+4ELzB4ifnJiTE5+cX5pXgjDnAgP+cpARrRxkgvJBenIYMhkKsLgHm3+Y0PwjAPdNoAOY"
+    "agimSrgMlvghlN+ZUeKHmSHDsWKQxEc0JD4ORI+o+EAvfzPcMtMHRXwcCIPGR/ggiQ8FqrgjgEB"
+    "8KKCVXyB+ZnF8YnJJZllqfLJxfFpOZnpGiXN+XklRfk5wZXFJai7MfwByJVFA"
     );
   mxArray *mxChecksum = mxCreateDoubleMatrix(1, 4, mxREAL);
   sf_c3_flightControlSystem_get_check_sum(&mxChecksum);
@@ -9372,7 +6022,7 @@ static const mxArray *sf_get_sim_state_info_c3_flightControlSystem(void)
 
 static const char* sf_get_instance_specialization(void)
 {
-  return "sfFMygvqWRF83L4CiqzxiMG";
+  return "sWeVdZqvsYIavMLVYl7L9FE";
 }
 
 static void sf_opaque_initialize_c3_flightControlSystem(void *chartInstanceVar)
@@ -9476,46 +6126,37 @@ static void mdlProcessParameters_c3_flightControlSystem(SimStruct *S)
 const char* sf_c3_flightControlSystem_get_post_codegen_info(void)
 {
   int i;
-  const char* encStrCodegen [34] = {
-    "eNrtWz1s20YUphLHqdPmZyiSpUCNIigKtLWSuM0PUDS2ZSlRISWOpThpgkI5kyfx4OMdfXeUpaC",
-    "DlwDZmrFjlgJdu2VLxqJTxo6dOnfs2HckZTO0YpKSYquJCcjikfzu/X3v3R11NnLlqgHHCficu2",
-    "gYk/D9HnwOGcFxJGznIp/g+oTxTdj+8X3DMLmFW5jVvGaTdIxsB/OcJSSQI43sB0MOXsaSU08Rz",
-    "sqsydNjCWtigZkJHbhcqExyJXE8SthayWOmlizv2MS0azb3qLUAHSLrJqPd18l1PbUEEheJwKYq",
-    "YWwpW3CvZZcoau3uBaE2CjY216TnZPaVxKrmudpUWfWoIi7FxQ42y0wqBF6QCfbWFFK4oDrZnKz",
-    "tlbUemjsuJYil97WNZA27wA6Fb7sW/L3pKfBeKqxpI6EWsI3aWFbImi+dM5xKOpHw9CphSHFBEC",
-    "06tKB7S2nvEgUbq5ASNGuMwN4FgdGaywlTGROiVgI/FxlapXgRr3qtjHJreN3T2bBC8AYW2eLbL",
-    "PA2FqiFb7JsOvsxKnZ8Um7lUkqsIg5eQWLeBO5KbGWrG5B0soaAjrgO3WTCYt/FZVkXpA3cyFrr",
-    "yjr9B6p1nhOwXw6E9eUW2zgzr7bklkxWQJTKbNg6dyu4jakvfxEpNAA2kJ8BLCWx6hzYoatNxor",
-    "lMQKZEGILnFkkPSvbMZQ/sN2AQSoFnDg6DbAFbt5SfaujpDzypOJOAUrOYqWSUt5ObJkpLJrIxK",
-    "nHGIGIxKCwz6uMci0idSIBGrykfCtT9xDk4EBQQzY9trjBxRr4OOtgtu0rnQnZ0NhqQWFW2C9yR",
-    "WD3CqJeSp0d2YL8AXrcllBls8kFrM6fgcAmMm1s6ZGTUFyFOgsdpA2x1EP+PFjbJqq7iKUpiJs2",
-    "kzwo6DDoai/Vuy6+zdYY32AlwZ1aOPPahVcYQ9VAghHWWoAhXHRLoHw6rQVer/vVPeskR/sZKYp",
-    "WNTeuYQajobZVzxqQCVlVZDBFBoWGwdbIQ5jEMEmkgoG6Gwz1wbin5+/Xje35+0Sf+fvpyPz9VN",
-    "g2ZxtNSlq2LjRKcFrrQt9OuB6I9PdBivVAT4+nR3dfRxyK4Y6H7Z+0PqAG7qjtyf12VLkDsWRK0",
-    "wHCBFP+dmh7kwSDeC3auKFbTilya6uhb+lzv8jVoMgJO0IOGm349mwm+LUS86tu3y9X7hZ/OBuE",
-    "VXCuzuYV53SVd/LYoXlKVvPBvbzLaRcKUp7o2uuen3FyNSUg2HVexcrmVnmxp8eDBD2+iOnxhRG",
-    "sy8SM3zdDNDgBiZCY4XkgROpE21oH7iKnd0Tl9HBPEvRrxHCN0E83+vtJAv2xlfctCP9+Hn717A",
-    "nPAoPyOwyacXy9Lkf0OpnA4+PhdfePqdWeXYPgo/zZb/wgdaFaXvp6BZNL965ULyybXNxyzpfF9",
-    "aC/zyL95fr0F+XHIM93EvS9HtP3+pD5Fp419JTgIM8O8uxdybNBcVHeTh3a3U+H4CwX4uYiuOMx",
-    "ORMx3GToo7/+fnnm2eF7V7vfPf/ltyfPfx1GfudMtvebJ8L2R733FFurovaOhUOa+J+Jxf+MvxY",
-    "pVbut9vqd5dLl2cpXBbL+sEOq1/z+fj+9u74nY/r2rk/rdyN6lqT7F2bZikylkBe8v4vzfTLBH1",
-    "Ov8P2fq8Php+fi+H7+OhLz15Fgzajuxvi7f3Z8MpQd34+NHR/OJY1HuUiOBnZMGNxTajz0P5sqD",
-    "kdjcdDt4D1rZ0zi8OmQdnRHZMepueHwO+t9PzuOxew45r9voLRhcq/3kl7389LIVrd760uNoQYx",
-    "3D76TCasS6cicy7DuDXnf23WRuKXcYlPUr4ffiU+hw17vjMm8bgfxOPF/XcqHvH6a5dIayzi8WI",
-    "ljMedtyoeSXV4Mla/dNvxV0UB/m5un+NydzOIy+PNuVGMa48T/HEr5g/dzs+7LiWm/z5T5qvz9c",
-    "r8QmP5wrkLs2gGue7rFukCMUsv0l1B2nrJCbcb+tqMc8CPEfLjUciPR3vCj+WYP5ZHzw/WI8j/g",
-    "R/91gX+byYh3t5vfmxaAT+m8Uj48XOCP8yYP8zR86PhmK3zFy+fu9TwHd30aEiYA76MYh4Q8uXB",
-    "3vDFivnDehN8UeevXJm9hESMMAd8GQFfnoZ8mXt76ou0xazJWettrC/7Pl95Es5Xnh3MV5Lepw7",
-    "Cj6UEf0zH/DHt7/1rIL3DAzf67yQ4MYLfDbLijAPcWOBy76B9afbJDIo7Ygy3L2evcMPa96Z/9x",
-    "y35wfdBzBudsS/d4u/sSP+42vXnxnfr34ctr81evuQCzahVp+dkOHtCkbNfnf3yL4nCc/nYs/v1",
-    "f6YrHb8mzFOvd/jizpO4T/G3JudB/26kgSbAHuXl4T+/4atWwIj2X8f636MW8PM72/XS19eHmL8",
-    "+w9zBFgI",
+  const char* encStrCodegen [25] = {
+    "eNrtWc9u40QYn3TbQgtUPSC4IFEQQkjAaqU9sEgI2qYJREppwWlLdw9lan+JRx3PuDPjNEEcOO6",
+    "RJ+ABkHgDDvsInNBK3LmtxJEj39hONuuGxpMUNmix5NgT+zff/z8zJpXGLsFjDc9f3iBkGa/P47",
+    "lAsmMpH1dGzuz/RfJRPv72BUJ8GUAHhJe026xH3A6RRPtU0UgT90PQCL4ELXlimBQN0ZblsUy0Q",
+    "YHwcYJYKuNEV7Mo4Uyc1RPhW8r6KGR+6IUy4cE2TkiDPcH7f0c3Tsw+UtxhCnxTBwhMqGTSCeuc",
+    "dq7WgjIX1RD8M51EzrrSYLwktqLq3YQbFnOo9cBvCG0oakFPkNcz1EDV9NyUbOXV3gAto5gzKsr",
+    "rOqTagxi9w8BBHODvXmJQe6WwfkiV2YaQdkE32VlKXQooRZ1pfPuUCWqkYpTXIl61s5WUd5+jjL",
+    "sYEtzVRijvtgJ6FksmjGNAeHXUc03QUw47cJp0HOl6cJ7YaDhkcAHKzb7tquyCoh3YE248pzaq9",
+    "VKnHMZSSaxhERxSteWj72oI3PIGBp32KLojtHAaJyykKm7olmJd9A3XXNew4T9VrkuizPv1VNiU",
+    "bq0Lzn41pFv3RZVyrt2wLRk3oQs8pb9DDZ0Cm9F3AGvNgpZE77DZxjFjJYJhJOTYqhQBK++V3QI",
+    "qLWyfY5EqAWeRDQMIUM1D1ocTTYqjRBsZVTHl7DSbJeldxjaEAdWmPpSuMYoyDchw6leOdAOmbS",
+    "AhGrVkUilLz5DF4FRQotuJ2LmQ6gx17FrMHuvKRoIbGoIOJmYDaZKroXcfUp6U5DnSHYwfdI8Dj",
+    "VnWjS5ibfxMBfapH0JgKyfjsIt5Ficoa2JtS/4WSttlpr8D2lcsLhtJCSZ0LLpWS61+DAfiTMgL",
+    "UVcy8vLO6wq/AsCsQZVgorONJVz168h8Oa4VnLfS7O7a5Fg9U8PpqfWNT0FgNbSy2q6B+hhVNYE",
+    "tMjI0C9Zj32ATIzTTBgt1Pyv1Wd2z/ftn5HH/vjimf39lpH9fz8f+7ZM2Z53QJhqjJPf6OHeUzX",
+    "drZL4XS6wHBnxchSOXcGSIG1zfGcFXxtAlI9civZWFq/lcwLtKjtscwb1UoLNYwC3nOvvp3fs3f",
+    "3706w/yN3Hx4/Hvj2ahf3/Vbb21lo9fG/RNwyzdvZTIyvjDqwV/sGN9BIfB3fOuPm7Q7m7z8Jh/",
+    "0PywXkvne7hyNb8rBX4H/2/YXg2DOM0Jym8E+brNjmmSrSfs/HdG+F2eoI+VEX8i5I9PZsNvbBb",
+    "x4/S1VNDXUlbDzFcF/316crw5kxzHcyPHy5vFuBonx+ITciwSmRgzH/y/VcoOzxXsYMfZuq83J3",
+    "Z4e0Y5+tckx/rmbPjL+X6cHKsFOVbT/ofzE18mg02DdJ+MuOXthXxsMZwwEo/hZ5w8CwV51ofSf",
+    "LGZXr7zrkUv82KfSfF+4wn73CDhVm9O7HEvs8eDe8+UPYr5N6yzzlzY48Fhbo+jObHHxrXwsT/B",
+    "HhuF/LWR7s2dULsCg5Pxnf7aNfTRrjjyP24ucJVnUL4y69hpcUvkn1s3XyduVvlc1+f/9fevqoO",
+    "k8P76HMtRvE67TzNvcj107Ddez8cfD78TVEPGgzE7lfnjJtD2uKf/knzfT3i/Unj/6wl9wnsFf7",
+    "Vj+/1e3WR2/19Qnt3EklMD+f0umFAG2m7ITivHn452GuxP1ayd8g/Xd29vIX99zbLt3MHf+8p+f",
+    "xw+UkD1+H3mp1G3xvWPZfdlDlr19+/MUP/+AleyZdk=",
     ""
   };
 
-  static char newstr [2409] = "";
+  static char newstr [1769] = "";
   newstr[0] = '\0';
-  for (i = 0; i < 34; i++) {
+  for (i = 0; i < 25; i++) {
     strcat(newstr, encStrCodegen[i]);
   }
 
@@ -9526,10 +6167,10 @@ static void mdlSetWorkWidths_c3_flightControlSystem(SimStruct *S)
 {
   const char* newstr = sf_c3_flightControlSystem_get_post_codegen_info();
   sf_set_work_widths(S, newstr);
-  ssSetChecksum0(S,(399566560U));
-  ssSetChecksum1(S,(1062863800U));
-  ssSetChecksum2(S,(2780777081U));
-  ssSetChecksum3(S,(2831126705U));
+  ssSetChecksum0(S,(780676013U));
+  ssSetChecksum1(S,(2664885692U));
+  ssSetChecksum2(S,(2003753839U));
+  ssSetChecksum3(S,(3991296426U));
 }
 
 static void mdlRTW_c3_flightControlSystem(SimStruct *S)
