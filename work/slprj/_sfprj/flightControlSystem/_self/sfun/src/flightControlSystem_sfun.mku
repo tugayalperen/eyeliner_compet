@@ -3,7 +3,7 @@
 # Modify the following macros to reflect the tools you wish to use for
 # compiling and linking your code.
 #
-CC = /Applications/MATLAB_R2023a.app/bin/mex -R2018a
+CC = /home/fuda/Installed/MATLAB/R2023b/bin/mex -R2018a
 LD = $(CC)
  
 MODEL     = flightControlSystem
@@ -12,19 +12,19 @@ MODULE_SRCS   = c5_flightControlSystem.c half_type.c
 MODEL_SRC  = flightControlSystem_sfun.c
 MODEL_REG = flightControlSystem_sfun_registry.c
 MAKEFILE    = flightControlSystem_sfun.mku
-MATLAB_ROOT  = /Applications/MATLAB_R2023a.app/toolbox/stateflow/stateflow/../../..
+MATLAB_ROOT  = /home/fuda/Installed/MATLAB/R2023b/toolbox/stateflow/stateflow/../../..
 BUILDARGS   = 
 #------------------------------ Include/Lib Path ------------------------------
  
-USER_INCLUDES = -I"/Users/tugaykaraguzel/MATLAB/Projects/examples/tugay_minidrone_v0" -I"/Users/tugaykaraguzel/MATLAB/Projects/examples/tugay_minidrone_v0/controller" 
+USER_INCLUDES = -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects/eyeliner_compet" -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects/eyeliner_compet/controller" 
 AUX_INCLUDES = 
 MLSLSF_INCLUDES  = \
-    -I"/Applications/MATLAB_R2023a.app/extern/include" \
-    -I"/Applications/MATLAB_R2023a.app/simulink/include" \
-    -I"/Applications/MATLAB_R2023a.app/simulink/include/sf_runtime" \
-    -I"/Applications/MATLAB_R2023a.app/stateflow/c/mex/include" \
-    -I"/Applications/MATLAB_R2023a.app/rtw/c/src" \
-    -I"/Users/tugaykaraguzel/MATLAB/Projects/examples/tugay_minidrone_v0/work/slprj/_sfprj/flightControlSystem/_self/sfun/src" 
+    -I"/home/fuda/Installed/MATLAB/R2023b/extern/include" \
+    -I"/home/fuda/Installed/MATLAB/R2023b/simulink/include" \
+    -I"/home/fuda/Installed/MATLAB/R2023b/simulink/include/sf_runtime" \
+    -I"/home/fuda/Installed/MATLAB/R2023b/stateflow/c/mex/include" \
+    -I"/home/fuda/Installed/MATLAB/R2023b/rtw/c/src" \
+    -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects/eyeliner_compet/work/slprj/_sfprj/flightControlSystem/_self/sfun/src" 
 
 THIRD_PARTY_INCLUDES = 
 
@@ -41,7 +41,7 @@ CPP_REQ_DEFINES = -DMATLAB_MEX_FILE
 # cflags = $(cflags:W3=W4)
 CFLAGS = $(CPP_REQ_DEFINES) $(INCLUDE_PATH) CFLAGS="\$$CFLAGS $(CC_OPTS)"
  
-LDFLAGS = -Wl,-rpath,@loader_path
+LDFLAGS =  
 LINKLIBS = 
  
 AUXLDFLAGS = 
@@ -62,15 +62,15 @@ SFCLIB =
 AUX_LNK_OBJS = 
 USER_LIBS = 
 PARLIB = 
-  MAPCSF = /Applications/MATLAB_R2023a.app/tools/maci64/mapcsf
+  MAPCSF = /home/fuda/Installed/MATLAB/R2023b/tools/glnxa64/mapcsf
    # RUN_MAPCSF_ON_UNIX is defined only if MAPCSF exists on this platform.
    ifneq ($(wildcard $(MAPCSF)),) # run MAPCSF if it exists on this platform
-      RUN_MAPCSF_ON_UNIX =  /Applications/MATLAB_R2023a.app/tools/maci64/mapcsf $@
+      RUN_MAPCSF_ON_UNIX =  /home/fuda/Installed/MATLAB/R2023b/tools/glnxa64/mapcsf $@
    endif
  
 #--------------------------------- Rules --------------------------------------
  
-MEX_FILE_NAME = $(MODEL)_$(TARGET).mexmaci64
+MEX_FILE_NAME = $(MODEL)_$(TARGET).mexa64
  
  $(MEX_FILE_NAME): $(MAKEFILE) $(OBJS) $(SFCLIB) $(AUX_LNK_OBJS) $(USER_LIBS)
 	@echo ### Linking ...

@@ -1780,13 +1780,13 @@ typedef struct {
   real_T c5_call_count;
   boolean_T c5_call_count_not_empty;
   uint32_T c5_mlFcnLineNumber;
-  void *c5_fcnDataPtrs[38];
-  char_T *c5_dataNames[38];
+  void *c5_fcnDataPtrs[39];
+  const char_T *c5_dataNames[39];
   uint32_T c5_numFcnVars;
-  uint32_T c5_ssIds[38];
-  uint32_T c5_statuses[38];
-  void *c5_outMexFcns[38];
-  void *c5_inMexFcns[38];
+  uint32_T c5_ssIds[39];
+  uint32_T c5_statuses[39];
+  void *c5_outMexFcns[39];
+  void *c5_inMexFcns[39];
   real_T c5_y[57600];
   real_T c5_a[23936];
   real_T c5_b[21760];
@@ -1828,8 +1828,8 @@ typedef struct {
   real_T *c5_distY;
   real_T *c5_dom_x;
   real_T *c5_dom_y;
-  real_T (*c5_pointsx)[20];
-  real_T (*c5_pointsy)[20];
+  real_T (*c5_pointsx)[40];
+  real_T (*c5_pointsy)[40];
 } SFc5_flightControlSystemInstanceStruct;
 
 #endif                                 /* typedef_SFc5_flightControlSystemInstanceStruct */

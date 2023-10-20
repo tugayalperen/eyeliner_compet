@@ -33,22 +33,27 @@ real16_T getHalfFromBitfield(uint16_T a)
 /* Convert half to float */
 float halfToFloat(real16_T a)
 {
-  const float eExp = 5.192296858534828e+33f;/* 2^112 */
+  const uint32_T Exp = ((uint32_T)(a.bitPattern) & 0x7C00U) >> 10;
 
   /* polyspace +3 MISRA2012:D4.1 [Justified:Low] "(uint32_T)(~a.bitPattern)
      overflows. But standard 2's complement compilers give expected results for
      (uint32_T)(~a.bitPattern) & 0x7C00U" */
-  uint16_T aExpComp = (uint16_T)((uint32_T)(~a.bitPattern) & 0x7C00U);
-  uint32_T outSign = ((((uint32_T)a.bitPattern) & 0x8000U) << 16);
-  uint32_T outExpMant = ((((uint32_T)a.bitPattern) & 0x7FFFU) << 13);
+  const uint16_T ExpComp = (uint16_T)((uint32_T)(~a.bitPattern) & 0x7C00U);
+  const uint32_T OutSign = ((((uint32_T)a.bitPattern) & 0x8000U) << 16);
+  const uint32_T OutExpMant = ((((uint32_T)a.bitPattern) & 0x7FFFU) << 13);
+  const uint32_T Mant = ((((uint32_T)a.bitPattern) & 0x03FFU) << 13);
+  const uint32_T MantBits = getBitfieldFromFloat((float)(Mant));
+  const uint32_T LeadingZeros = MantBits >> 23;
   float ans;
-  if (aExpComp != 0U) {
-    /* Input is finite */
-    uint32_T out = (outSign | outExpMant);
-    ans = (getFloatFromBitfield(out) * eExp);
-  } else {
-    uint32_T out = (outSign | outExpMant | 0x7F800000U);
+  if (ExpComp == 0U) {
+    /* Input is non-finite */
+    const uint32_T out = (OutSign | OutExpMant | 0x7F800000U);
     ans = getFloatFromBitfield(out);
+  } else {
+    /* Input is finite */
+    ans = getFloatFromBitfield(OutSign | (Exp != 0U) * ((Exp + 112U) << 23 |
+      Mant) | (uint32_T)((Exp == 0U) & (Mant != 0U)) * ((LeadingZeros - 37U) <<
+      23 | ((Mant << (150U - LeadingZeros)) & 0x007FE000U)));
   }
 
   return ans;
@@ -62,7 +67,7 @@ real16_T floatToHalf(float a)
 
   /* Move exponent to the unit place so that it is easier to compute other exponent values */
   uint32_T aMantissa = (input & 0x007FFFFFU);
-  uint16_T outSign = (uint16_T)((input & 0x80000000U) >> 16);
+  uint16_T OutSign = (uint16_T)((input & 0x80000000U) >> 16);
   uint16_T outExponent;
   uint16_T outMantissa;
   real16_T out;
@@ -112,7 +117,7 @@ real16_T floatToHalf(float a)
     outExponent <<= 10;
   }
 
-  out.bitPattern = (outSign | outExponent | outMantissa);
+  out.bitPattern = (OutSign | outExponent | outMantissa);
   return out;
 }
 
@@ -130,7 +135,7 @@ real16_T doubleToHalf(double a)
   uint32_T aMantissaFirstChunk;
   uint32_T aMantissaSecondChunk;
   uint16_T aExponent;
-  uint16_T outSign;
+  uint16_T OutSign;
   uint16_T outExponent;
   uint16_T outMantissa;
   real16_T out;
@@ -148,7 +153,7 @@ real16_T doubleToHalf(double a)
   /* Move exponent to the unit place so that it is easier to compute other exponent values */
   aExponent = (uint16_T)((mostSignificantChunk & 0x7FF00000UL) >> (52-32));
   aMantissaFirstChunk = (mostSignificantChunk & 0x000FFFFFU);
-  outSign = (uint16_T)((mostSignificantChunk & 0x80000000UL) >> (48-32));
+  OutSign = (uint16_T)((mostSignificantChunk & 0x80000000UL) >> (48-32));
   if (aExponent == (uint16_T)(0x7FF00000UL >> (52-32))) {/* Inf or NaN input */
     outExponent = 0x7C00U;
     outMantissa = (aMantissaFirstChunk == 0 && aMantissaSecondChunk == 0) ? 0 :
@@ -199,6 +204,6 @@ real16_T doubleToHalf(double a)
     outExponent <<= 10;
   }
 
-  out.bitPattern = (outSign | outExponent | outMantissa);
+  out.bitPattern = (OutSign | outExponent | outMantissa);
   return out;
 }
