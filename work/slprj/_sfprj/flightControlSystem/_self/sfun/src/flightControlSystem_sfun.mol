@@ -10,6 +10,7 @@ half_type.o
 -lmwnhood
 -lmwippfilter
 -lmwipp
+-lmwordfilt2
 "-L/home/fuda/Installed/MATLAB/R2023b/bin/glnxa64" "-lmwsf_runtime"
 "-L/home/fuda/Installed/MATLAB/R2023b/bin/glnxa64" "-lfixedpoint"
 "-L/home/fuda/Installed/MATLAB/R2023b/bin/glnxa64" "-lut"
