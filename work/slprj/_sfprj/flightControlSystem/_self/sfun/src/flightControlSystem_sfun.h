@@ -36,6 +36,7 @@
 #include "libmwimfilter.h"
 #include "libmwippfilter.h"
 #include "libmwordfilt2.h"
+#include "libmwrgb2hsv_tbb.h"
 
 /* Forward Declarations */
 /* Type Definitions */

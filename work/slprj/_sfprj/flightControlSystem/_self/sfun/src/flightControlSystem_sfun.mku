@@ -8,7 +8,7 @@ LD = $(CC)
  
 MODEL     = flightControlSystem
 TARGET      = sfun
-MODULE_SRCS   = c5_flightControlSystem.c half_type.c
+MODULE_SRCS   = c1_flightControlSystem.c c5_flightControlSystem.c half_type.c
 MODEL_SRC  = flightControlSystem_sfun.c
 MODEL_REG = flightControlSystem_sfun_registry.c
 MAKEFILE    = flightControlSystem_sfun.mku
@@ -16,7 +16,7 @@ MATLAB_ROOT  = /home/fuda/Installed/MATLAB/R2023b/toolbox/stateflow/stateflow/..
 BUILDARGS   = 
 #------------------------------ Include/Lib Path ------------------------------
  
-USER_INCLUDES = -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects/eyeliner_compet" -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects/eyeliner_compet/controller" 
+USER_INCLUDES = -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects" -I"/home/fuda/Documents/MATLAB/SupportPackages/R2023b/examples/parrot/projects/eyeliner_compet/controller" 
 AUX_INCLUDES = 
 MLSLSF_INCLUDES  = \
     -I"/home/fuda/Installed/MATLAB/R2023b/extern/include" \

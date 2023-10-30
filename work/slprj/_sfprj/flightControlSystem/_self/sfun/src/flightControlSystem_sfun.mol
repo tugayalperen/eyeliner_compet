@@ -1,4 +1,5 @@
 flightControlSystem_sfun.o
+c1_flightControlSystem.o
 c5_flightControlSystem.o
 flightControlSystem_sfun_registry.o
 half_type.o
@@ -11,6 +12,7 @@ half_type.o
 -lmwippfilter
 -lmwipp
 -lmwordfilt2
+-lmwrgb2hsv_tbb
 "-L/home/fuda/Installed/MATLAB/R2023b/bin/glnxa64" "-lmwsf_runtime"
 "-L/home/fuda/Installed/MATLAB/R2023b/bin/glnxa64" "-lfixedpoint"
 "-L/home/fuda/Installed/MATLAB/R2023b/bin/glnxa64" "-lut"
